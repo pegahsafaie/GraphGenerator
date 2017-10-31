@@ -1,0 +1,129 @@
+{
+  "profileNames": [
+    "Richard Cœur de Lion",
+    "William",
+    "Saxon",
+    "Norman",
+    "John",
+    "Robert",
+    "Robin",
+    "Will Stutely",
+    "John Little"
+  ],
+  "chapters": [
+    {
+      "chapterIndex": 1,
+      "profiles": {
+        "Norman": {
+          "nobles": 2,
+          "gentle": 4
+        },
+        "Robert": {
+          "gentle": 1,
+          "favourite": 1
+        },
+        "Saxon": {
+          "nobles": 1
+        },
+        "Richard Cœur de Lion": {
+          "ashamed": 1,
+          "jealous": 5,
+          "King": 2,
+          "king": 4,
+          "ready": 4,
+          "fierce": 1,
+          "gentle": 1,
+          "terrible": 2
+        },
+        "John": {
+          "Prince": 4,
+          "pain": 4,
+          "nice man": 1,
+          "different": 1,
+          "heart": 2,
+          "full": 1
+        },
+        "William": {},
+        "Robin": {
+          "poor": 1
+        }
+      }
+    },
+    {
+      "chapterIndex": 2,
+      "profiles": {
+        "John": {
+          "Little": 5,
+          "best": 1,
+          "tall": 1
+        },
+        "Robin": {
+          "Next": 1,
+          "bright": 3,
+          "sunshiny": 3,
+          "lonely": 1,
+          "Hood": 2
+        }
+      }
+    },
+    {
+      "chapterIndex": 3,
+      "profiles": {
+        "Robin": {
+          "afraid coward": 2,
+          "least": 1,
+          "glad": 1,
+          "man": 3,
+          "angry": 1,
+          "bold": 1,
+          "accustomed": 2,
+          "fitting": 3,
+          "Hood": 1,
+          "fond": 1
+        }
+      }
+    },
+    {
+      "chapterIndex": 4,
+      "profiles": {
+        "John Little": {
+          "hungry": 1,
+          "little": 1
+        },
+        "Robin": {
+          "Master": 1,
+          "last": 1,
+          "heels": 1,
+          "bold": 1,
+          "tall": 2,
+          "astonished": 4
+        },
+        "Will Stutely": {
+          "laughing": 1
+        }
+      }
+    },
+    {
+      "chapterIndex": 5,
+      "profiles": {}
+    },
+    {
+      "chapterIndex": 6,
+      "profiles": {
+        "John": {
+          "poor": 1,
+          "wet": 1,
+          "Little": 3,
+          "good fighter": 1,
+          "next Robin": 1
+        },
+        "Robin": {
+          "next": 1,
+          "last": 1,
+          "wet": 3,
+          "delighted": 2
+        }
+      }
+    }
+  ]
+}

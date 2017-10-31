@@ -1,0 +1,862 @@
+[
+  {
+    "name": "Trump",
+    "verbs": {
+      "deal": 1,
+      "be": 2,
+      "tell": 2,
+      "do": 2,
+      "refuse": 1,
+      "not say": 1,
+      "leave": 1,
+      "not talk": 1,
+      "speak": 2,
+      "end": 1,
+      "share": 1,
+      "plan": 1,
+      "write": 2,
+      "make": 1,
+      "sit": 1,
+      "give": 1,
+      "think": 1,
+      "not fulfil": 1,
+      "lose": 1,
+      "want": 2,
+      "say": 4,
+      "develop": 1,
+      "appear": 1,
+      "omit": 1,
+      "not do": 1,
+      "become": 1
+    },
+    "adjs": {
+      "okay": 1,
+      "unbelievable": 1,
+      "a very good person": 2,
+      "everyone 's -LSB- garbled -RSB-": 2,
+      "bad": 1,
+      "not actually": 1,
+      "many": 1,
+      "tough": 1,
+      "great": 1
+    },
+    "positiveSentimentCount": 23,
+    "negativeSentimentCount": 103,
+    "veryPositiveSentimentCount": 0,
+    "veryNegativeSentimentCount": 1,
+    "quote": null,
+    "personality": null,
+    "frequency": 136,
+    "locations": [
+      "Oval Office",
+      "Britain",
+      "Eiffel Tower",
+      "Europe",
+      "Russia",
+      "North Korea",
+      "China",
+      "Rose Garden",
+      "New Jersey",
+      "California",
+      "Fifth Avenue"
+    ],
+    "temporals": [
+      "Wednesday",
+      "2010",
+      "today",
+      "Monday",
+      "now",
+      "the next day",
+      "years ago",
+      "weekend",
+      "Now",
+      "The day before",
+      "night"
+    ],
+    "roles": []
+  },
+  {
+    "name": "Peter Baker",
+    "verbs": {},
+    "adjs": {},
+    "positiveSentimentCount": 0,
+    "negativeSentimentCount": 1,
+    "veryPositiveSentimentCount": 0,
+    "veryNegativeSentimentCount": 0,
+    "quote": null,
+    "personality": null,
+    "frequency": 45,
+    "locations": [
+      "Oval Office"
+    ],
+    "temporals": [
+      "Wednesday"
+    ],
+    "roles": []
+  },
+  {
+    "name": "Michael S. Schmidth",
+    "verbs": {},
+    "adjs": {
+      "honest": 1
+    },
+    "positiveSentimentCount": 7,
+    "negativeSentimentCount": 27,
+    "veryPositiveSentimentCount": 1,
+    "veryNegativeSentimentCount": 1,
+    "quote": null,
+    "personality": null,
+    "frequency": 1,
+    "locations": [
+      "Oval Office",
+      "Russia"
+    ],
+    "temporals": [
+      "Wednesday",
+      "the next day",
+      "now"
+    ],
+    "roles": []
+  },
+  {
+    "name": "Maggie Haberman",
+    "verbs": {},
+    "adjs": {},
+    "positiveSentimentCount": 0,
+    "negativeSentimentCount": 5,
+    "veryPositiveSentimentCount": 0,
+    "veryNegativeSentimentCount": 0,
+    "quote": null,
+    "personality": null,
+    "frequency": 55,
+    "locations": [
+      "Oval Office"
+    ],
+    "temporals": [
+      "Wednesday",
+      "now"
+    ],
+    "roles": []
+  },
+  {
+    "name": "Hope Hicks",
+    "verbs": {},
+    "adjs": {
+      "a White House spokeswoman": 1
+    },
+    "positiveSentimentCount": 0,
+    "negativeSentimentCount": 1,
+    "veryPositiveSentimentCount": 0,
+    "veryNegativeSentimentCount": 0,
+    "quote": null,
+    "personality": null,
+    "frequency": 1,
+    "locations": [],
+    "temporals": [],
+    "roles": []
+  },
+  {
+    "name": "Arabella",
+    "verbs": {},
+    "adjs": {
+      "her daughter": 1
+    },
+    "positiveSentimentCount": 0,
+    "negativeSentimentCount": 3,
+    "veryPositiveSentimentCount": 0,
+    "veryNegativeSentimentCount": 0,
+    "quote": null,
+    "personality": null,
+    "frequency": 3,
+    "locations": [],
+    "temporals": [],
+    "roles": []
+  },
+  {
+    "name": "Hillary Clinton",
+    "verbs": {},
+    "adjs": {
+      "worse": 1
+    },
+    "positiveSentimentCount": 0,
+    "negativeSentimentCount": 13,
+    "veryPositiveSentimentCount": 0,
+    "veryNegativeSentimentCount": 1,
+    "quote": null,
+    "personality": null,
+    "frequency": 14,
+    "locations": [
+      "White House",
+      "Russia",
+      "New Jersey",
+      "California"
+    ],
+    "temporals": [
+      "time",
+      "today",
+      "Wednesday",
+      "a year ago",
+      "night"
+    ],
+    "roles": []
+  },
+  {
+    "name": "Obama",
+    "verbs": {
+      "not get": 1,
+      "be": 1,
+      "work": 1,
+      "get": 1,
+      "have": 1
+    },
+    "adjs": {},
+    "positiveSentimentCount": 0,
+    "negativeSentimentCount": 9,
+    "veryPositiveSentimentCount": 0,
+    "veryNegativeSentimentCount": 0,
+    "quote": null,
+    "personality": null,
+    "frequency": 10,
+    "locations": [
+      "Crimea"
+    ],
+    "temporals": [],
+    "roles": []
+  },
+  {
+    "name": "Hillarycare",
+    "verbs": {},
+    "adjs": {},
+    "positiveSentimentCount": 0,
+    "negativeSentimentCount": 1,
+    "veryPositiveSentimentCount": 0,
+    "veryNegativeSentimentCount": 0,
+    "quote": null,
+    "personality": null,
+    "frequency": 1,
+    "locations": [],
+    "temporals": [
+      "time"
+    ],
+    "roles": []
+  },
+  {
+    "name": "John",
+    "verbs": {},
+    "adjs": {},
+    "positiveSentimentCount": 0,
+    "negativeSentimentCount": 1,
+    "veryPositiveSentimentCount": 0,
+    "veryNegativeSentimentCount": 0,
+    "quote": null,
+    "personality": null,
+    "frequency": 2,
+    "locations": [],
+    "temporals": [],
+    "roles": []
+  },
+  {
+    "name": "McCain",
+    "verbs": {
+      "be": 1
+    },
+    "adjs": {},
+    "positiveSentimentCount": 0,
+    "negativeSentimentCount": 0,
+    "veryPositiveSentimentCount": 0,
+    "veryNegativeSentimentCount": 0,
+    "quote": null,
+    "personality": null,
+    "frequency": 1,
+    "locations": [],
+    "temporals": [],
+    "roles": []
+  },
+  {
+    "name": "Susan Collins",
+    "verbs": {},
+    "adjs": {},
+    "positiveSentimentCount": 0,
+    "negativeSentimentCount": 1,
+    "veryPositiveSentimentCount": 0,
+    "veryNegativeSentimentCount": 0,
+    "quote": null,
+    "personality": null,
+    "frequency": 1,
+    "locations": [],
+    "temporals": [
+      "Now"
+    ],
+    "roles": []
+  },
+  {
+    "name": "Rand Paul",
+    "verbs": {},
+    "adjs": {},
+    "positiveSentimentCount": 0,
+    "negativeSentimentCount": 0,
+    "veryPositiveSentimentCount": 0,
+    "veryNegativeSentimentCount": 0,
+    "quote": null,
+    "personality": null,
+    "frequency": 1,
+    "locations": [],
+    "temporals": [],
+    "roles": []
+  },
+  {
+    "name": "Mitch -RSB- McConnell",
+    "verbs": {},
+    "adjs": {},
+    "positiveSentimentCount": 0,
+    "negativeSentimentCount": 0,
+    "veryPositiveSentimentCount": 0,
+    "veryNegativeSentimentCount": 0,
+    "quote": null,
+    "personality": null,
+    "frequency": 1,
+    "locations": [],
+    "temporals": [],
+    "roles": []
+  },
+  {
+    "name": "Emmanuel Macron",
+    "verbs": {},
+    "adjs": {},
+    "positiveSentimentCount": 1,
+    "negativeSentimentCount": 1,
+    "veryPositiveSentimentCount": 0,
+    "veryNegativeSentimentCount": 0,
+    "quote": null,
+    "personality": null,
+    "frequency": 3,
+    "locations": [
+      "France",
+      "Paris"
+    ],
+    "temporals": [
+      "last week"
+    ],
+    "roles": []
+  },
+  {
+    "name": "Merkel",
+    "verbs": {
+      "be": 2,
+      "mean": 1,
+      "say": 2
+    },
+    "adjs": {
+      "well-known": 1
+    },
+    "positiveSentimentCount": 1,
+    "negativeSentimentCount": 7,
+    "veryPositiveSentimentCount": 0,
+    "veryNegativeSentimentCount": 0,
+    "quote": null,
+    "personality": null,
+    "frequency": 4,
+    "locations": [
+      "Germany",
+      "Paris",
+      "France"
+    ],
+    "temporals": [
+      "evening",
+      "night"
+    ],
+    "roles": []
+  },
+  {
+    "name": "Napoleon",
+    "verbs": {
+      "finish": 1
+    },
+    "adjs": {},
+    "positiveSentimentCount": 0,
+    "negativeSentimentCount": 2,
+    "veryPositiveSentimentCount": 0,
+    "veryNegativeSentimentCount": 0,
+    "quote": null,
+    "personality": null,
+    "frequency": 3,
+    "locations": [],
+    "temporals": [],
+    "roles": []
+  },
+  {
+    "name": "Hitler",
+    "verbs": {
+      "want": 2
+    },
+    "adjs": {},
+    "positiveSentimentCount": 0,
+    "negativeSentimentCount": 4,
+    "veryPositiveSentimentCount": 0,
+    "veryNegativeSentimentCount": 0,
+    "quote": null,
+    "personality": null,
+    "frequency": 2,
+    "locations": [],
+    "temporals": [],
+    "roles": []
+  },
+  {
+    "name": "Harry Truman",
+    "verbs": {},
+    "adjs": {},
+    "positiveSentimentCount": 0,
+    "negativeSentimentCount": 0,
+    "veryPositiveSentimentCount": 0,
+    "veryNegativeSentimentCount": 0,
+    "quote": null,
+    "personality": null,
+    "frequency": 1,
+    "locations": [],
+    "temporals": [],
+    "roles": []
+  },
+  {
+    "name": "Dodd-Frank",
+    "verbs": {},
+    "adjs": {},
+    "positiveSentimentCount": 0,
+    "negativeSentimentCount": 0,
+    "veryPositiveSentimentCount": 0,
+    "veryNegativeSentimentCount": 1,
+    "quote": null,
+    "personality": null,
+    "frequency": 1,
+    "locations": [],
+    "temporals": [],
+    "roles": []
+  },
+  {
+    "name": "Vladimir V. -RSB- Putin",
+    "verbs": {},
+    "adjs": {},
+    "positiveSentimentCount": 0,
+    "negativeSentimentCount": 0,
+    "veryPositiveSentimentCount": 0,
+    "veryNegativeSentimentCount": 0,
+    "quote": null,
+    "personality": null,
+    "frequency": 6,
+    "locations": [],
+    "temporals": [],
+    "roles": []
+  },
+  {
+    "name": "Julie -LSB- Hirschfeld Davis",
+    "verbs": {},
+    "adjs": {
+      "bleached": 1
+    },
+    "positiveSentimentCount": 0,
+    "negativeSentimentCount": 3,
+    "veryPositiveSentimentCount": 0,
+    "veryNegativeSentimentCount": 1,
+    "quote": null,
+    "personality": null,
+    "frequency": 1,
+    "locations": [
+      "Russia"
+    ],
+    "temporals": [],
+    "roles": []
+  },
+  {
+    "name": "Glenn Thrush",
+    "verbs": {},
+    "adjs": {},
+    "positiveSentimentCount": 0,
+    "negativeSentimentCount": 1,
+    "veryPositiveSentimentCount": 0,
+    "veryNegativeSentimentCount": 0,
+    "quote": null,
+    "personality": null,
+    "frequency": 1,
+    "locations": [],
+    "temporals": [],
+    "roles": []
+  },
+  {
+    "name": "Lagarde",
+    "verbs": {},
+    "adjs": {
+      "just the leaders": 1
+    },
+    "positiveSentimentCount": 0,
+    "negativeSentimentCount": 2,
+    "veryPositiveSentimentCount": 0,
+    "veryNegativeSentimentCount": 0,
+    "quote": null,
+    "personality": null,
+    "frequency": 4,
+    "locations": [],
+    "temporals": [],
+    "roles": []
+  },
+  {
+    "name": "Abe -LSB- Shinzo Abe",
+    "verbs": {},
+    "adjs": {},
+    "positiveSentimentCount": 0,
+    "negativeSentimentCount": 0,
+    "veryPositiveSentimentCount": 0,
+    "veryNegativeSentimentCount": 0,
+    "quote": null,
+    "personality": null,
+    "frequency": 1,
+    "locations": [],
+    "temporals": [],
+    "roles": []
+  },
+  {
+    "name": "Mauricio -RSB- Macri",
+    "verbs": {},
+    "adjs": {},
+    "positiveSentimentCount": 0,
+    "negativeSentimentCount": 0,
+    "veryPositiveSentimentCount": 0,
+    "veryNegativeSentimentCount": 0,
+    "quote": null,
+    "personality": null,
+    "frequency": 1,
+    "locations": [],
+    "temporals": [],
+    "roles": []
+  },
+  {
+    "name": "Melania",
+    "verbs": {
+      "sit": 3
+    },
+    "adjs": {
+      "whole time": 1
+    },
+    "positiveSentimentCount": 0,
+    "negativeSentimentCount": 4,
+    "veryPositiveSentimentCount": 0,
+    "veryNegativeSentimentCount": 0,
+    "quote": null,
+    "personality": null,
+    "frequency": 2,
+    "locations": [],
+    "temporals": [
+      "now"
+    ],
+    "roles": []
+  },
+  {
+    "name": "Don",
+    "verbs": {
+      "mean": 1,
+      "have": 1
+    },
+    "adjs": {
+      "illegal act": 1,
+      "Mr. Trump 's son": 1
+    },
+    "positiveSentimentCount": 5,
+    "negativeSentimentCount": 39,
+    "veryPositiveSentimentCount": 0,
+    "veryNegativeSentimentCount": 0,
+    "quote": null,
+    "personality": null,
+    "frequency": 2,
+    "locations": [
+      "White House",
+      "Paris",
+      "Russia",
+      "Crimea",
+      "New Jersey",
+      "California"
+    ],
+    "temporals": [
+      "today",
+      "now",
+      "Now",
+      "night"
+    ],
+    "roles": []
+  },
+  {
+    "name": "Mattis",
+    "verbs": {},
+    "adjs": {},
+    "positiveSentimentCount": 0,
+    "negativeSentimentCount": 1,
+    "veryPositiveSentimentCount": 0,
+    "veryNegativeSentimentCount": 0,
+    "quote": null,
+    "personality": null,
+    "frequency": 2,
+    "locations": [
+      "China"
+    ],
+    "temporals": [],
+    "roles": []
+  },
+  {
+    "name": "Phil Ruffin",
+    "verbs": {},
+    "adjs": {},
+    "positiveSentimentCount": 0,
+    "negativeSentimentCount": 1,
+    "veryPositiveSentimentCount": 0,
+    "veryNegativeSentimentCount": 0,
+    "quote": null,
+    "personality": null,
+    "frequency": 1,
+    "locations": [],
+    "temporals": [],
+    "roles": []
+  },
+  {
+    "name": "Keith -LSB- Schiller",
+    "verbs": {},
+    "adjs": {},
+    "positiveSentimentCount": 0,
+    "negativeSentimentCount": 0,
+    "veryPositiveSentimentCount": 0,
+    "veryNegativeSentimentCount": 0,
+    "quote": null,
+    "personality": null,
+    "frequency": 3,
+    "locations": [],
+    "temporals": [],
+    "roles": []
+  },
+  {
+    "name": "James B. Comey",
+    "verbs": {},
+    "adjs": {},
+    "positiveSentimentCount": 0,
+    "negativeSentimentCount": 1,
+    "veryPositiveSentimentCount": 0,
+    "veryNegativeSentimentCount": 0,
+    "quote": null,
+    "personality": null,
+    "frequency": 10,
+    "locations": [],
+    "temporals": [],
+    "roles": []
+  },
+  {
+    "name": "Mueller",
+    "verbs": {
+      "go": 1,
+      "look": 1
+    },
+    "adjs": {
+      "the special counsel in the Russia investigation": 1
+    },
+    "positiveSentimentCount": 0,
+    "negativeSentimentCount": 6,
+    "veryPositiveSentimentCount": 0,
+    "veryNegativeSentimentCount": 0,
+    "quote": null,
+    "personality": null,
+    "frequency": 7,
+    "locations": [
+      "Russia"
+    ],
+    "temporals": [],
+    "roles": []
+  },
+  {
+    "name": "Jeff",
+    "verbs": {
+      "know": 1
+    },
+    "adjs": {},
+    "positiveSentimentCount": 1,
+    "negativeSentimentCount": 5,
+    "veryPositiveSentimentCount": 0,
+    "veryNegativeSentimentCount": 0,
+    "quote": null,
+    "personality": null,
+    "frequency": 7,
+    "locations": [],
+    "temporals": [],
+    "roles": []
+  },
+  {
+    "name": "Rod J. -RSB- Rosenstein",
+    "verbs": {},
+    "adjs": {},
+    "positiveSentimentCount": 0,
+    "negativeSentimentCount": 0,
+    "veryPositiveSentimentCount": 0,
+    "veryNegativeSentimentCount": 0,
+    "quote": null,
+    "personality": null,
+    "frequency": 6,
+    "locations": [],
+    "temporals": [],
+    "roles": []
+  },
+  {
+    "name": "Rod Rosenstein",
+    "verbs": {},
+    "adjs": {
+      "his deputy he hardly knew": 1
+    },
+    "positiveSentimentCount": 0,
+    "negativeSentimentCount": 4,
+    "veryPositiveSentimentCount": 0,
+    "veryNegativeSentimentCount": 0,
+    "quote": null,
+    "personality": null,
+    "frequency": 1,
+    "locations": [
+      "Baltimore"
+    ],
+    "temporals": [
+      "The next day"
+    ],
+    "roles": []
+  },
+  {
+    "name": "Mike",
+    "verbs": {
+      "think": 1
+    },
+    "adjs": {},
+    "positiveSentimentCount": 0,
+    "negativeSentimentCount": 1,
+    "veryPositiveSentimentCount": 0,
+    "veryNegativeSentimentCount": 0,
+    "quote": null,
+    "personality": null,
+    "frequency": 1,
+    "locations": [],
+    "temporals": [],
+    "roles": []
+  },
+  {
+    "name": "Flynn",
+    "verbs": {},
+    "adjs": {
+      "good": 1
+    },
+    "positiveSentimentCount": 1,
+    "negativeSentimentCount": 1,
+    "veryPositiveSentimentCount": 0,
+    "veryNegativeSentimentCount": 0,
+    "quote": null,
+    "personality": null,
+    "frequency": 2,
+    "locations": [],
+    "temporals": [],
+    "roles": []
+  },
+  {
+    "name": "Richard Nixon",
+    "verbs": {},
+    "adjs": {},
+    "positiveSentimentCount": 0,
+    "negativeSentimentCount": 1,
+    "veryPositiveSentimentCount": 0,
+    "veryNegativeSentimentCount": 0,
+    "quote": null,
+    "personality": null,
+    "frequency": 2,
+    "locations": [],
+    "temporals": [],
+    "roles": []
+  },
+  {
+    "name": "Chris Wray",
+    "verbs": {},
+    "adjs": {},
+    "positiveSentimentCount": 0,
+    "negativeSentimentCount": 0,
+    "veryPositiveSentimentCount": 0,
+    "veryNegativeSentimentCount": 0,
+    "quote": null,
+    "personality": null,
+    "frequency": 1,
+    "locations": [],
+    "temporals": [],
+    "roles": []
+  },
+  {
+    "name": "KUSHNER",
+    "verbs": {},
+    "adjs": {},
+    "positiveSentimentCount": 1,
+    "negativeSentimentCount": 1,
+    "veryPositiveSentimentCount": 0,
+    "veryNegativeSentimentCount": 0,
+    "quote": null,
+    "personality": null,
+    "frequency": 2,
+    "locations": [],
+    "temporals": [],
+    "roles": []
+  },
+  {
+    "name": "Ivanka",
+    "verbs": {},
+    "adjs": {},
+    "positiveSentimentCount": 0,
+    "negativeSentimentCount": 2,
+    "veryPositiveSentimentCount": 0,
+    "veryNegativeSentimentCount": 0,
+    "quote": null,
+    "personality": null,
+    "frequency": 2,
+    "locations": [],
+    "temporals": [],
+    "roles": []
+  },
+  {
+    "name": "Xi -LSB- Jinping",
+    "verbs": {},
+    "adjs": {},
+    "positiveSentimentCount": 0,
+    "negativeSentimentCount": 0,
+    "veryPositiveSentimentCount": 0,
+    "veryNegativeSentimentCount": 0,
+    "quote": null,
+    "personality": null,
+    "frequency": 1,
+    "locations": [],
+    "temporals": [],
+    "roles": []
+  },
+  {
+    "name": "Terry",
+    "verbs": {},
+    "adjs": {},
+    "positiveSentimentCount": 0,
+    "negativeSentimentCount": 0,
+    "veryPositiveSentimentCount": 0,
+    "veryNegativeSentimentCount": 0,
+    "quote": null,
+    "personality": null,
+    "frequency": 1,
+    "locations": [],
+    "temporals": [],
+    "roles": []
+  },
+  {
+    "name": "Andrew -RSB- McCabe",
+    "verbs": {},
+    "adjs": {
+      "McCabe 's wife": 1
+    },
+    "positiveSentimentCount": 0,
+    "negativeSentimentCount": 1,
+    "veryPositiveSentimentCount": 0,
+    "veryNegativeSentimentCount": 0,
+    "quote": null,
+    "personality": null,
+    "frequency": 2,
+    "locations": [],
+    "temporals": [],
+    "roles": []
+  }
+]

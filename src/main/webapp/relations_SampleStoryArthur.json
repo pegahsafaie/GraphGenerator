@@ -1,0 +1,105 @@
+[
+  {
+    "profileNames": [
+      "Igraine",
+      "Uther"
+    ],
+    "frequency": 2,
+    "typeName": {
+      "romantic": "love",
+      "family": "married"
+    }
+  },
+  {
+    "profileNames": [
+      "Igraine",
+      "Merlin"
+    ],
+    "frequency": 1,
+    "typeName": {
+      "family": "marry"
+    }
+  },
+  {
+    "profileNames": [
+      "Merlin",
+      "Uther"
+    ],
+    "frequency": 1,
+    "typeName": {
+      "family": "child"
+    }
+  },
+  {
+    "profileNames": [
+      "Arthur",
+      "Merlin"
+    ],
+    "frequency": 5,
+    "typeName": {
+      "friendship": "help",
+      "romantic": "love",
+      "family": "parent"
+    }
+  },
+  {
+    "profileNames": [
+      "Annoure",
+      "Merlin"
+    ],
+    "frequency": 1,
+    "typeName": {
+      "enemy": "kill"
+    }
+  },
+  {
+    "profileNames": [
+      "Arthur",
+      "Morgan-le-Fay"
+    ],
+    "frequency": 1,
+    "typeName": {
+      "enemy": "hate"
+    }
+  },
+  {
+    "profileNames": [
+      "Marhaus",
+      "Tristram"
+    ],
+    "frequency": 1,
+    "typeName": {
+      "enemy": "fight"
+    }
+  },
+  {
+    "profileNames": [
+      "Isolt",
+      "Tristram"
+    ],
+    "frequency": 1,
+    "typeName": {
+      "romantic": "love"
+    }
+  },
+  {
+    "profileNames": [
+      "Arthur",
+      "Lancelot"
+    ],
+    "frequency": 1,
+    "typeName": {
+      "family": "married"
+    }
+  },
+  {
+    "profileNames": [
+      "Arthur",
+      "Gawain"
+    ],
+    "frequency": 1,
+    "typeName": {
+      "romantic": "love"
+    }
+  }
+]

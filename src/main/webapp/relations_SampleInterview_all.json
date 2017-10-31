@@ -1,0 +1,32 @@
+[
+  {
+    "profileNames": [
+      "Arabella",
+      "Ivanka Trump"
+    ],
+    "frequency": 1,
+    "typeName": {
+      "family": "daughter"
+    }
+  },
+  {
+    "profileNames": [
+      "Hillary Clinton",
+      "Hillarycare"
+    ],
+    "frequency": 1,
+    "typeName": {
+      "enemy": "hate"
+    }
+  },
+  {
+    "profileNames": [
+      "Don",
+      "Trump"
+    ],
+    "frequency": 1,
+    "typeName": {
+      "family": "son"
+    }
+  }
+]

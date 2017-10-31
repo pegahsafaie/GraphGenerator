@@ -1,0 +1,133 @@
+[
+	{
+		"profileNames": [
+			"Phaenarete",
+			"Socrates"
+		],
+		"frequency": 1,
+		"typeName": {
+			"family": "mother"
+		}
+	},
+	{
+		"profileNames": [
+			"Athenian Crito",
+			"Socrates"
+		],
+		"frequency": 1,
+		"typeName": {
+			"family": "son"
+		}
+	},
+	{
+		"profileNames": [
+			"Aspasia",
+			"Pericles",
+			"Socrates"
+		],
+		"frequency": 1,
+		"typeName": {
+			"family": " wife "
+		}
+	},
+	{
+		"profileNames": [
+			"Diotima",
+			"Socrates"
+		],
+		"frequency": 1,
+		"typeName": {
+			"romantic": "love"
+		}
+	},
+	{
+		"profileNames": [
+			"Pericles",
+			"Socrates"
+		],
+		"frequency": 1,
+		"typeName": {
+			"friendship": "like"
+		}
+	},
+	{
+		"profileNames": [
+			"Socrates",
+			"Xanthippe"
+		],
+		"frequency": 3,
+		"typeName": {
+			"family": " wife "
+		}
+	},
+	{
+		"profileNames": [
+			"Aristophanes",
+			"Socrates"
+		],
+		"frequency": 1,
+		"typeName": {
+			"friendship": "friend"
+		}
+	},
+	{
+		"profileNames": [
+			"Charmides",
+			"Plato"
+		],
+		"frequency": 1,
+		"typeName": {
+			"family": "cousin"
+		}
+	},
+	{
+		"profileNames": [
+			"Critias",
+			"Socrates"
+		],
+		"frequency": 1,
+		"typeName": {
+			"enemy": "kill"
+		}
+	},
+	{
+		"profileNames": [
+			"Chaerephon",
+			"Socrates"
+		],
+		"frequency": 1,
+		"typeName": {
+			"friendship": "friend"
+		}
+	},
+	{
+		"profileNames": [
+			"Charmides",
+			"Critias"
+		],
+		"frequency": 1,
+		"typeName": {
+			"enemy": "kill"
+		}
+	},
+	{
+		"profileNames": [
+			"Socrates",
+			"Xenophon"
+		],
+		"frequency": 1,
+		"typeName": {
+			"enemy": "kill"
+		}
+	},
+	{
+		"profileNames": [
+			"Aristobulus",
+			"Plato"
+		],
+		"frequency": 1,
+		"typeName": {
+			"friendship": "friend"
+		}
+	}
+]

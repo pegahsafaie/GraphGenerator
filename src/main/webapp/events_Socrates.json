@@ -1,0 +1,233 @@
+[
+  {
+    "locations": [
+      " Athens"
+    ],
+    "times": [
+      "",
+      " sixth  day of the month of Thargelion"
+    ],
+    "lemmatizedVerb": "bear",
+    "subject": "Socrates",
+    "object": ""
+  },
+  {
+    "locations": [
+      " Athens"
+    ],
+    "times": [
+      "",
+      " century "
+    ],
+    "lemmatizedVerb": "live",
+    "subject": "Socrates",
+    "object": ""
+  },
+ 
+  {
+    "locations": [
+      " Athens"
+    ],
+    "times": [
+      "",
+      " 399  B.C."
+    ],
+    "lemmatizedVerb": "establish",
+    "subject": "",
+    "object": "attitude towards socrates"
+  },
+  {
+    "locations": [
+      " Athens"
+    ],
+    "times": [
+      "",
+      " 399  B.C."
+    ],
+    "lemmatizedVerb": "defend",
+    "subject": "",
+    "object": "socrates since all of athens"
+  },
+ 
+  {
+    "locations": [
+      ""
+    ],
+    "times": [
+      ""
+    ],
+    "lemmatizedVerb": "expose",
+    "subject": "",
+    "object": "conceit among socrates"
+  },
+ 
+  {
+    "locations": [
+      " Potidaea"
+    ],
+    "times": [
+      "",
+      " 432  B.C."
+    ],
+    "lemmatizedVerb": "fight",
+    "subject": "Socrates",
+    "object": ""
+  },
+  {
+    "locations": [
+      " Amphipolis"
+    ],
+    "times": [
+      ""
+    ],
+    "lemmatizedVerb": "fight",
+    "subject": "Socrates",
+    "object": ""
+  },
+  {
+    "locations": [
+      " Athens"
+    ],
+    "times": [
+      ""
+    ],
+    "lemmatizedVerb": "leave",
+    "subject": "Socrates",
+    "object": "vicinity of athens"
+  },
+  {
+    "locations": [
+      ""
+    ],
+    "times": [
+      ""
+    ],
+    "lemmatizedVerb": "oppose",
+    "subject": "Socrates",
+    "object": "illegality "
+  },
+  {
+    "locations": [
+      " Sparta"
+    ],
+    "times": [
+      ""
+    ],
+    "lemmatizedVerb": "support",
+    "subject": "",
+    "object": "sparta "
+  },
+  {
+    "locations": [
+      ""
+    ],
+    "times": [
+      ""
+    ],
+    "lemmatizedVerb": "send",
+    "subject": "Alcibiades",
+    "object": "troops into battle"
+  },
+  {
+    "locations": [
+      " Athens"
+    ],
+    "times": [
+      ""
+    ],
+    "lemmatizedVerb": "succeed",
+    "subject": "Alcibiades",
+    "object": ""
+  },
+  {
+    "locations": [
+      " Persia"
+    ],
+    "times": [
+      "",
+      " 406  B.C."
+    ],
+    "lemmatizedVerb": "lose",
+    "subject": "Alcibiades",
+    "object": ""
+  },
+  {
+    "locations": [
+      " Athens"
+    ],
+    "times": [
+      ""
+    ],
+    "lemmatizedVerb": "install",
+    "subject": "Sparta",
+    "object": "government of"
+  },
+  {
+    "locations": [
+      " Alcibiades"
+    ],
+    "times": [
+      "",
+      " once "
+    ],
+    "lemmatizedVerb": "fear",
+    "subject": "",
+    "object": "return of alcibiades"
+  },
+  {
+    "locations": [
+      ""
+    ],
+    "times": [
+      "",
+      " ten  years of the war"
+    ],
+    "lemmatizedVerb": "order",
+    "subject": "Critias",
+    "object": "killing of athenians from the"
+  },
+  {
+    "locations": [
+      ""
+    ],
+    "times": [
+      ""
+    ],
+    "lemmatizedVerb": "criticize",
+    "subject": "Socrates",
+    "object": "thirty the tyranny"
+  },
+  {
+    "locations": [
+      " Athens"
+    ],
+    "times": [
+      ""
+    ],
+    "lemmatizedVerb": "call",
+    "subject": "Charmides",
+    "object": "socrates "
+  },
+  {
+    "locations": [
+      ""
+    ],
+    "times": [
+      ""
+    ],
+    "lemmatizedVerb": "accuse",
+    "subject": "",
+    "object": "socrates"
+  },
+  {
+    "locations": [
+      ""
+    ],
+    "times": [
+      ""
+    ],
+    "lemmatizedVerb": "give",
+    "subject": "Socrates",
+    "object": "speech "
+  }
+]

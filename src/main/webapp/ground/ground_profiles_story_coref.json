@@ -1,0 +1,786 @@
+[
+  {
+    "name": "Uther",
+    "adj": [
+      "good man",
+      "king",
+      "sad",
+      "ill"
+    ],
+    "verb": [
+      "die",
+      "tell",
+      "say",
+      "marry",
+      "love",
+      "want",
+      "take",
+      "give",
+      "call",
+      "say",
+      "get"
+    ],
+    "location": [
+      "south of britain"
+    ],
+    "personality": "",
+    "sentiment": "negative"
+  },
+  {
+    "name": "Irgaine",
+    "adj": [
+      "beautiful"
+    ],
+    "verb": [
+      "love"
+    ],
+    "location": [],
+    "personality": "",
+    "sentiment": "positive"
+  },
+  {
+    "name": "Merlin",
+    "adj": [
+      "clever man",
+      "'famous man'",
+      "old man"
+    ],
+    "verb": [
+      "see",
+      "ask",
+      "speak",
+      "get out",
+      "come out",
+      "help",
+      "teach",
+      "change",
+      "cry",
+      "make",
+      "tell",
+      "come",
+      "listen",
+      "go",
+      "tell",
+      "'bring'",
+      "say",
+      "come",
+      "help",
+      "use",
+      "tell",
+      "know",
+      "teach",
+      "visit",
+      "tale",
+      "give",
+      "answer"
+    ],
+    "location": [
+      "London",
+      "Avalon"
+    ],
+    "personality": "",
+    "sentiment": "positive"
+  },
+  {
+    "name": "Arthur",
+    "adj": [
+      "strong",
+      "not afraid",
+      "king",
+      "kind young man",
+      "'bravest knight'",
+      "'greatest king'",
+      "good man",
+      "good king",
+      "good husband",
+      "brave man",
+      "hungry",
+      "thirsty",
+      "tired",
+      "'bad knight'",
+      "angry",
+      "tired",
+      "not happy",
+      "weak",
+      "'dead'",
+      "sorry",
+      "sad",
+      "'dead'"
+    ],
+    "verb": [
+      "send",
+      "'sleep'",
+      "'leave'",
+      "stop",
+      "get",
+      "hear",
+      "ask",
+      "know",
+      "cry",
+      "fight",
+      "get",
+      "think",
+      "walk down",
+      "open",
+      "call",
+      "follow",
+      "build",
+      "want",
+      "sleep",
+      "win",
+      "hurt",
+      "jump up",
+      "feel",
+      "know",
+      "wake up",
+      "look",
+      "see",
+      "left",
+      "go",
+      "see",
+      "understand",
+      "pull",
+      "read",
+      "go",
+      "live",
+      "take",
+      "meet",
+      "take",
+      "say",
+      "put",
+      "pull",
+      "run back",
+      "show",
+      "see",
+      "'try'",
+      "'listen'",
+      "begin",
+      "take",
+      "go",
+      "tell",
+      "give",
+      "go",
+      "go",
+      "fight",
+      "came back",
+      "love",
+      "visit",
+      "make",
+      "stopp",
+      "look",
+      "say",
+      "go",
+      "answer",
+      "go",
+      "meet",
+      "fall",
+      "stand up",
+      "throw",
+      "run",
+      "pull out",
+      "pull",
+      "fight",
+      "put",
+      "take",
+      "'die'",
+      "climb down",
+      "left",
+      "help",
+      "see",
+      "take"
+    ],
+    "location": [
+      "Avalon",
+      "Camelot",
+      "France",
+      "England"
+    ],
+    "personality": "",
+    "sentiment": "negative"
+  },
+  {
+    "name": "Ector",
+    "adj": [
+      "good knight",
+      "Sir"
+    ],
+    "verb": [
+      "know",
+      "see",
+      "took",
+      "say",
+      "put",
+      "say",
+      "ask",
+      "go"
+    ],
+    "location": [],
+    "sentiment": "negative",
+    "personality": ""
+  },
+  {
+    "name": "Sir Kai",
+    "adj": [],
+    "verb": [],
+    "location": [],
+    "sentiment": "",
+    "personality": ""
+  },
+  {
+    "name": "Archbishop",
+    "adj": [
+      "important"
+    ],
+    "verb": [
+      "speak",
+      "invite",
+      "think",
+      "call"
+    ],
+    "personality": "",
+    "sentiment": "positive",
+    "location": []
+  },
+  {
+    "name": "Guinevere",
+    "adj": [
+      "beautiful woman",
+      "angry",
+      "afraid"
+    ],
+    "verb": [
+      "left",
+      "cry",
+      "know",
+      "answer",
+      "tell",
+      "go",
+      "call",
+      "say",
+      "look",
+      "speak",
+      "'come'",
+      "'love'"
+    ],
+    "location": [
+      "England",
+      "Camelot"
+    ],
+    "sentiment": "negative",
+    "personality": ""
+  },
+  {
+    "name": "Queen Annoure",
+    "adj": [
+      "kind",
+      "'richest person'"
+    ],
+    "verb": [
+      "send",
+      "say",
+      "took",
+      "give",
+      "know",
+      "'want'"
+    ],
+    "location": [],
+    "sentiment": "negative",
+    "personality": ""
+  },
+  {
+    "name": "Pellinore",
+    "adj": [
+      "Sir",
+      "knight",
+      "tired"
+    ],
+    "verb": [
+      "live",
+      "shout",
+      "take",
+      "hit",
+      "cry",
+      "fight",
+      "hurt",
+      "sit",
+      "wait",
+      "know",
+      "see",
+      "look up",
+      "see",
+      "'know'"
+    ],
+    "location": [
+      "Camelot"
+    ],
+    "sentiment": "negative",
+    "personality": ""
+  },
+  {
+    "name": "Galahad",
+    "adj": [
+      "'best knight'",
+      "'good knight'",
+      "new king",
+      "'happy'",
+      "not  afraid",
+      "dead",
+      "happy"
+    ],
+    "verb": [
+      "come",
+      "sit",
+      "say",
+      "build",
+      "put","cry"
+    ],
+    "location": [
+      "Camelot"
+    ],
+    "sentiment": "positive",
+    "personality": ""
+  },
+  {
+    "name": "Morgan-le-Fay",
+    "adj": [
+      "queen",
+      "bad  woman",
+      "'hungry'",
+      "'thirsty'",
+      "'kind friend'"
+    ],
+    "verb": [
+      "do",
+      "use",
+      "hate",
+      "want",
+      "hear",
+      "want",
+      "get",
+      "left",
+      "watch",
+      "take",
+      "put",
+      "'visit'",
+      "throw",
+      "send",
+      "say",
+      "arrive",
+      "cry",
+      "'give'",
+      "go",
+      "think",
+      "ask",
+      "stand",
+      "watched",
+      "take",
+      "want",
+      "see",
+      "'come'",
+      "'stay'",
+      "'love'"
+    ],
+    "location": [
+      "Gorres",
+      "Camelot"
+    ],
+    "personality": "",
+    "sentiment": "negative"
+  },
+  {
+    "name": "Damas",
+    "adj": [
+      "Sir",
+      "very evil knight",
+      "'not brave man'"
+    ],
+    "verb": [
+      "catch",
+      "put",
+      "want",
+      "ask",
+      "answer",
+      "give"
+    ],
+    "location": [],
+    "sentiment": "negative",
+    "personality": ""
+  },
+  {
+    "name": "Accolon",
+    "adj": [
+      "Sir",
+      "'sorry'"
+    ],
+    "verb": [
+      "say"
+    ],
+    "location": [],
+    "sentiment": "negative",
+    "personality": ""
+  },
+  {
+    "name": "Vivien",
+    "adj": [
+      "Lady"
+    ],
+    "verb": [
+      "live",
+      "know",
+      "see",
+      "learn",
+      "go",
+      "study",
+      "think",
+      "climb",
+      "run out",
+      "shout"
+    ],
+    "location": [
+      "Camelot"
+    ],
+    "sentiment": "negative",
+    "personality": ""
+  },
+  {
+    "name": "Meligrance",
+    "adj": [
+      "Sir",
+      "afraid",
+      "'sorry'",
+      "'good knight'",
+      "dead"
+    ],
+    "verb": [
+      "move",
+      "see",
+      "love",
+      "want",
+      "say",
+      "fall",
+      "hit",
+      "answer",
+      "go",
+      "know",
+      "think",
+      "show",
+      "tell"
+    ],
+    "location": [],
+    "sentiment": "negative",
+    "personality": ""
+  },
+  {
+    "name": "Lancelot",
+    "adj": [
+      "Sir",
+      "strongest knight",
+      "brave",
+      "strong",
+      "very angry",
+      "'strongest'"
+    ],
+    "verb": [
+      "hear",
+      "put",
+      "take",
+      "say",
+      "arrive",
+      "come",
+      "think",
+      "'kill'",
+      "climb  up",
+      "go",
+      "left",
+      "fight",
+      "win",
+      "jumpe away",
+      "cut",
+      "smile",
+      "fall",
+      "say",
+      "want",
+      "cry","marry"
+    ],
+    "location": [
+      "France"
+    ],
+    "personality": "",
+    "sentiment": "negative"
+  },
+  {
+    "name": "King of Lyonesse",
+    "adj": [
+      "angry"
+    ],
+    "verb": [
+      "go",
+      "want",
+      "make",
+      "find",
+      "come back",
+      "'know'",
+      "speak",
+      "eat",
+      "'die'",
+      "begin",
+      "marry",
+      "remember"
+    ],
+    "personality": "",
+    "sentiment": "positive",
+    "location": [
+      "Lyonesse"
+    ]
+  },
+  {
+    "name": "Tristram",
+    "adj": [
+      "happy",
+      "strong",
+      "brave man",
+      "happy",
+      "sadly",
+      "angry",
+      "stronger",
+      "Sir",
+      "'kind'",
+      "'young'",
+      "'brave'"
+    ],
+    "verb": [
+      "go",
+      "love",
+      "say",
+      "get",
+      "fall down",
+      "arrive",
+      "tell",
+      "use",
+      "kill",
+      "begin",
+      "move",
+      "hit",
+      "love",
+      "see",
+      "give",
+      "ask",
+      "jump",
+      "come",
+      "think",
+      "look",
+      "teach",
+      "like",
+      "stand",
+      "pull",
+      "get off",
+      "'help'",
+      "cry",
+      "play",
+      "fight",
+      "take",
+      "fight",
+      "throw",
+      "answer",
+      "stay",
+      "stop",
+      "fall",
+      "die"
+    ],
+    "personality": "",
+    "sentiment": "negative",
+    "location": [
+      "Cornwall",
+      "Ireland",
+      "Camelot"
+    ]
+  },
+  {
+    "name": "Mark",
+    "adj": [
+      "King",
+      "'good man'",
+      "afraid"
+    ],
+    "verb": [
+      "love",
+      "give",
+      "begin",
+      "follow",
+      "watch",
+      "shout",
+      "wound",
+      "think",
+      "make",
+      "send",
+      "said",
+      "'want'",
+      "come"
+    ],
+    "location": ["Cornwall"],
+    "sentiment": "negative",
+    "personality": ""
+  },
+  {
+    "name": "Marhaus",
+    "adj": [
+      "Sir",
+      "'best'",
+      "'strongest knight'",
+      "strong",
+      "older"
+    ],
+    "verb": [
+      "come",
+      "hit",
+      "start",
+      "wound"
+    ],
+    "personality": "",
+    "sentiment": "negative",
+    "location": [
+      "Ireland"
+    ]
+  },
+  {
+    "name": "Isolt",
+    "adj": [
+      "'good student'",
+      "happy",
+      "'beautiful'",
+      "'kind'",
+      "afraid",
+      "'Queen'"
+    ],
+    "verb": [
+      "clean",
+      "stay",
+      "enjoy",
+      "know",
+      "marry",
+      "run  away",
+      "run",
+      "cry",
+      "sit down",
+      "stand",
+      "look",
+      "ask",
+      "listen",
+      "hear",
+      "eat",
+      "drink",
+      "speak",
+      "die",
+      "love",
+      "teach",
+      "see",
+      "watch"
+    ],
+    "sentiment": "negative",
+    "location": [
+      "London"
+    ],
+    "personality": ""
+  },
+  {
+    "name": "Palamides",
+    "adj": [
+      "Sir",
+      "evil knight",
+      "good knight"
+    ],
+    "verb": [
+      "love",
+      "ask",
+      "sit",
+      "fight",
+      "want",
+      "see",
+      "want",
+      "listen",
+      "arrive",
+      "carry",
+      "learn",
+      "hurt",
+      "take",
+      "'wound'",
+      "fall",
+      "fight",
+      "go"
+    ],
+    "sentiment": "negative",
+    "location": [
+      "Camelot"
+    ],
+    "personality": ""
+  },
+  {
+    "name": "Mordred",
+    "adj": [
+      "Sir",
+      "evil  knight",
+      "'king'"
+    ],
+    "verb": [
+      "wait",
+      "fall"
+    ],
+    "location": [
+      "Camelot",
+      "London",
+      "Dover"
+    ],
+    "sentiment": "negative",
+    "personality": ""
+  },
+  {
+    "name": "Gawain",
+    "adj": [
+      "Sir"
+    ],
+    "verb": [
+      "die",
+      "speak"
+    ],
+    "location": [
+      "France"
+    ],
+    "personality": "",
+    "sentiment": "negative"
+  },
+  {
+    "name": "Bedivere",
+    "adj": [
+      "'sorry'"
+    ],
+    "verb": [
+      "take",
+      "walk",
+      "look",
+      "put",
+      "'throw'",
+      "carry",
+      "stand",
+      "cry"
+    ],
+    "location": [],
+    "personality": "",
+    "sentiment": "negative"
+  },
+  {
+    "name": "Atherp",
+    "adj": [],
+    "verb": [
+      "say"
+    ],
+    "location": [],
+    "sentiment": "positive",
+    "personality": ""
+  },
+  {
+    "name": "Bors",
+    "verb": ["go","come"],
+    "adj": ["Sir"],
+    "location": [],
+    "sentiment":"positive"
+  }]

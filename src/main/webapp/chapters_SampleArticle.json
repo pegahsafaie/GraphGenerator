@@ -1,0 +1,127 @@
+{
+  "profileNames": [
+    "Mahmoud Ahmadinejad",
+    "Mir-Hossein Mousavi",
+    "Basij",
+    "Ayatollah Khomeini",
+    "Ayatollah Khamenei",
+    "Mojahedin Khalq",
+    "Mohammad Khatami",
+    "Rafsanjani",
+    "IRGC",
+    "Mousavi",
+    "Khamenei",
+    "Amir Sadeghi",
+    "Maziar Bahari",
+    "Sohrab Aarabi",
+    "Karroubi",
+    "Mehdi Karroubi",
+    "Jef Lambrecht",
+    "Association of Iranian Journalists"
+  ],
+  "chapters": [
+    {
+      "chapterIndex": 1,
+      "profiles": {
+        "Mojahedin Khalq": {
+          "instrumental": 1
+        },
+        "Ayatollah Khomeini": {
+          "successor": 1
+        },
+        "Ayatollah Khamenei": {
+          "successor": 1
+        },
+        "Rafsanjani": {
+          "reformist": 1
+        },
+        "Mahmoud Ahmadinejad": {
+          "President": 2,
+          "Iranian": 1,
+          "Mayor Tehran": 1,
+          "incumbent": 1
+        },
+        "Mohammad Khatami": {
+          "Mohammad": 1
+        },
+        "Basij": {
+          "paramilitary": 1
+        },
+        "Mir-Hossein Mousavi": {
+          "candidates opposition": 1
+        }
+      }
+    },
+    {
+      "chapterIndex": 2,
+      "profiles": {
+        "Mousavi": {},
+        "IRGC": {}
+      }
+    },
+    {
+      "chapterIndex": 3,
+      "profiles": {}
+    },
+    {
+      "chapterIndex": 4,
+      "profiles": {}
+    },
+    {
+      "chapterIndex": 5,
+      "profiles": {
+        "Khamenei": {
+          "Ayatollah": 1
+        }
+      }
+    },
+    {
+      "chapterIndex": 6,
+      "profiles": {
+        "Maziar Bahari": {
+          "journalist Newsweek": 2
+        },
+        "Amir Sadeghi": {
+          "photographer Magazine LIFE": 2
+        }
+      }
+    },
+    {
+      "chapterIndex": 7,
+      "profiles": {
+        "Sohrab Aarabi": {
+          "such": 1
+        },
+        "Karroubi": {
+          "parliament": 1
+        }
+      }
+    },
+    {
+      "chapterIndex": 8,
+      "profiles": {
+        "Mehdi Karroubi": {
+          "Iranian": 1,
+          "parliament": 1
+        }
+      }
+    },
+    {
+      "chapterIndex": 9,
+      "profiles": {
+        "Jef Lambrecht": {
+          "national": 2,
+          "Belgian": 2
+        }
+      }
+    },
+    {
+      "chapterIndex": 10,
+      "profiles": {
+        "Association of Iranian Journalists": {
+          "Iranian": 2
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,580 @@
+[
+	{
+		"name": "Socrates",
+		"verbs": {
+			"prove": 2,
+			"rule out": 1,
+			"commit": 3,
+			"not meet": 2,
+			"do": 7,
+			"believe": 1,
+			"serve": 1,
+			"advocate": 2,
+			"urge": 1,
+			"offer": 2,
+			"live off": 2,
+			"refuse": 1,
+			"leave": 2,
+			"spend": 2,
+			"not seem": 2,
+			"have": 9,
+			"claim": 2,
+			"create": 3,
+			"credit": 1,
+			"reply": 1,
+			"live": 1,
+			"fight": 1,
+			"rescue": 2,
+			"discover": 1,
+			"move": 1,
+			"break": 2,
+			"teach": 6,
+			"go": 9,
+			"say": 2,
+			"come": 2,
+			"suggest": 1,
+			"stay": 3,
+			"call": 1,
+			"take": 2,
+			"criticize": 2,
+			"oppose": 2,
+			"describe": 1,
+			"become": 4
+		},
+		"adjs": {
+			"next": 1,
+			"role": 1,
+			"young": 3,
+			"charmides": 1,
+			"aged": 4,
+			"best": 1,
+			"life": 1,
+			"pupil": 3,
+			"not able": 5,
+			"son": 1,
+			"central figure": 1,
+			"not aware": 3,
+			"older": 1,
+			"president": 1
+		},
+		"positiveSentimentCount": 20,
+		"negativeSentimentCount": 156,
+		"veryPositiveSentimentCount": 0,
+		"veryNegativeSentimentCount": 0,
+		"quote": "Socrates is guilty of not believing inthe gods in which the state believes, but brings in other new divinities; Socrates also wrongs bycorrupting the youth. \n a pig \n Socrates...was busying Socrates aboutethical matters and... seeking the universal in these matters, and fixed thought for the first timeon universal definitions. \n Mankind atlarge is what I wish to deal with; and so I have got her, well assured that if I can endure her, Ishall have no difficulty in my relations with all the rest of human kind. \n pre-Socratic \n ",
+		"personality": {
+			"openness": 16.53869924549883,
+			"agreeableness": 5.8071484023822855,
+			"extroversion": 17.443581867178672,
+			"neuroticism": 11.039167452785371,
+			"conscientiousness": -8.521361376861437
+		},
+		"frequency": 193,
+		"locations": [
+			"Athens",
+			"Anaxagoras",
+			"Archelaus",
+			"Mantineia",
+			"Acropolis",
+			"Chaerephon",
+			"Potidaea",
+			"Amphipolis",
+			"Delium",
+			"Arginusae",
+			"Sparta",
+			"Alcibiades",
+			"Plato 's Republic",
+			"Charmides"
+		],
+		"temporals": [],
+		"roles": []
+	},
+	{
+		"name": "Plato",
+		"verbs": {
+			
+		},
+		"adjs": {
+			"pupils": 1,
+			"brilliant writer": 1,
+			"original writer": 1
+		},
+		"positiveSentimentCount": 2,
+		"negativeSentimentCount": 9,
+		"veryPositiveSentimentCount": 1,
+		"veryNegativeSentimentCount": 0,
+		"quote": null,
+		"personality": null,
+		"frequency": 12,
+		"locations": [
+			"Socrates",
+			"Crito"
+		],
+		"temporals": [],
+		"roles": []
+	},
+	{
+		"name": "Xenophon",
+		"verbs": {
+			"write": 1
+		},
+		"adjs": {
+			"influential": 2
+		},
+		"positiveSentimentCount": 1,
+		"negativeSentimentCount": 6,
+		"veryPositiveSentimentCount": 0,
+		"veryNegativeSentimentCount": 0,
+		"quote": null,
+		"personality": null,
+		"frequency": 7,
+		"locations": [
+			"Plato"
+		],
+		"temporals": [],
+		"roles": []
+	},
+	{
+		"name": "Phaenarete",
+		"verbs": {
+			
+		},
+		"adjs": {
+			"midwife": 1
+		},
+		"positiveSentimentCount": 0,
+		"negativeSentimentCount": 1,
+		"veryPositiveSentimentCount": 0,
+		"veryNegativeSentimentCount": 0,
+		"quote": null,
+		"personality": null,
+		"frequency": 1,
+		"locations": [],
+		"temporals": [],
+		"roles": []
+	},
+	{
+		"name": "Athenian Crito",
+		"verbs": {
+			
+		},
+		"adjs": {
+			"wealthy": 2
+		},
+		"positiveSentimentCount": 0,
+		"negativeSentimentCount": 1,
+		"veryPositiveSentimentCount": 0,
+		"veryNegativeSentimentCount": 0,
+		"quote": null,
+		"personality": null,
+		"frequency": 1,
+		"locations": [],
+		"temporals": [],
+		"roles": []
+	},
+	{
+		"name": "Anaxagoras",
+		"verbs": {
+			
+		},
+		"adjs": {
+			
+		},
+		"positiveSentimentCount": 0,
+		"negativeSentimentCount": 2,
+		"veryPositiveSentimentCount": 0,
+		"veryNegativeSentimentCount": 0,
+		"quote": null,
+		"personality": null,
+		"frequency": 2,
+		"locations": [
+			"Athens"
+		],
+		"temporals": [],
+		"roles": []
+	},
+	{
+		"name": "Zeno of Elea",
+		"verbs": {
+			
+		},
+		"adjs": {
+			
+		},
+		"positiveSentimentCount": 0,
+		"negativeSentimentCount": 1,
+		"veryPositiveSentimentCount": 0,
+		"veryNegativeSentimentCount": 0,
+		"quote": null,
+		"personality": null,
+		"frequency": 1,
+		"locations": [],
+		"temporals": [],
+		"roles": []
+	},
+	{
+		"name": "Parmenides",
+		"verbs": {
+			
+		},
+		"adjs": {
+			"credit": 1
+		},
+		"positiveSentimentCount": 1,
+		"negativeSentimentCount": 0,
+		"veryPositiveSentimentCount": 0,
+		"veryNegativeSentimentCount": 0,
+		"quote": null,
+		"personality": null,
+		"frequency": 1,
+		"locations": [],
+		"temporals": [],
+		"roles": []
+	},
+	{
+		"name": "Aspasia",
+		"verbs": {
+			
+		},
+		"adjs": {
+			"credit": 1
+		},
+		"positiveSentimentCount": 0,
+		"negativeSentimentCount": 1,
+		"veryPositiveSentimentCount": 0,
+		"veryNegativeSentimentCount": 0,
+		"quote": null,
+		"personality": null,
+		"frequency": 2,
+		"locations": [],
+		"temporals": [],
+		"roles": []
+	},
+	{
+		"name": "Pericles",
+		"verbs": {
+			
+		},
+		"adjs": {
+			
+		},
+		"positiveSentimentCount": 0,
+		"negativeSentimentCount": 2,
+		"veryPositiveSentimentCount": 0,
+		"veryNegativeSentimentCount": 0,
+		"quote": null,
+		"personality": null,
+		"frequency": 2,
+		"locations": [],
+		"temporals": [],
+		"roles": []
+	},
+	{
+		"name": "Diotima",
+		"verbs": {
+			
+		},
+		"adjs": {
+			"human": 2
+		},
+		"positiveSentimentCount": 0,
+		"negativeSentimentCount": 2,
+		"veryPositiveSentimentCount": 0,
+		"veryNegativeSentimentCount": 0,
+		"quote": null,
+		"personality": null,
+		"frequency": 2,
+		"locations": [
+			"Mantineia"
+		],
+		"temporals": [],
+		"roles": []
+	},
+	{
+		"name": "Xanthippe",
+		"verbs": {
+			"not share": 1
+		},
+		"adjs": {
+			"wife": 1,
+			"much": 1
+		},
+		"positiveSentimentCount": 1,
+		"negativeSentimentCount": 3,
+		"veryPositiveSentimentCount": 0,
+		"veryNegativeSentimentCount": 0,
+		"quote": null,
+		"personality": null,
+		"frequency": 4,
+		"locations": [],
+		"temporals": [],
+		"roles": []
+	},
+	{
+		"name": "Aristophanes",
+		"verbs": {
+			
+		},
+		"adjs": {
+			"friend": 1
+		},
+		"positiveSentimentCount": 0,
+		"negativeSentimentCount": 1,
+		"veryPositiveSentimentCount": 0,
+		"veryNegativeSentimentCount": 0,
+		"quote": "unjust logic. \n think-shop \n ",
+		"personality": null,
+		"frequency": 1,
+		"locations": [],
+		"temporals": [],
+		"roles": []
+	},
+	{
+		"name": "Aristotle",
+		"verbs": {
+			"have": 1
+		},
+		"adjs": {
+			
+		},
+		"positiveSentimentCount": 0,
+		"negativeSentimentCount": 2,
+		"veryPositiveSentimentCount": 0,
+		"veryNegativeSentimentCount": 0,
+		"quote": null,
+		"personality": null,
+		"frequency": 2,
+		"locations": [],
+		"temporals": [],
+		"roles": []
+	},
+	{
+		"name": "Sparta",
+		"verbs": {
+			"install": 1,
+			"kill": 1
+		},
+		"adjs": {
+			"military dictatorship": 1
+		},
+		"positiveSentimentCount": 0,
+		"negativeSentimentCount": 3,
+		"veryPositiveSentimentCount": 0,
+		"veryNegativeSentimentCount": 0,
+		"quote": null,
+		"personality": null,
+		"frequency": 4,
+		"locations": [
+			"Athens"
+		],
+		"temporals": [],
+		"roles": []
+	},
+	{
+		"name": "Alcibiades",
+		"verbs": {
+			"reveal": 1,
+			"reach": 2,
+			"succeed": 1,
+			"lose": 1,
+			"have": 2,
+			"flee": 1,
+			"further": 1,
+			"hope": 2,
+			"send": 3,
+			"seduce": 1
+		},
+		"adjs": {
+			"unstable": 2,
+			"egotistical": 1,
+			"first": 1,
+			"pupil": 1
+		},
+		"positiveSentimentCount": 1,
+		"negativeSentimentCount": 23,
+		"veryPositiveSentimentCount": 0,
+		"veryNegativeSentimentCount": 0,
+		"quote": null,
+		"personality": null,
+		"frequency": 26,
+		"locations": [
+			"Italy",
+			"Athens",
+			"Sparta",
+			"Persia",
+			"Turkey",
+			"Charmides"
+		],
+		"temporals": [],
+		"roles": []
+	},
+	{
+		"name": "Athenian Senate",
+		"verbs": {
+			
+		},
+		"adjs": {
+			
+		},
+		"positiveSentimentCount": 0,
+		"negativeSentimentCount": 1,
+		"veryPositiveSentimentCount": 0,
+		"veryNegativeSentimentCount": 0,
+		"quote": null,
+		"personality": null,
+		"frequency": 1,
+		"locations": [
+			"Arginusae"
+		],
+		"temporals": [],
+		"roles": []
+	},
+	{
+		"name": "democratic party",
+		"verbs": {
+			
+		},
+		"adjs": {
+			
+		},
+		"positiveSentimentCount": 0,
+		"negativeSentimentCount": 1,
+		"veryPositiveSentimentCount": 0,
+		"veryNegativeSentimentCount": 0,
+		"quote": null,
+		"personality": null,
+		"frequency": 1,
+		"locations": [],
+		"temporals": [],
+		"roles": []
+	},
+	{
+		"name": "Hermes",
+		"verbs": {
+			
+		},
+		"adjs": {
+			
+		},
+		"positiveSentimentCount": 0,
+		"negativeSentimentCount": 2,
+		"veryPositiveSentimentCount": 0,
+		"veryNegativeSentimentCount": 0,
+		"quote": null,
+		"personality": null,
+		"frequency": 2,
+		"locations": [
+			"Athens"
+		],
+		"temporals": [],
+		"roles": []
+	},
+	{
+		"name": "Charmides",
+		"verbs": {
+			"call": 1,
+			"not live": 1
+		},
+		"adjs": {
+			"Plato": 1
+		},
+		"positiveSentimentCount": 0,
+		"negativeSentimentCount": 4,
+		"veryPositiveSentimentCount": 0,
+		"veryNegativeSentimentCount": 0,
+		"quote": null,
+		"personality": null,
+		"frequency": 4,
+		"locations": [
+			"Eleusis",
+			"Athens"
+		],
+		"temporals": [],
+		"roles": []
+	},
+	{
+		"name": "Critias",
+		"verbs": {
+			"convince": 1,
+			"order": 1
+		},
+		"adjs": {
+			
+		},
+		"positiveSentimentCount": 0,
+		"negativeSentimentCount": 2,
+		"veryPositiveSentimentCount": 0,
+		"veryNegativeSentimentCount": 0,
+		"quote": null,
+		"personality": null,
+		"frequency": 3,
+		"locations": [
+			"Alcibiades",
+			"Eleusis"
+		],
+		"temporals": [],
+		"roles": []
+	},
+	{
+		"name": "Chaerephon",
+		"verbs": {
+			
+		},
+		"adjs": {
+			"old": 1,
+			"friend": 1
+		},
+		"positiveSentimentCount": 0,
+		"negativeSentimentCount": 1,
+		"veryPositiveSentimentCount": 0,
+		"veryNegativeSentimentCount": 0,
+		"quote": null,
+		"personality": null,
+		"frequency": 1,
+		"locations": [
+			"Athens"
+		],
+		"temporals": [],
+		"roles": []
+	},
+	{
+		"name": "Anytus",
+		"verbs": {
+			
+		},
+		"adjs": {
+			"democrat": 1
+		},
+		"positiveSentimentCount": 0,
+		"negativeSentimentCount": 1,
+		"veryPositiveSentimentCount": 0,
+		"veryNegativeSentimentCount": 0,
+		"quote": null,
+		"personality": null,
+		"frequency": 1,
+		"locations": [],
+		"temporals": [],
+		"roles": []
+	},
+	{
+		"name": "Aristobulus",
+		"verbs": {
+			"tell": 1
+		},
+		"adjs": {
+			
+		},
+		"positiveSentimentCount": 0,
+		"negativeSentimentCount": 1,
+		"veryPositiveSentimentCount": 0,
+		"veryNegativeSentimentCount": 0,
+		"quote": null,
+		"personality": null,
+		"frequency": 1,
+		"locations": [
+			"Crito"
+		],
+		"temporals": [],
+		"roles": []
+	}
+]

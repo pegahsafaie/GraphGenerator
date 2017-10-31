@@ -1,0 +1,206 @@
+[
+	{
+		"profileNames": [
+			"Rustam",
+			"Tehmina"
+		],
+		"frequency": 5,
+		"typeName": {
+			"romantic": "Heart",
+			"family": " wife "
+		}
+	},
+	{
+		"profileNames": [
+			"Sohrab",
+			"Tehmina"
+		],
+		"frequency": 2,
+		"typeName": {
+			"family": "mother"
+		}
+	},{
+		"profileNames": [
+			"Rustam",
+			"Sohrab"
+		],
+		"frequency": 1,
+		"typeName": {
+			"family": " son "
+		}
+	},
+	{
+		"profileNames": [
+			"Rustam",
+			"Zal"
+		],
+		"frequency": 1,
+		"typeName": {
+			"family": " son "
+		}
+	},
+	{
+		"profileNames": [
+			"Rustam",
+			"Sohrab",
+			"Tehmina"
+		],
+		"frequency": 1,
+		"typeName": {
+			"friendship": "like"
+		}
+	},
+	{
+		"profileNames": [
+			"Kae Kaus",
+			"Sohrab"
+		],
+		"frequency": 2,
+		"typeName": {
+			"enemy": "fight"
+		}
+	},
+	{
+		"profileNames": [
+			"Afrasiyab",
+			"Sohrab"
+		],
+		"frequency": 1,
+		"typeName": {
+			"friendship": "help"
+		}
+	},
+	{
+		"profileNames": [
+			"Gudarz",
+			"Hazir"
+		],
+		"frequency": 1,
+		"typeName": {
+			"family": " son "
+		}
+	},
+	{
+		"profileNames": [
+			"Gazdam",
+			"Hazir"
+		],
+		"frequency": 1,
+		"typeName": {
+			"friendship": "help"
+		}
+	},
+	{
+		"profileNames": [
+			"Gudarz Rustam",
+			"Toos"
+		],
+		"frequency": 1,
+		"typeName": {
+			"friendship": "like"
+		}
+	},
+	{
+		"profileNames": [
+			"Homan",
+			"Sohrab"
+		],
+		"frequency": 1,
+		"typeName": {
+			"enemy": "fight"
+		}
+	},
+	{
+		"profileNames": [
+			"Homan",
+			"Zindeh-razam"
+		],
+		"frequency": 1,
+		"typeName": {
+			"family": "uncle"
+		}
+	},
+	{
+		"profileNames": [
+			"Kae Kaus",
+			"Rustam"
+		],
+		"frequency": 1,
+		"typeName": {
+			"friendship": "enemy"
+		}
+	},
+	{
+		"profileNames": [
+			"Hazir",
+			"Sohrab"
+		],
+		"frequency": 1,
+		"typeName": {
+			"enemy": "lie"
+		}
+	},
+	{
+		"profileNames": [
+			"Rustam",
+			"Sohrab"
+		],
+		"frequency": 5,
+		"typeName": {
+			"enemy": "fight",
+			"family": " son "
+		}
+	},
+	{
+		"profileNames": [
+			"Rustam",
+			"Sohrab"
+		],
+		"frequency": 1,
+		"typeName": {
+			"enemy": "kill"
+		}
+	},
+	{
+		"profileNames": [
+			"Homan",
+			"Rustam",
+			"Zavareh"
+		],
+		"frequency": 1,
+		"typeName": {
+			"family": "brother"
+		}
+	},
+	{
+		"profileNames": [
+			"Hazir",
+			"Rustam",
+			"Zavareh"
+		],
+		"frequency": 1,
+		"typeName": {
+			"enemy": "kill"
+		}
+	},
+	{
+		"profileNames": [
+			"Gudarz",
+			"Hazir"
+		],
+		"frequency": 1,
+		"typeName": {
+			"family": " son "
+		}
+	},
+	{
+		"profileNames": [
+			"Sohrab",
+			"Zal"
+		],
+		"frequency": 1,
+		"typeName": {
+			"family": "parent"
+		}
+	}
+]

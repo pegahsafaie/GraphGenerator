@@ -1,0 +1,497 @@
+[
+  {
+    "name": "Socrates",
+    "verbs": {
+      "not charge": 1,
+      "explain": 1,
+      "annoy": 1,
+      "prove": 1,
+      "commit": 1,
+      "not meet": 1,
+      "decide": 1,
+      "do": 2,
+      "believe": 1,
+      "serve": 1,
+      "urge": 1,
+      "offer": 1,
+      "live off": 1,
+      "refuse": 1,
+      "leave": 1,
+      "continue": 1,
+      "not seem": 1,
+      "have": 3,
+      "claim": 1,
+      "credit": 1,
+      "reply": 1,
+      "live": 1,
+      "fight": 1,
+      "discover": 1,
+      "break": 1,
+      "teach": 1,
+      "go": 3,
+      "say": 1,
+      "stay": 1,
+      "call": 1,
+      "take": 1,
+      "know": 1,
+      "oppose": 1,
+      "describe": 1,
+      "turn down": 1,
+      "become": 3
+    },
+    "adjs": {
+      "guilty": 1,
+      "a pupil of anaxagoras": 1,
+      "central figure": 1,
+      "not popular": 1,
+      "the main character": 1,
+      "the son of Sophroniscus , a sculptor and stone-mason": 1,
+      "aged": 1,
+      "a young man": 1,
+      "older": 1
+    },
+    "positiveSentimentCount": 8,
+    "negativeSentimentCount": 77,
+    "veryPositiveSentimentCount": 0,
+    "veryNegativeSentimentCount": 0,
+    "quote": null,
+    "personality": null,
+    "frequency": 83,
+    "locations": [
+      "Athens",
+      "Anaxagoras",
+      "Mantineia",
+      "Acropolis",
+      "Socrates",
+      "Potidaea",
+      "Delium",
+      "Arginusae",
+      "Alcibiades",
+      "Plato 's Republic",
+      "Charmides",
+      "Crito"
+    ],
+    "temporals": [
+      "the fourth year",
+      "the sixth day of the month",
+      "the century",
+      "time",
+      "once",
+      "morning",
+      "399 B.C.",
+      "today",
+      "432 B.C.",
+      "406 B.C.",
+      "the next year"
+    ],
+    "roles": []
+  },
+  {
+    "name": "Plato",
+    "verbs": {
+      "pay": 1
+    },
+    "adjs": {},
+    "positiveSentimentCount": 3,
+    "negativeSentimentCount": 8,
+    "veryPositiveSentimentCount": 0,
+    "veryNegativeSentimentCount": 0,
+    "quote": null,
+    "personality": null,
+    "frequency": 9,
+    "locations": [
+      "Plataea",
+      "Plato 's Republic",
+      "Athens",
+      "Crito",
+      "Plato"
+    ],
+    "temporals": [],
+    "roles": []
+  },
+  {
+    "name": "Xenophon",
+    "verbs": {
+      "write": 1
+    },
+    "adjs": {},
+    "positiveSentimentCount": 1,
+    "negativeSentimentCount": 6,
+    "veryPositiveSentimentCount": 0,
+    "veryNegativeSentimentCount": 0,
+    "quote": null,
+    "personality": null,
+    "frequency": 6,
+    "locations": [
+      "Plato"
+    ],
+    "temporals": [],
+    "roles": []
+  },
+  {
+    "name": "Phaenarete",
+    "verbs": {},
+    "adjs": {
+      "a midwife": 1,
+      "His mother": 1
+    },
+    "positiveSentimentCount": 0,
+    "negativeSentimentCount": 1,
+    "veryPositiveSentimentCount": 0,
+    "veryNegativeSentimentCount": 0,
+    "quote": null,
+    "personality": null,
+    "frequency": 1,
+    "locations": [],
+    "temporals": [],
+    "roles": []
+  },
+  {
+    "name": "Athenian Crito",
+    "verbs": {},
+    "adjs": {},
+    "positiveSentimentCount": 0,
+    "negativeSentimentCount": 2,
+    "veryPositiveSentimentCount": 0,
+    "veryNegativeSentimentCount": 0,
+    "quote": null,
+    "personality": null,
+    "frequency": 2,
+    "locations": [],
+    "temporals": [],
+    "roles": []
+  },
+  {
+    "name": "Anaxagoras",
+    "verbs": {},
+    "adjs": {
+      "a favorite pupil of Archelaus": 1
+    },
+    "positiveSentimentCount": 0,
+    "negativeSentimentCount": 3,
+    "veryPositiveSentimentCount": 0,
+    "veryNegativeSentimentCount": 0,
+    "quote": null,
+    "personality": null,
+    "frequency": 2,
+    "locations": [
+      "Anaxagoras",
+      "Athens",
+      "Archelaus"
+    ],
+    "temporals": [],
+    "roles": []
+  },
+  {
+    "name": "Parmenides",
+    "verbs": {},
+    "adjs": {},
+    "positiveSentimentCount": 1,
+    "negativeSentimentCount": 1,
+    "veryPositiveSentimentCount": 0,
+    "veryNegativeSentimentCount": 0,
+    "quote": null,
+    "personality": null,
+    "frequency": 1,
+    "locations": [],
+    "temporals": [],
+    "roles": []
+  },
+  {
+    "name": "Aspasia",
+    "verbs": {},
+    "adjs": {},
+    "positiveSentimentCount": 0,
+    "negativeSentimentCount": 1,
+    "veryPositiveSentimentCount": 0,
+    "veryNegativeSentimentCount": 0,
+    "quote": null,
+    "personality": null,
+    "frequency": 1,
+    "locations": [],
+    "temporals": [],
+    "roles": []
+  },
+  {
+    "name": "Pericles",
+    "verbs": {},
+    "adjs": {},
+    "positiveSentimentCount": 1,
+    "negativeSentimentCount": 4,
+    "veryPositiveSentimentCount": 0,
+    "veryNegativeSentimentCount": 0,
+    "quote": null,
+    "personality": null,
+    "frequency": 2,
+    "locations": [],
+    "temporals": [],
+    "roles": []
+  },
+  {
+    "name": "Diotima",
+    "verbs": {},
+    "adjs": {
+      "The other woman": 1,
+      "human": 1
+    },
+    "positiveSentimentCount": 0,
+    "negativeSentimentCount": 1,
+    "veryPositiveSentimentCount": 0,
+    "veryNegativeSentimentCount": 0,
+    "quote": null,
+    "personality": null,
+    "frequency": 1,
+    "locations": [
+      "Mantineia"
+    ],
+    "temporals": [],
+    "roles": []
+  },
+  {
+    "name": "Xanthippe",
+    "verbs": {
+      "not share": 1
+    },
+    "adjs": {
+      "much": 1
+    },
+    "positiveSentimentCount": 0,
+    "negativeSentimentCount": 5,
+    "veryPositiveSentimentCount": 0,
+    "veryNegativeSentimentCount": 0,
+    "quote": null,
+    "personality": null,
+    "frequency": 4,
+    "locations": [],
+    "temporals": [
+      "time"
+    ],
+    "roles": []
+  },
+  {
+    "name": "Chaerephon",
+    "verbs": {
+      "go": 1
+    },
+    "adjs": {
+      "a leader of the democratic party in Athens": 1,
+      "old": 1
+    },
+    "positiveSentimentCount": 0,
+    "negativeSentimentCount": 2,
+    "veryPositiveSentimentCount": 0,
+    "veryNegativeSentimentCount": 0,
+    "quote": null,
+    "personality": null,
+    "frequency": 2,
+    "locations": [
+      "Athens"
+    ],
+    "temporals": [
+      "the next year"
+    ],
+    "roles": []
+  },
+  {
+    "name": "Aristophanes",
+    "verbs": {},
+    "adjs": {
+      "a friend of Socrates who knew this blend of Pre-Socratic ideas": 1
+    },
+    "positiveSentimentCount": 0,
+    "negativeSentimentCount": 4,
+    "veryPositiveSentimentCount": 0,
+    "veryNegativeSentimentCount": 0,
+    "quote": null,
+    "personality": null,
+    "frequency": 1,
+    "locations": [],
+    "temporals": [
+      "now",
+      "a few years later"
+    ],
+    "roles": []
+  },
+  {
+    "name": "Aristotle",
+    "verbs": {
+      "have": 1
+    },
+    "adjs": {
+      "Plato 's most famous student": 1
+    },
+    "positiveSentimentCount": 0,
+    "negativeSentimentCount": 2,
+    "veryPositiveSentimentCount": 0,
+    "veryNegativeSentimentCount": 0,
+    "quote": null,
+    "personality": null,
+    "frequency": 2,
+    "locations": [],
+    "temporals": [],
+    "roles": []
+  },
+  {
+    "name": "Alcibiades",
+    "verbs": {
+      "reveal": 1,
+      "convince": 1,
+      "reach": 1,
+      "lose": 1,
+      "have": 2,
+      "flee": 1,
+      "further": 1,
+      "hope": 1,
+      "send": 1,
+      "seduce": 1
+    },
+    "adjs": {
+      "unstable": 2,
+      "wounded": 1,
+      "handsome": 1,
+      "egotistical": 1,
+      "brilliant": 1,
+      "first": 1
+    },
+    "positiveSentimentCount": 1,
+    "negativeSentimentCount": 16,
+    "veryPositiveSentimentCount": 0,
+    "veryNegativeSentimentCount": 0,
+    "quote": null,
+    "personality": null,
+    "frequency": 13,
+    "locations": [
+      "Sicily",
+      "Italy",
+      "Athens",
+      "Sparta",
+      "Persia",
+      "Turkey",
+      "Alcibiades",
+      "Charmides"
+    ],
+    "temporals": [
+      "415 B.C.",
+      "406 B.C.",
+      "once",
+      "399 B.C."
+    ],
+    "roles": []
+  },
+  {
+    "name": "Charmides",
+    "verbs": {
+      "call": 1,
+      "not live": 1
+    },
+    "adjs": {},
+    "positiveSentimentCount": 0,
+    "negativeSentimentCount": 6,
+    "veryPositiveSentimentCount": 0,
+    "veryNegativeSentimentCount": 0,
+    "quote": null,
+    "personality": null,
+    "frequency": 4,
+    "locations": [
+      "Eleusis",
+      "Charmides",
+      "Athens"
+    ],
+    "temporals": [
+      "once"
+    ],
+    "roles": []
+  },
+  {
+    "name": "Critias",
+    "verbs": {
+      "call": 1,
+      "think": 1,
+      "read": 1,
+      "not live": 1,
+      "convince": 1,
+      "order": 1
+    },
+    "adjs": {
+      "important": 1
+    },
+    "positiveSentimentCount": 0,
+    "negativeSentimentCount": 11,
+    "veryPositiveSentimentCount": 0,
+    "veryNegativeSentimentCount": 0,
+    "quote": null,
+    "personality": null,
+    "frequency": 5,
+    "locations": [
+      "Athens",
+      "Alcibiades",
+      "Eleusis",
+      "Charmides"
+    ],
+    "temporals": [
+      "once",
+      "last ten years",
+      "399 B.C."
+    ],
+    "roles": []
+  },
+  {
+    "name": "Anytus",
+    "verbs": {},
+    "adjs": {
+      "the distinguished Athenian democrat": 1,
+      "soon-to-be": 1
+    },
+    "positiveSentimentCount": 0,
+    "negativeSentimentCount": 2,
+    "veryPositiveSentimentCount": 0,
+    "veryNegativeSentimentCount": 0,
+    "quote": null,
+    "personality": null,
+    "frequency": 2,
+    "locations": [
+      "Athens"
+    ],
+    "temporals": [
+      "the next year",
+      "399 B.C."
+    ],
+    "roles": []
+  },
+  {
+    "name": "Critobulus",
+    "verbs": {},
+    "adjs": {},
+    "positiveSentimentCount": 0,
+    "negativeSentimentCount": 0,
+    "veryPositiveSentimentCount": 0,
+    "veryNegativeSentimentCount": 0,
+    "quote": null,
+    "personality": null,
+    "frequency": 1,
+    "locations": [
+      "Crito"
+    ],
+    "temporals": [],
+    "roles": []
+  },
+  {
+    "name": "Aristobulus",
+    "verbs": {
+      "tell": 1
+    },
+    "adjs": {},
+    "positiveSentimentCount": 0,
+    "negativeSentimentCount": 0,
+    "veryPositiveSentimentCount": 0,
+    "veryNegativeSentimentCount": 0,
+    "quote": null,
+    "personality": null,
+    "frequency": 1,
+    "locations": [
+      "Crito"
+    ],
+    "temporals": [],
+    "roles": []
+  }
+]

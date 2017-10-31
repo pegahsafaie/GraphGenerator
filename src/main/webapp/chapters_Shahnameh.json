@@ -1,0 +1,128 @@
+{
+  "profileNames": [
+    "Rustam",
+    "Turan",
+    "Raksh",
+    "Rakhsh",
+    "Tehmina",
+    "Sohrab",
+    "Zal",
+    "Sam",
+    "Kae Kaus",
+    "Afrasiyab",
+    "Nariman",
+    "Hazir",
+    "Gudarz",
+    "Gazdam",
+    "Giv Toos",
+    "Behram Toos",
+    "Farhad",
+    "Toos",
+    "Homan",
+    "Zindeh-razam",
+    "Zavareh",
+    "Gastaham"
+  ],
+  "chapters": [
+    {
+      "chapterIndex": 1,
+      "profiles": {
+        "Raksh": {},
+        "Rustam": {
+          "distraught": 2,
+          "Hero":1
+        },
+        "Turan": {},
+        "Tehmina": {
+          "beautiful": 1,
+          "wise": 2
+        }
+      }
+    }, {
+      "chapterIndex": 2,
+      "profiles": {
+      "Rustam": {
+          "only person": 2,
+          "not willing": 1
+        },
+        "Sohrab": {
+          "jubilant": 2,
+          "unstoppable": 1
+        },"Kae Kaus": {
+          "King": 1
+        },
+        "Afrasiyab": {
+          "king": 1,
+          "Turanian": 1
+        }
+      }
+    },
+    {
+      "chapterIndex": 3,
+      "profiles": {
+        "Rustam": {
+        "not ready": 1,
+          "great": 2,
+          "furious": 1,
+          "firm": 1
+        },
+        "Giv Toos": {
+          "senior": 1,
+          "warrior": 1,
+          "great": 1
+        }
+      }
+    },{
+      "chapterIndex": 4,
+      "profiles": {
+        "Rustam": {
+          "not able": 1
+        },
+        "Tehmina": {
+        },
+        "Sohrab": {},
+        "Homan": {},
+        "Zindeh-razam": {
+          "maternal": 1
+        }
+      }
+    },
+    {
+      "chapterIndex": 5,
+      "profiles": {
+        "Rustam": {},
+        "Sohrab": {},
+        "Toos": {},
+        "Hazir": {
+          "commander": 1
+        }
+      }
+    },
+    {
+      "chapterIndex": 6,
+      "profiles": {
+        "Rustam": {
+          "inconsolable": 5
+        },
+        "Tehmina": {},
+        "Sohrab": {}
+      }
+    },
+    {
+      "chapterIndex": 7,
+      "profiles": {
+        "Zavareh": {},
+        "Kae Kaus": {
+          "King": 2
+        },
+        "Gastaham": {},
+        "Rustam": {
+          "anguished": 1,
+          "rage": 1
+        },
+        "Sohrab": {},
+        "Hazir": {}
+      }
+    }
+  ]
+}

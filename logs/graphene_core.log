@@ -1,0 +1,76 @@
+2017-09-16-13:16:46.312 [] INFO  StanfordCoreNLP - Adding annotator tokenize 
+2017-09-16-13:16:46.351 [] INFO  TokenizerAnnotator - No tokenizer type provided. Defaulting to PTBTokenizer. 
+2017-09-16-13:16:46.379 [] INFO  StanfordCoreNLP - Adding annotator ssplit 
+2017-09-16-13:16:46.399 [] INFO  StanfordCoreNLP - Adding annotator pos 
+2017-09-16-13:16:49.478 [] INFO  MaxentTagger - Loading POS tagger from edu/stanford/nlp/models/pos-tagger/english-left3words/english-left3words-distsim.tagger ... done [3.0 sec]. 
+2017-09-16-13:16:49.479 [] INFO  StanfordCoreNLP - Adding annotator lemma 
+2017-09-16-13:16:49.481 [] INFO  StanfordCoreNLP - Adding annotator parse 
+2017-09-16-13:16:51.099 [] INFO  ParserGrammar - Loading parser from serialized file edu/stanford/nlp/models/lexparser/englishPCFG.ser.gz ... done [1.5 sec]. 
+2017-09-16-13:16:51.183 [] INFO  StanfordCoreNLP - Adding annotator sentiment 
+2017-09-16-13:16:58.069 [] INFO  AbstractSequenceClassifier - Loading CLASSPATH classifier /edu/stanford/nlp/models/ner/english.all.3class.distsim.crf.ser.gz ... done [6.3 sec]. 
+2017-09-16-13:17:07.700 [] INFO  StanfordCoreNLP - Adding annotator tokenize 
+2017-09-16-13:17:07.701 [] INFO  StanfordCoreNLP - Adding annotator ssplit 
+2017-09-16-13:17:07.702 [] INFO  StanfordCoreNLP - Adding annotator pos 
+2017-09-16-13:17:07.703 [] INFO  StanfordCoreNLP - Adding annotator lemma 
+2017-09-16-13:17:07.703 [] INFO  StanfordCoreNLP - Adding annotator parse 
+2017-09-16-13:17:07.703 [] INFO  StanfordCoreNLP - Adding annotator sentiment 
+2017-09-16-13:17:17.959 [] INFO  AbstractSequenceClassifier - Loading CLASSPATH classifier /edu/stanford/nlp/models/ner/english.all.3class.distsim.crf.ser.gz ... done [10.3 sec]. 
+2017-09-16-13:19:55.761 [] INFO  StanfordCoreNLP - Adding annotator tokenize 
+2017-09-16-13:19:55.802 [] INFO  TokenizerAnnotator - No tokenizer type provided. Defaulting to PTBTokenizer. 
+2017-09-16-13:19:55.865 [] INFO  StanfordCoreNLP - Adding annotator ssplit 
+2017-09-16-13:19:55.920 [] INFO  StanfordCoreNLP - Adding annotator pos 
+2017-09-16-13:19:58.651 [] INFO  MaxentTagger - Loading POS tagger from edu/stanford/nlp/models/pos-tagger/english-left3words/english-left3words-distsim.tagger ... done [2.5 sec]. 
+2017-09-16-13:19:58.652 [] INFO  StanfordCoreNLP - Adding annotator lemma 
+2017-09-16-13:19:58.654 [] INFO  StanfordCoreNLP - Adding annotator parse 
+2017-09-16-13:20:00.448 [] INFO  ParserGrammar - Loading parser from serialized file edu/stanford/nlp/models/lexparser/englishPCFG.ser.gz ... done [1.7 sec]. 
+2017-09-16-13:20:00.494 [] INFO  StanfordCoreNLP - Adding annotator sentiment 
+2017-09-16-13:20:09.982 [] INFO  AbstractSequenceClassifier - Loading CLASSPATH classifier /edu/stanford/nlp/models/ner/english.all.3class.distsim.crf.ser.gz ... done [8.9 sec]. 
+2017-09-16-13:20:18.922 [] INFO  StanfordCoreNLP - Adding annotator tokenize 
+2017-09-16-13:20:18.922 [] INFO  StanfordCoreNLP - Adding annotator ssplit 
+2017-09-16-13:20:18.922 [] INFO  StanfordCoreNLP - Adding annotator pos 
+2017-09-16-13:20:18.922 [] INFO  StanfordCoreNLP - Adding annotator lemma 
+2017-09-16-13:20:18.923 [] INFO  StanfordCoreNLP - Adding annotator parse 
+2017-09-16-13:20:18.923 [] INFO  StanfordCoreNLP - Adding annotator sentiment 
+2017-09-16-13:20:25.278 [] INFO  AbstractSequenceClassifier - Loading CLASSPATH classifier /edu/stanford/nlp/models/ner/english.all.3class.distsim.crf.ser.gz ... done [6.4 sec]. 
+2017-09-16-13:20:37.445 [] INFO  StanfordCoreNLP - Adding annotator tokenize 
+2017-09-16-13:20:37.445 [] INFO  StanfordCoreNLP - Adding annotator ssplit 
+2017-09-16-13:20:37.445 [] INFO  StanfordCoreNLP - Adding annotator pos 
+2017-09-16-13:20:37.446 [] INFO  StanfordCoreNLP - Adding annotator lemma 
+2017-09-16-13:20:37.446 [] INFO  StanfordCoreNLP - Adding annotator parse 
+2017-09-16-13:20:37.446 [] INFO  StanfordCoreNLP - Adding annotator sentiment 
+2017-09-16-13:20:53.557 [] INFO  AbstractSequenceClassifier - Loading CLASSPATH classifier /edu/stanford/nlp/models/ner/english.all.3class.distsim.crf.ser.gz ... done [16.1 sec]. 
+2017-09-16-13:20:55.825 [] INFO  StanfordCoreNLP - Adding annotator tokenize 
+2017-09-16-13:20:55.826 [] INFO  StanfordCoreNLP - Adding annotator ssplit 
+2017-09-16-13:20:55.826 [] INFO  StanfordCoreNLP - Adding annotator pos 
+2017-09-16-13:20:55.826 [] INFO  StanfordCoreNLP - Adding annotator lemma 
+2017-09-16-13:20:55.826 [] INFO  StanfordCoreNLP - Adding annotator parse 
+2017-09-16-13:20:55.827 [] INFO  StanfordCoreNLP - Adding annotator sentiment 
+2017-09-16-13:21:01.198 [] INFO  AbstractSequenceClassifier - Loading CLASSPATH classifier /edu/stanford/nlp/models/ner/english.all.3class.distsim.crf.ser.gz ... done [5.4 sec]. 
+2017-09-16-13:21:09.776 [] INFO  StanfordCoreNLP - Adding annotator tokenize 
+2017-09-16-13:21:09.776 [] INFO  StanfordCoreNLP - Adding annotator ssplit 
+2017-09-16-13:21:09.776 [] INFO  StanfordCoreNLP - Adding annotator pos 
+2017-09-16-13:21:09.777 [] INFO  StanfordCoreNLP - Adding annotator lemma 
+2017-09-16-13:21:09.777 [] INFO  StanfordCoreNLP - Adding annotator parse 
+2017-09-16-13:21:09.777 [] INFO  StanfordCoreNLP - Adding annotator sentiment 
+2017-09-16-13:21:11.262 [] INFO  AbstractSequenceClassifier - Loading CLASSPATH classifier /edu/stanford/nlp/models/ner/english.all.3class.distsim.crf.ser.gz ... done [1.5 sec]. 
+2017-09-16-13:21:18.867 [] INFO  StanfordCoreNLP - Adding annotator tokenize 
+2017-09-16-13:21:18.868 [] INFO  StanfordCoreNLP - Adding annotator ssplit 
+2017-09-16-13:21:18.868 [] INFO  StanfordCoreNLP - Adding annotator pos 
+2017-09-16-13:21:18.868 [] INFO  StanfordCoreNLP - Adding annotator lemma 
+2017-09-16-13:21:18.868 [] INFO  StanfordCoreNLP - Adding annotator parse 
+2017-09-16-13:21:18.868 [] INFO  StanfordCoreNLP - Adding annotator sentiment 
+2017-09-16-13:21:20.640 [] INFO  AbstractSequenceClassifier - Loading CLASSPATH classifier /edu/stanford/nlp/models/ner/english.all.3class.distsim.crf.ser.gz ... done [1.8 sec]. 
+2017-09-16-13:21:22.782 [] INFO  StanfordCoreNLP - Adding annotator tokenize 
+2017-09-16-13:21:22.782 [] INFO  StanfordCoreNLP - Adding annotator ssplit 
+2017-09-16-13:21:22.782 [] INFO  StanfordCoreNLP - Adding annotator pos 
+2017-09-16-13:21:22.782 [] INFO  StanfordCoreNLP - Adding annotator lemma 
+2017-09-16-13:21:22.782 [] INFO  StanfordCoreNLP - Adding annotator parse 
+2017-09-16-13:21:22.782 [] INFO  StanfordCoreNLP - Adding annotator sentiment 
+2017-09-16-13:21:24.287 [] INFO  AbstractSequenceClassifier - Loading CLASSPATH classifier /edu/stanford/nlp/models/ner/english.all.3class.distsim.crf.ser.gz ... done [1.5 sec]. 
+2017-09-16-13:21:29.915 [] INFO  StanfordCoreNLP - Adding annotator tokenize 
+2017-09-16-13:21:29.915 [] INFO  StanfordCoreNLP - Adding annotator ssplit 
+2017-09-16-13:21:29.915 [] INFO  StanfordCoreNLP - Adding annotator pos 
+2017-09-16-13:21:29.915 [] INFO  StanfordCoreNLP - Adding annotator lemma 
+2017-09-16-13:21:29.915 [] INFO  StanfordCoreNLP - Adding annotator parse 
+2017-09-16-13:21:29.915 [] INFO  StanfordCoreNLP - Adding annotator sentiment 
+2017-09-16-13:21:31.350 [] INFO  AbstractSequenceClassifier - Loading CLASSPATH classifier /edu/stanford/nlp/models/ner/english.all.3class.distsim.crf.ser.gz ... done [1.4 sec]. 

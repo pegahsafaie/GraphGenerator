@@ -1,0 +1,226 @@
+{
+  "profileNames": [
+    "Uther",
+    "Igraine",
+    "Merlin",
+    "Arthur",
+    "Ector",
+    "Kay",
+    "Galahad",
+    "Pellinore",
+    "Queen Annoure",
+    "Morgan-le-Fay",
+    "Damas",
+    "Accolon",
+    "Queen Guinevere",
+    "Camelot",
+    "Vivien",
+    "King of Lyonesse",
+    "Tristram",
+    "Mark",
+    "Marhaus",
+    "Isolt",
+    "Palamides",
+    "Atherp",
+    "Lancelot",
+    "Bors",
+    "Gawain",
+    "Mordred",
+    "Lucan",
+    "Bedivere"
+  ],
+  "chapters": [
+    {
+      "chapterIndex": 1,
+      "profiles": {
+        "Uther": {
+          "King": 1,
+          "sad": 1,
+          "married": 1,
+          "good man": 1
+        },
+        "Arthur": {
+          "young man": 1
+        },
+        "Igraine": {},
+        "Merlin": {
+          "clever man": 1,
+          "day": 1
+        }
+      }
+    },
+    {
+      "chapterIndex": 2,
+      "profiles": {
+        "Ector": {
+          "Sir": 7
+        },
+        "Kay": {
+          "Sir": 2
+        },
+        "Arthur": {
+          "strong": 1,
+          "good king": 1,
+          "King": 1,
+          "old": 1,
+          "young man": 1,
+          "afraid": 1
+        },
+        "Merlin": {
+          "minutes": 1
+        }
+      }
+    },
+    {
+      "chapterIndex": 3,
+      "profiles": {
+        "Arthur": {
+          "King": 5,
+          "good": 1
+        },
+        "Galahad": {},
+        "Merlin": {
+          "best": 1,
+          "Cried": 1
+        }
+      }
+    },
+    {
+      "chapterIndex": 4,
+      "profiles": {
+        "Arthur": {
+          "hungry": 1,
+          "thirsty": 2,
+          "King": 9
+        },
+        "Queen Annoure": {},
+        "Pellinore": {},
+        "Merlin": {
+          "angry": 1,
+          "day": 1
+        }
+      }
+    },
+    {
+      "chapterIndex": 5,
+      "profiles": {
+        "Accolon": {
+          "Sir": 1
+        },
+        "Arthur": {
+          "King": 19,
+          "ready": 1,
+          "happy": 1,
+          "dead": 1,
+          "angry": 1
+        },
+        "Morgan-le-Fay": {
+          "Queen": 13,
+          "ready": 2,
+          "happy": 1,
+          "bad woman": 1,
+          "evil knight": 1,
+          "angry": 1,
+          "little room": 1
+        },
+        "Damas": {
+          "Sir": 7
+        },
+        "Queen Guinevere": {}
+      }
+    },
+    {
+      "chapterIndex": 6,
+      "profiles": {
+        "Vivien": {
+          "Lady": 2
+        },
+        "Arthur": {
+          "King": 1,
+          "young man": 1
+        },
+        "Camelot": {},
+        "Merlin": {
+          "old man": 1,
+          "great": 1
+        }
+      }
+    },
+    {
+      "chapterIndex": 7,
+      "profiles": {
+        "Atherp": {},
+        "Tristram": {
+          "strong": 1,
+          "young": 1,
+          "stronger": 1,
+          "happy": 1,
+          "Sir": 9,
+          "good man": 1
+        },
+        "Arthur": {
+          "King": 2,
+          "sorry": 1,
+          "angry": 1
+        },
+        "Isolt": {
+          "Queen": 1
+        },
+        "Marhaus": {
+          "strong": 1,
+          "quick": 1,
+          "older": 1,
+          "Sir": 4
+        },
+        "Mark": {
+          "King": 2,
+          "good man": 1
+        },
+        "King of Lyonesse": {},
+        "Palamides": {
+          "Sir day": 1,
+          "Sir": 10
+        }
+      }
+    },
+    {
+      "chapterIndex": 8,
+      "profiles": {
+        "Bors": {
+          "Sir": 1
+        },
+        "Mordred": {},
+        "Lucan": {
+          "Sir": 3
+        },
+        "Arthur": {
+          "King": 11,
+          "young": 1,
+          "afraid": 1,
+          "sad": 3,
+          "happy": 1,
+          "sadly.King": 1,
+          "dead": 1,
+          "cold": 1,
+          "angry": 1,
+          "time": 1,
+          "Percivale.King": 1
+        },
+        "Lancelot": {
+          "Sir": 5
+        },
+        "Galahad": {
+          "afraid": 1,
+          "new king": 1,
+          "Sir": 3
+        },
+        "Bedivere": {
+          "Sir": 10
+        },
+        "Gawain": {
+          "Sir": 1
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,2155 @@
+[
+	{
+		"name": "Mahmoud Ahmadinejad",
+		"verbs": {
+			"call": 1,
+			"focus": 1,
+			"respond": 1,
+			"begin": 1
+		},
+		"adjs": {
+			"President": 3,
+			"iranian": 2,
+			"presidency": 1,
+			"current": 1,
+			"proponents": 1,
+			"speeches": 1,
+			"mayor tehran": 1,
+			"incumbent": 1
+		},
+		"positiveSentimentCount": 1,
+		"negativeSentimentCount": 13,
+		"veryPositiveSentimentCount": 0,
+		"veryNegativeSentimentCount": 0,
+		"quote": "\"absolute freedom\"\"divine assessment\"\"passions after a soccer match\"\"great victory\"\"completely free\"",
+		"personality": null,
+		"frequency": 14,
+		"locations": [
+			"Iran",
+			"Tehran",
+			"Israel"
+		],
+		"temporals": [],
+		"roles": []
+	},
+	{
+		"name": "Mir-Hossein Mousavi",
+		"verbs": {
+			"lodge": 1,
+			"visit": 1,
+			"announce": 2
+		},
+		"adjs": {
+			"presidential": 1,
+			"candidates opposition": 2,
+			"supporters": 1
+		},
+		"positiveSentimentCount": 0,
+		"negativeSentimentCount": 10,
+		"veryPositiveSentimentCount": 0,
+		"veryNegativeSentimentCount": 1,
+		"quote": "\"won't surrender to this manipulation\"",
+		"personality": null,
+		"frequency": 12,
+		"locations": [
+			"South Korea",
+			"Tehran"
+		],
+		"temporals": [],
+		"roles": []
+	},
+	{
+		"name": "Mehdi Karroubi",
+		"verbs": {
+			"visit": 1
+		},
+		"adjs": {
+			"iranian": 1,
+			"parliament": 1
+		},
+		"positiveSentimentCount": 0,
+		"negativeSentimentCount": 4,
+		"veryPositiveSentimentCount": 0,
+		"veryNegativeSentimentCount": 0,
+		"quote": null,
+		"personality": null,
+		"frequency": 5,
+		"locations": [
+			"Iran"
+		],
+		"temporals": [],
+		"roles": []
+	},
+	{
+		"name": "Rezaee",
+		"verbs": {
+			"not surrender": 1,
+			"lodge": 1
+		},
+		"adjs": {
+			"Candidates": 1
+		},
+		"positiveSentimentCount": 0,
+		"negativeSentimentCount": 2,
+		"veryPositiveSentimentCount": 0,
+		"veryNegativeSentimentCount": 0,
+		"quote": null,
+		"personality": null,
+		"frequency": 3,
+		"locations": [],
+		"temporals": [],
+		"roles": []
+	},
+	{
+		"name": "Guardian Council",
+		"verbs": {
+			
+		},
+		"adjs": {
+			
+		},
+		"positiveSentimentCount": 0,
+		"negativeSentimentCount": 5,
+		"veryPositiveSentimentCount": 0,
+		"veryNegativeSentimentCount": 1,
+		"quote": null,
+		"personality": null,
+		"frequency": 8,
+		"locations": [],
+		"temporals": [],
+		"roles": []
+	},
+	{
+		"name": "Ayatollah Ali Khamenei",
+		"verbs": {
+			
+		},
+		"adjs": {
+			
+		},
+		"positiveSentimentCount": 0,
+		"negativeSentimentCount": 1,
+		"veryPositiveSentimentCount": 0,
+		"veryNegativeSentimentCount": 0,
+		"quote": null,
+		"personality": null,
+		"frequency": 5,
+		"locations": [],
+		"temporals": [],
+		"roles": []
+	},
+	{
+		"name": "Green Movement",
+		"verbs": {
+			
+		},
+		"adjs": {
+			
+		},
+		"positiveSentimentCount": 0,
+		"negativeSentimentCount": 2,
+		"veryPositiveSentimentCount": 0,
+		"veryNegativeSentimentCount": 0,
+		"quote": null,
+		"personality": null,
+		"frequency": 2,
+		"locations": [
+			"Tehran"
+		],
+		"temporals": [],
+		"roles": []
+	},
+	{
+		"name": "Basij",
+		"verbs": {
+			"attack": 1,
+			"destroy": 1,
+			"suppress": 1
+		},
+		"adjs": {
+			"paramilitary": 1
+		},
+		"positiveSentimentCount": 0,
+		"negativeSentimentCount": 3,
+		"veryPositiveSentimentCount": 0,
+		"veryNegativeSentimentCount": 1,
+		"quote": null,
+		"personality": null,
+		"frequency": 4,
+		"locations": [],
+		"temporals": [],
+		"roles": []
+	},
+	{
+		"name": "Neda Agha-Soltan",
+		"verbs": {
+			
+		},
+		"adjs": {
+			
+		},
+		"positiveSentimentCount": 0,
+		"negativeSentimentCount": 5,
+		"veryPositiveSentimentCount": 0,
+		"veryNegativeSentimentCount": 0,
+		"quote": null,
+		"personality": null,
+		"frequency": 5,
+		"locations": [
+			"Kargar Avenue",
+			"Tehran"
+		],
+		"temporals": [],
+		"roles": []
+	},
+	{
+		"name": "YouTube",
+		"verbs": {
+			
+		},
+		"adjs": {
+			
+		},
+		"positiveSentimentCount": 0,
+		"negativeSentimentCount": 2,
+		"veryPositiveSentimentCount": 0,
+		"veryNegativeSentimentCount": 0,
+		"quote": null,
+		"personality": null,
+		"frequency": 2,
+		"locations": [],
+		"temporals": [],
+		"roles": []
+	},
+	{
+		"name": "Twitter",
+		"verbs": {
+			
+		},
+		"adjs": {
+			
+		},
+		"positiveSentimentCount": 0,
+		"negativeSentimentCount": 1,
+		"veryPositiveSentimentCount": 0,
+		"veryNegativeSentimentCount": 0,
+		"quote": null,
+		"personality": null,
+		"frequency": 1,
+		"locations": [],
+		"temporals": [],
+		"roles": []
+	},
+	{
+		"name": "Shah",
+		"verbs": {
+			
+		},
+		"adjs": {
+			"Rajai": 1,
+			"families": 1
+		},
+		"positiveSentimentCount": 0,
+		"negativeSentimentCount": 5,
+		"veryPositiveSentimentCount": 0,
+		"veryNegativeSentimentCount": 0,
+		"quote": null,
+		"personality": null,
+		"frequency": 5,
+		"locations": [
+			"Iran",
+			"Islamic Republic"
+		],
+		"temporals": [],
+		"roles": []
+	},
+	{
+		"name": "Ayatollah Khomeini",
+		"verbs": {
+			"order": 1
+		},
+		"adjs": {
+			
+		},
+		"positiveSentimentCount": 0,
+		"negativeSentimentCount": 5,
+		"veryPositiveSentimentCount": 0,
+		"veryNegativeSentimentCount": 0,
+		"quote": "\"enemies of god\"",
+		"personality": null,
+		"frequency": 5,
+		"locations": [
+			"Iran",
+			"Iraq"
+		],
+		"temporals": [],
+		"roles": []
+	},
+	{
+		"name": "Ayatollah Khamenei",
+		"verbs": {
+			"oppose": 1,
+			"emerge": 1
+		},
+		"adjs": {
+			"successor": 1
+		},
+		"positiveSentimentCount": 0,
+		"negativeSentimentCount": 4,
+		"veryPositiveSentimentCount": 0,
+		"veryNegativeSentimentCount": 2,
+		"quote": null,
+		"personality": null,
+		"frequency": 6,
+		"locations": [
+			"Iran",
+			"Iraq",
+			"Tehran"
+		],
+		"temporals": [],
+		"roles": []
+	},
+	{
+		"name": "Mojahedin Khalq",
+		"verbs": {
+			"pursue": 2,
+			"oppose": 2
+		},
+		"adjs": {
+			"instrumental": 1
+		},
+		"positiveSentimentCount": 0,
+		"negativeSentimentCount": 3,
+		"veryPositiveSentimentCount": 0,
+		"veryNegativeSentimentCount": 0,
+		"quote": null,
+		"personality": null,
+		"frequency": 3,
+		"locations": [],
+		"temporals": [],
+		"roles": []
+	},
+	{
+		"name": "Mohammad-Ali Rajai",
+		"verbs": {
+			
+		},
+		"adjs": {
+			"such": 1,
+			"Beheshti": 1
+		},
+		"positiveSentimentCount": 0,
+		"negativeSentimentCount": 1,
+		"veryPositiveSentimentCount": 0,
+		"veryNegativeSentimentCount": 0,
+		"quote": null,
+		"personality": null,
+		"frequency": 1,
+		"locations": [],
+		"temporals": [],
+		"roles": []
+	},
+	{
+		"name": "Fadaiyan",
+		"verbs": {
+			
+		},
+		"adjs": {
+			"Mojahedin": 1
+		},
+		"positiveSentimentCount": 0,
+		"negativeSentimentCount": 1,
+		"veryPositiveSentimentCount": 0,
+		"veryNegativeSentimentCount": 0,
+		"quote": null,
+		"personality": null,
+		"frequency": 1,
+		"locations": [],
+		"temporals": [],
+		"roles": []
+	},
+	{
+		"name": "Operation Mersad",
+		"verbs": {
+			
+		},
+		"adjs": {
+			
+		},
+		"positiveSentimentCount": 0,
+		"negativeSentimentCount": 1,
+		"veryPositiveSentimentCount": 0,
+		"veryNegativeSentimentCount": 0,
+		"quote": null,
+		"personality": null,
+		"frequency": 1,
+		"locations": [],
+		"temporals": [],
+		"roles": []
+	},
+	{
+		"name": "Mohammad Khatami",
+		"verbs": {
+			
+		},
+		"adjs": {
+			
+		},
+		"positiveSentimentCount": 0,
+		"negativeSentimentCount": 3,
+		"veryPositiveSentimentCount": 0,
+		"veryNegativeSentimentCount": 1,
+		"quote": null,
+		"personality": null,
+		"frequency": 4,
+		"locations": [
+			"Iran",
+			"Iraq"
+		],
+		"temporals": [],
+		"roles": []
+	},
+	{
+		"name": "Rafsanjani",
+		"verbs": {
+			
+		},
+		"adjs": {
+			"reformist": 1
+		},
+		"positiveSentimentCount": 0,
+		"negativeSentimentCount": 2,
+		"veryPositiveSentimentCount": 0,
+		"veryNegativeSentimentCount": 0,
+		"quote": null,
+		"personality": null,
+		"frequency": 2,
+		"locations": [
+			"Iran",
+			"Iraq",
+			"Tehran"
+		],
+		"temporals": [],
+		"roles": []
+	},
+	{
+		"name": "Mohammad Ali Jafari",
+		"verbs": {
+			
+		},
+		"adjs": {
+			
+		},
+		"positiveSentimentCount": 0,
+		"negativeSentimentCount": 1,
+		"veryPositiveSentimentCount": 0,
+		"veryNegativeSentimentCount": 0,
+		"quote": null,
+		"personality": null,
+		"frequency": 1,
+		"locations": [
+			"Iran",
+			"Iraq"
+		],
+		"temporals": [],
+		"roles": []
+	},
+	{
+		"name": "Mohammad Bagher Ghalibaf",
+		"verbs": {
+			
+		},
+		"adjs": {
+			
+		},
+		"positiveSentimentCount": 0,
+		"negativeSentimentCount": 1,
+		"veryPositiveSentimentCount": 0,
+		"veryNegativeSentimentCount": 0,
+		"quote": null,
+		"personality": null,
+		"frequency": 1,
+		"locations": [
+			"Iran",
+			"Iraq"
+		],
+		"temporals": [],
+		"roles": []
+	},
+	{
+		"name": "Qasem Soleimani",
+		"verbs": {
+			
+		},
+		"adjs": {
+			
+		},
+		"positiveSentimentCount": 0,
+		"negativeSentimentCount": 1,
+		"veryPositiveSentimentCount": 0,
+		"veryNegativeSentimentCount": 0,
+		"quote": null,
+		"personality": null,
+		"frequency": 1,
+		"locations": [
+			"Iran",
+			"Iraq"
+		],
+		"temporals": [],
+		"roles": []
+	},
+	{
+		"name": "Revolutionary Guards",
+		"verbs": {
+			
+		},
+		"adjs": {
+			
+		},
+		"positiveSentimentCount": 0,
+		"negativeSentimentCount": 1,
+		"veryPositiveSentimentCount": 0,
+		"veryNegativeSentimentCount": 0,
+		"quote": null,
+		"personality": null,
+		"frequency": 3,
+		"locations": [
+			"Iran",
+			"Iraq"
+		],
+		"temporals": [],
+		"roles": []
+	},
+	{
+		"name": "Security Services",
+		"verbs": {
+			
+		},
+		"adjs": {
+			
+		},
+		"positiveSentimentCount": 0,
+		"negativeSentimentCount": 1,
+		"veryPositiveSentimentCount": 0,
+		"veryNegativeSentimentCount": 0,
+		"quote": null,
+		"personality": null,
+		"frequency": 1,
+		"locations": [
+			"Iran",
+			"Iraq"
+		],
+		"temporals": [],
+		"roles": []
+	},
+	{
+		"name": "Saeed Hajjarian",
+		"verbs": {
+			
+		},
+		"adjs": {
+			"advisor": 1,
+			"presidential": 1,
+			"former": 1
+		},
+		"positiveSentimentCount": 0,
+		"negativeSentimentCount": 2,
+		"veryPositiveSentimentCount": 0,
+		"veryNegativeSentimentCount": 0,
+		"quote": null,
+		"personality": null,
+		"frequency": 2,
+		"locations": [],
+		"temporals": [],
+		"roles": []
+	},
+	{
+		"name": "Hamas",
+		"verbs": {
+			
+		},
+		"adjs": {
+			
+		},
+		"positiveSentimentCount": 0,
+		"negativeSentimentCount": 1,
+		"veryPositiveSentimentCount": 0,
+		"veryNegativeSentimentCount": 0,
+		"quote": null,
+		"personality": null,
+		"frequency": 1,
+		"locations": [
+			"United States"
+		],
+		"temporals": [],
+		"roles": []
+	},
+	{
+		"name": "Hezbollah",
+		"verbs": {
+			
+		},
+		"adjs": {
+			
+		},
+		"positiveSentimentCount": 0,
+		"negativeSentimentCount": 2,
+		"veryPositiveSentimentCount": 0,
+		"veryNegativeSentimentCount": 0,
+		"quote": null,
+		"personality": null,
+		"frequency": 2,
+		"locations": [
+			"United States"
+		],
+		"temporals": [],
+		"roles": []
+	},
+	{
+		"name": "United Nations",
+		"verbs": {
+			
+		},
+		"adjs": {
+			
+		},
+		"positiveSentimentCount": 0,
+		"negativeSentimentCount": 1,
+		"veryPositiveSentimentCount": 0,
+		"veryNegativeSentimentCount": 0,
+		"quote": null,
+		"personality": null,
+		"frequency": 1,
+		"locations": [],
+		"temporals": [],
+		"roles": []
+	},
+	{
+		"name": "Los Angeles Times",
+		"verbs": {
+			
+		},
+		"adjs": {
+			
+		},
+		"positiveSentimentCount": 0,
+		"negativeSentimentCount": 2,
+		"veryPositiveSentimentCount": 0,
+		"veryNegativeSentimentCount": 0,
+		"quote": null,
+		"personality": null,
+		"frequency": 2,
+		"locations": [],
+		"temporals": [],
+		"roles": []
+	},
+	{
+		"name": "IRGC",
+		"verbs": {
+			"have": 1
+		},
+		"adjs": {
+			
+		},
+		"positiveSentimentCount": 0,
+		"negativeSentimentCount": 2,
+		"veryPositiveSentimentCount": 0,
+		"veryNegativeSentimentCount": 0,
+		"quote": null,
+		"personality": null,
+		"frequency": 2,
+		"locations": [],
+		"temporals": [],
+		"roles": []
+	},
+	{
+		"name": "Ministry of Petroleum",
+		"verbs": {
+			
+		},
+		"adjs": {
+			
+		},
+		"positiveSentimentCount": 0,
+		"negativeSentimentCount": 1,
+		"veryPositiveSentimentCount": 0,
+		"veryNegativeSentimentCount": 0,
+		"quote": null,
+		"personality": null,
+		"frequency": 1,
+		"locations": [],
+		"temporals": [],
+		"roles": []
+	},
+	{
+		"name": "New York Times",
+		"verbs": {
+			
+		},
+		"adjs": {
+			
+		},
+		"positiveSentimentCount": 0,
+		"negativeSentimentCount": 1,
+		"veryPositiveSentimentCount": 0,
+		"veryNegativeSentimentCount": 0,
+		"quote": null,
+		"personality": null,
+		"frequency": 1,
+		"locations": [],
+		"temporals": [],
+		"roles": []
+	},
+	{
+		"name": "Walter R. Mebane",
+		"verbs": {
+			
+		},
+		"adjs": {
+			"Professor": 1,
+			"jr.": 1
+		},
+		"positiveSentimentCount": 0,
+		"negativeSentimentCount": 1,
+		"veryPositiveSentimentCount": 0,
+		"veryNegativeSentimentCount": 0,
+		"quote": "\"give moderately strong support for a diagnosis that the 2009 election was affected by significant fraud\"\"won't surrender to this manipulation\"",
+		"personality": {
+			"openness": 4.887456077239586,
+			"agreeableness": 10.446069747200688,
+			"extroversion": 13.467427810117817,
+			"neuroticism": 2.006007354079992,
+			"conscientiousness": 21.483031099831802
+		},
+		"frequency": 1,
+		"locations": [],
+		"temporals": [],
+		"roles": []
+	},
+	{
+		"name": "Department of Statistics of the University of Michigan",
+		"verbs": {
+			
+		},
+		"adjs": {
+			
+		},
+		"positiveSentimentCount": 0,
+		"negativeSentimentCount": 1,
+		"veryPositiveSentimentCount": 0,
+		"veryNegativeSentimentCount": 0,
+		"quote": null,
+		"personality": null,
+		"frequency": 1,
+		"locations": [],
+		"temporals": [],
+		"roles": []
+	},
+	{
+		"name": "Chatham House",
+		"verbs": {
+			
+		},
+		"adjs": {
+			"UK-based": 1
+		},
+		"positiveSentimentCount": 0,
+		"negativeSentimentCount": 0,
+		"veryPositiveSentimentCount": 0,
+		"veryNegativeSentimentCount": 1,
+		"quote": null,
+		"personality": null,
+		"frequency": 1,
+		"locations": [],
+		"temporals": [],
+		"roles": []
+	},
+	{
+		"name": "Ayatollah Ali Khameini",
+		"verbs": {
+			
+		},
+		"adjs": {
+			"Leader Supreme": 1
+		},
+		"positiveSentimentCount": 0,
+		"negativeSentimentCount": 1,
+		"veryPositiveSentimentCount": 0,
+		"veryNegativeSentimentCount": 0,
+		"quote": null,
+		"personality": null,
+		"frequency": 1,
+		"locations": [],
+		"temporals": [],
+		"roles": []
+	},
+	{
+		"name": "Facebook",
+		"verbs": {
+			
+		},
+		"adjs": {
+			
+		},
+		"positiveSentimentCount": 0,
+		"negativeSentimentCount": 1,
+		"veryPositiveSentimentCount": 0,
+		"veryNegativeSentimentCount": 0,
+		"quote": null,
+		"personality": null,
+		"frequency": 1,
+		"locations": [],
+		"temporals": [],
+		"roles": []
+	},
+	{
+		"name": "Ayatollah Ahmad Khatami",
+		"verbs": {
+			
+		},
+		"adjs": {
+			"Leader": 1
+		},
+		"positiveSentimentCount": 0,
+		"negativeSentimentCount": 2,
+		"veryPositiveSentimentCount": 0,
+		"veryNegativeSentimentCount": 0,
+		"quote": "\"Anybody who fights against the Islamic system or the leader of Islamic society, fight him until complete destruction\"",
+		"personality": {
+			"openness": 17.54277901913645,
+			"agreeableness": 8.093206916339485,
+			"extroversion": 12.805856869082133,
+			"neuroticism": 5.940696194023513,
+			"conscientiousness": 13.498116887243526
+		},
+		"frequency": 2,
+		"locations": [],
+		"temporals": [],
+		"roles": []
+	},
+	{
+		"name": "Mohandas Gandhi",
+		"verbs": {
+			
+		},
+		"adjs": {
+			
+		},
+		"positiveSentimentCount": 0,
+		"negativeSentimentCount": 1,
+		"veryPositiveSentimentCount": 0,
+		"veryNegativeSentimentCount": 0,
+		"quote": null,
+		"personality": null,
+		"frequency": 1,
+		"locations": [],
+		"temporals": [],
+		"roles": []
+	},
+	{
+		"name": "Parliament",
+		"verbs": {
+			
+		},
+		"adjs": {
+			
+		},
+		"positiveSentimentCount": 0,
+		"negativeSentimentCount": 1,
+		"veryPositiveSentimentCount": 0,
+		"veryNegativeSentimentCount": 0,
+		"quote": null,
+		"personality": null,
+		"frequency": 1,
+		"locations": [],
+		"temporals": [],
+		"roles": []
+	},
+	{
+		"name": "MIRO",
+		"verbs": {
+			
+		},
+		"adjs": {
+			
+		},
+		"positiveSentimentCount": 0,
+		"negativeSentimentCount": 0,
+		"veryPositiveSentimentCount": 0,
+		"veryNegativeSentimentCount": 1,
+		"quote": null,
+		"personality": null,
+		"frequency": 1,
+		"locations": [],
+		"temporals": [],
+		"roles": []
+	},
+	{
+		"name": "Behzad Nabavi",
+		"verbs": {
+			
+		},
+		"adjs": {
+			"founder MIRO": 1,
+			"mirdamadi": 1
+		},
+		"positiveSentimentCount": 0,
+		"negativeSentimentCount": 0,
+		"veryPositiveSentimentCount": 0,
+		"veryNegativeSentimentCount": 1,
+		"quote": null,
+		"personality": null,
+		"frequency": 1,
+		"locations": [],
+		"temporals": [],
+		"roles": []
+	},
+	{
+		"name": "Mohsen Mirdamadi",
+		"verbs": {
+			
+		},
+		"adjs": {
+			
+		},
+		"positiveSentimentCount": 0,
+		"negativeSentimentCount": 0,
+		"veryPositiveSentimentCount": 0,
+		"veryNegativeSentimentCount": 1,
+		"quote": null,
+		"personality": null,
+		"frequency": 1,
+		"locations": [],
+		"temporals": [],
+		"roles": []
+	},
+	{
+		"name": "Mohammad-Reza Khatami",
+		"verbs": {
+			
+		},
+		"adjs": {
+			
+		},
+		"positiveSentimentCount": 0,
+		"negativeSentimentCount": 0,
+		"veryPositiveSentimentCount": 0,
+		"veryNegativeSentimentCount": 1,
+		"quote": null,
+		"personality": null,
+		"frequency": 1,
+		"locations": [],
+		"temporals": [],
+		"roles": []
+	},
+	{
+		"name": "Mostafa Tajzadeh",
+		"verbs": {
+			
+		},
+		"adjs": {
+			
+		},
+		"positiveSentimentCount": 0,
+		"negativeSentimentCount": 0,
+		"veryPositiveSentimentCount": 0,
+		"veryNegativeSentimentCount": 1,
+		"quote": null,
+		"personality": null,
+		"frequency": 1,
+		"locations": [],
+		"temporals": [],
+		"roles": []
+	},
+	{
+		"name": "Mohsen Aminzadeh",
+		"verbs": {
+			
+		},
+		"adjs": {
+			
+		},
+		"positiveSentimentCount": 0,
+		"negativeSentimentCount": 0,
+		"veryPositiveSentimentCount": 0,
+		"veryNegativeSentimentCount": 1,
+		"quote": null,
+		"personality": null,
+		"frequency": 1,
+		"locations": [],
+		"temporals": [],
+		"roles": []
+	},
+	{
+		"name": "IRNA",
+		"verbs": {
+			"say": 1
+		},
+		"adjs": {
+			
+		},
+		"positiveSentimentCount": 0,
+		"negativeSentimentCount": 0,
+		"veryPositiveSentimentCount": 0,
+		"veryNegativeSentimentCount": 1,
+		"quote": null,
+		"personality": null,
+		"frequency": 1,
+		"locations": [],
+		"temporals": [],
+		"roles": []
+	},
+	{
+		"name": "Mashallah Shamsolvaezin",
+		"verbs": {
+			
+		},
+		"adjs": {
+			
+		},
+		"positiveSentimentCount": 0,
+		"negativeSentimentCount": 0,
+		"veryPositiveSentimentCount": 0,
+		"veryNegativeSentimentCount": 1,
+		"quote": null,
+		"personality": null,
+		"frequency": 1,
+		"locations": [],
+		"temporals": [],
+		"roles": []
+	},
+	{
+		"name": "University of Tehran",
+		"verbs": {
+			
+		},
+		"adjs": {
+			
+		},
+		"positiveSentimentCount": 0,
+		"negativeSentimentCount": 1,
+		"veryPositiveSentimentCount": 0,
+		"veryNegativeSentimentCount": 0,
+		"quote": null,
+		"personality": null,
+		"frequency": 1,
+		"locations": [],
+		"temporals": [],
+		"roles": []
+	},
+	{
+		"name": "Ahmad-Reza Radan",
+		"verbs": {
+			
+		},
+		"adjs": {
+			"Chief": 1
+		},
+		"positiveSentimentCount": 0,
+		"negativeSentimentCount": 1,
+		"veryPositiveSentimentCount": 0,
+		"veryNegativeSentimentCount": 0,
+		"quote": null,
+		"personality": null,
+		"frequency": 1,
+		"locations": [],
+		"temporals": [],
+		"roles": []
+	},
+	{
+		"name": "Gholam Hossein Mohseni-Ejehei",
+		"verbs": {
+			
+		},
+		"adjs": {
+			"minister released.Intelligence": 1
+		},
+		"positiveSentimentCount": 0,
+		"negativeSentimentCount": 3,
+		"veryPositiveSentimentCount": 0,
+		"veryNegativeSentimentCount": 2,
+		"quote": "\"counter-revolutionary groups penetrated election headquarters\"",
+		"personality": null,
+		"frequency": 5,
+		"locations": [
+			"Iran"
+		],
+		"temporals": [],
+		"roles": []
+	},
+	{
+		"name": "Saeed Mortazavi",
+		"verbs": {
+			
+		},
+		"adjs": {
+			
+		},
+		"positiveSentimentCount": 0,
+		"negativeSentimentCount": 0,
+		"veryPositiveSentimentCount": 0,
+		"veryNegativeSentimentCount": 1,
+		"quote": null,
+		"personality": null,
+		"frequency": 1,
+		"locations": [],
+		"temporals": [],
+		"roles": []
+	},
+	{
+		"name": "Mojtaba",
+		"verbs": {
+			
+		},
+		"adjs": {
+			
+		},
+		"positiveSentimentCount": 0,
+		"negativeSentimentCount": 1,
+		"veryPositiveSentimentCount": 0,
+		"veryNegativeSentimentCount": 0,
+		"quote": null,
+		"personality": null,
+		"frequency": 1,
+		"locations": [],
+		"temporals": [],
+		"roles": []
+	},
+	{
+		"name": "Reuters",
+		"verbs": {
+			"report": 1
+		},
+		"adjs": {
+			
+		},
+		"positiveSentimentCount": 0,
+		"negativeSentimentCount": 1,
+		"veryPositiveSentimentCount": 0,
+		"veryNegativeSentimentCount": 0,
+		"quote": null,
+		"personality": null,
+		"frequency": 1,
+		"locations": [],
+		"temporals": [],
+		"roles": []
+	},
+	{
+		"name": "Mohammad-Ali Abtahi",
+		"verbs": {
+			
+		},
+		"adjs": {
+			
+		},
+		"positiveSentimentCount": 0,
+		"negativeSentimentCount": 1,
+		"veryPositiveSentimentCount": 0,
+		"veryNegativeSentimentCount": 0,
+		"quote": null,
+		"personality": null,
+		"frequency": 1,
+		"locations": [],
+		"temporals": [],
+		"roles": []
+	},
+	{
+		"name": "Abdolfattah Soltani",
+		"verbs": {
+			
+		},
+		"adjs": {
+			"lawyer rights": 1,
+			"human": 1
+		},
+		"positiveSentimentCount": 0,
+		"negativeSentimentCount": 0,
+		"veryPositiveSentimentCount": 0,
+		"veryNegativeSentimentCount": 1,
+		"quote": null,
+		"personality": null,
+		"frequency": 1,
+		"locations": [],
+		"temporals": [],
+		"roles": []
+	},
+	{
+		"name": "Shirin Ebadi",
+		"verbs": {
+			
+		},
+		"adjs": {
+			
+		},
+		"positiveSentimentCount": 0,
+		"negativeSentimentCount": 0,
+		"veryPositiveSentimentCount": 0,
+		"veryNegativeSentimentCount": 1,
+		"quote": null,
+		"personality": null,
+		"frequency": 1,
+		"locations": [],
+		"temporals": [],
+		"roles": []
+	},
+	{
+		"name": "Shiraz University",
+		"verbs": {
+			
+		},
+		"adjs": {
+			
+		},
+		"positiveSentimentCount": 0,
+		"negativeSentimentCount": 1,
+		"veryPositiveSentimentCount": 0,
+		"veryNegativeSentimentCount": 0,
+		"quote": null,
+		"personality": null,
+		"frequency": 1,
+		"locations": [],
+		"temporals": [],
+		"roles": []
+	},
+	{
+		"name": "Freedom Movement of Iran",
+		"verbs": {
+			
+		},
+		"adjs": {
+			
+		},
+		"positiveSentimentCount": 0,
+		"negativeSentimentCount": 2,
+		"veryPositiveSentimentCount": 0,
+		"veryNegativeSentimentCount": 0,
+		"quote": null,
+		"personality": null,
+		"frequency": 2,
+		"locations": [
+			"Tehran",
+			"Tabriz"
+		],
+		"temporals": [],
+		"roles": []
+	},
+	{
+		"name": "Ebrahim Yazdi",
+		"verbs": {
+			
+		},
+		"adjs": {
+			
+		},
+		"positiveSentimentCount": 0,
+		"negativeSentimentCount": 1,
+		"veryPositiveSentimentCount": 0,
+		"veryNegativeSentimentCount": 0,
+		"quote": null,
+		"personality": null,
+		"frequency": 1,
+		"locations": [
+			"Tehran"
+		],
+		"temporals": [],
+		"roles": []
+	},
+	{
+		"name": "Aaron Rhodes",
+		"verbs": {
+			
+		},
+		"adjs": {
+			"spokesman": 1
+		},
+		"positiveSentimentCount": 0,
+		"negativeSentimentCount": 1,
+		"veryPositiveSentimentCount": 0,
+		"veryNegativeSentimentCount": 0,
+		"quote": "\"Iranian intelligence and security forces are using the public protests to engage in what appears to be a major purge of reform-oriented individuals whose situations in detention could be life-threatening\"",
+		"personality": {
+			"openness": 9.685789654195116,
+			"agreeableness": 5.597157708912046,
+			"extroversion": 8.856769564440318,
+			"neuroticism": 1.834620404454132,
+			"conscientiousness": 5.098698530999216
+		},
+		"frequency": 1,
+		"locations": [
+			"Iran"
+		],
+		"temporals": [],
+		"roles": []
+	},
+	{
+		"name": "Mohammadreza Habibi",
+		"verbs": {
+			
+		},
+		"adjs": {
+			"prosecutor-general": 1
+		},
+		"positiveSentimentCount": 0,
+		"negativeSentimentCount": 3,
+		"veryPositiveSentimentCount": 0,
+		"veryNegativeSentimentCount": 0,
+		"quote": "\"criminal activities\"\"few elements controlled by foreigners disrupting security by inciting individuals to destroy and to commit arson\"",
+		"personality": {
+			"openness": 5.576582705715112,
+			"agreeableness": 15.161142168297983,
+			"extroversion": 18.105992057469944,
+			"neuroticism": 0.9745445586722098,
+			"conscientiousness": 18.71627234246594
+		},
+		"frequency": 3,
+		"locations": [
+			"Esfahan Province",
+			"Evin Prison",
+			"Tehran"
+		],
+		"temporals": [],
+		"roles": []
+	},
+	{
+		"name": "Committee to Protect Journalists",
+		"verbs": {
+			
+		},
+		"adjs": {
+			
+		},
+		"positiveSentimentCount": 0,
+		"negativeSentimentCount": 1,
+		"veryPositiveSentimentCount": 0,
+		"veryNegativeSentimentCount": 0,
+		"quote": null,
+		"personality": null,
+		"frequency": 1,
+		"locations": [
+			"Isfahan"
+		],
+		"temporals": [],
+		"roles": []
+	},
+	{
+		"name": "LIFE Magazine",
+		"verbs": {
+			
+		},
+		"adjs": {
+			
+		},
+		"positiveSentimentCount": 0,
+		"negativeSentimentCount": 1,
+		"veryPositiveSentimentCount": 0,
+		"veryNegativeSentimentCount": 0,
+		"quote": null,
+		"personality": null,
+		"frequency": 1,
+		"locations": [
+			"Isfahan"
+		],
+		"temporals": [],
+		"roles": []
+	},
+	{
+		"name": "Amir Sadeghi",
+		"verbs": {
+			
+		},
+		"adjs": {
+			"photographer Magazine LIFE": 1
+		},
+		"positiveSentimentCount": 0,
+		"negativeSentimentCount": 1,
+		"veryPositiveSentimentCount": 0,
+		"veryNegativeSentimentCount": 0,
+		"quote": null,
+		"personality": null,
+		"frequency": 1,
+		"locations": [
+			"Isfahan"
+		],
+		"temporals": [],
+		"roles": []
+	},
+	{
+		"name": "CPJ",
+		"verbs": {
+			
+		},
+		"adjs": {
+			
+		},
+		"positiveSentimentCount": 0,
+		"negativeSentimentCount": 1,
+		"veryPositiveSentimentCount": 0,
+		"veryNegativeSentimentCount": 0,
+		"quote": null,
+		"personality": null,
+		"frequency": 1,
+		"locations": [
+			"Evin Prison"
+		],
+		"temporals": [],
+		"roles": []
+	},
+	{
+		"name": "Newsweek",
+		"verbs": {
+			
+		},
+		"adjs": {
+			
+		},
+		"positiveSentimentCount": 0,
+		"negativeSentimentCount": 1,
+		"veryPositiveSentimentCount": 0,
+		"veryNegativeSentimentCount": 0,
+		"quote": null,
+		"personality": null,
+		"frequency": 1,
+		"locations": [
+			"Evin Prison"
+		],
+		"temporals": [],
+		"roles": []
+	},
+	{
+		"name": "Maziar Bahari",
+		"verbs": {
+			
+		},
+		"adjs": {
+			"journalist Newsweek": 1
+		},
+		"positiveSentimentCount": 0,
+		"negativeSentimentCount": 1,
+		"veryPositiveSentimentCount": 0,
+		"veryNegativeSentimentCount": 0,
+		"quote": null,
+		"personality": null,
+		"frequency": 1,
+		"locations": [
+			"Evin Prison"
+		],
+		"temporals": [],
+		"roles": []
+	},
+	{
+		"name": "Ali Fazli",
+		"verbs": {
+			
+		},
+		"adjs": {
+			"General": 1
+		},
+		"positiveSentimentCount": 0,
+		"negativeSentimentCount": 1,
+		"veryPositiveSentimentCount": 0,
+		"veryNegativeSentimentCount": 0,
+		"quote": null,
+		"personality": null,
+		"frequency": 1,
+		"locations": [
+			"Tehran"
+		],
+		"temporals": [],
+		"roles": []
+	},
+	{
+		"name": "The Guardian",
+		"verbs": {
+			
+		},
+		"adjs": {
+			
+		},
+		"positiveSentimentCount": 0,
+		"negativeSentimentCount": 3,
+		"veryPositiveSentimentCount": 0,
+		"veryNegativeSentimentCount": 0,
+		"quote": null,
+		"personality": null,
+		"frequency": 3,
+		"locations": [
+			"Tehran"
+		],
+		"temporals": [],
+		"roles": []
+	},
+	{
+		"name": "CNN",
+		"verbs": {
+			
+		},
+		"adjs": {
+			"other": 1
+		},
+		"positiveSentimentCount": 0,
+		"negativeSentimentCount": 1,
+		"veryPositiveSentimentCount": 0,
+		"veryNegativeSentimentCount": 0,
+		"quote": null,
+		"personality": null,
+		"frequency": 1,
+		"locations": [
+			"Tehran"
+		],
+		"temporals": [],
+		"roles": []
+	},
+	{
+		"name": "International Campaign for Human Rights in Iran",
+		"verbs": {
+			
+		},
+		"adjs": {
+			
+		},
+		"positiveSentimentCount": 0,
+		"negativeSentimentCount": 1,
+		"veryPositiveSentimentCount": 0,
+		"veryNegativeSentimentCount": 0,
+		"quote": null,
+		"personality": null,
+		"frequency": 1,
+		"locations": [],
+		"temporals": [],
+		"roles": []
+	},
+	{
+		"name": "Sohrab Aarabi",
+		"verbs": {
+			
+		},
+		"adjs": {
+			"such": 1,
+			"Amirnejad Hashemzadeh": 1
+		},
+		"positiveSentimentCount": 0,
+		"negativeSentimentCount": 4,
+		"veryPositiveSentimentCount": 0,
+		"veryNegativeSentimentCount": 0,
+		"quote": null,
+		"personality": null,
+		"frequency": 4,
+		"locations": [
+			"Iran"
+		],
+		"temporals": [],
+		"roles": []
+	},
+	{
+		"name": "Naser Amirnejad",
+		"verbs": {
+			
+		},
+		"adjs": {
+			"Aarabi": 1
+		},
+		"positiveSentimentCount": 0,
+		"negativeSentimentCount": 1,
+		"veryPositiveSentimentCount": 0,
+		"veryNegativeSentimentCount": 0,
+		"quote": null,
+		"personality": null,
+		"frequency": 1,
+		"locations": [
+			"Iran"
+		],
+		"temporals": [],
+		"roles": []
+	},
+	{
+		"name": "Masoud Hashemzadeh",
+		"verbs": {
+			
+		},
+		"adjs": {
+			"Aarabi": 1
+		},
+		"positiveSentimentCount": 0,
+		"negativeSentimentCount": 1,
+		"veryPositiveSentimentCount": 0,
+		"veryNegativeSentimentCount": 0,
+		"quote": null,
+		"personality": null,
+		"frequency": 1,
+		"locations": [
+			"Iran"
+		],
+		"temporals": [],
+		"roles": []
+	},
+	{
+		"name": "Mohammad Kamrani",
+		"verbs": {
+			
+		},
+		"adjs": {
+			
+		},
+		"positiveSentimentCount": 0,
+		"negativeSentimentCount": 1,
+		"veryPositiveSentimentCount": 0,
+		"veryNegativeSentimentCount": 0,
+		"quote": null,
+		"personality": null,
+		"frequency": 1,
+		"locations": [
+			"Iran"
+		],
+		"temporals": [],
+		"roles": []
+	},
+	{
+		"name": "Time magazine",
+		"verbs": {
+			
+		},
+		"adjs": {
+			
+		},
+		"positiveSentimentCount": 0,
+		"negativeSentimentCount": 1,
+		"veryPositiveSentimentCount": 0,
+		"veryNegativeSentimentCount": 0,
+		"quote": null,
+		"personality": null,
+		"frequency": 1,
+		"locations": [],
+		"temporals": [],
+		"roles": []
+	},
+	{
+		"name": "Ali Larijani",
+		"verbs": {
+			
+		},
+		"adjs": {
+			"speaker": 1,
+			"parliament": 1
+		},
+		"positiveSentimentCount": 0,
+		"negativeSentimentCount": 2,
+		"veryPositiveSentimentCount": 0,
+		"veryNegativeSentimentCount": 0,
+		"quote": null,
+		"personality": null,
+		"frequency": 3,
+		"locations": [
+			"Iran"
+		],
+		"temporals": [],
+		"roles": []
+	},
+	{
+		"name": "Ismail Ahmadi Moghaddam",
+		"verbs": {
+			
+		},
+		"adjs": {
+			"Gen. chief": 1
+		},
+		"positiveSentimentCount": 0,
+		"negativeSentimentCount": 1,
+		"veryPositiveSentimentCount": 0,
+		"veryNegativeSentimentCount": 0,
+		"quote": null,
+		"personality": null,
+		"frequency": 1,
+		"locations": [
+			"Iran"
+		],
+		"temporals": [],
+		"roles": []
+	},
+	{
+		"name": "Reza Allamehzadeh",
+		"verbs": {
+			
+		},
+		"adjs": {
+			"maker film rape.Iranian": 1
+		},
+		"positiveSentimentCount": 0,
+		"negativeSentimentCount": 0,
+		"veryPositiveSentimentCount": 0,
+		"veryNegativeSentimentCount": 0,
+		"quote": null,
+		"personality": null,
+		"frequency": 1,
+		"locations": [
+			"Iran"
+		],
+		"temporals": [],
+		"roles": []
+	},
+	{
+		"name": "Azar Al-Kanan",
+		"verbs": {
+			
+		},
+		"adjs": {
+			
+		},
+		"positiveSentimentCount": 0,
+		"negativeSentimentCount": 0,
+		"veryPositiveSentimentCount": 0,
+		"veryNegativeSentimentCount": 0,
+		"quote": null,
+		"personality": null,
+		"frequency": 1,
+		"locations": [
+			"Iran"
+		],
+		"temporals": [],
+		"roles": []
+	},
+	{
+		"name": "Fereshteh Ghazi",
+		"verbs": {
+			
+		},
+		"adjs": {
+			
+		},
+		"positiveSentimentCount": 0,
+		"negativeSentimentCount": 0,
+		"veryPositiveSentimentCount": 0,
+		"veryNegativeSentimentCount": 1,
+		"quote": null,
+		"personality": null,
+		"frequency": 1,
+		"locations": [
+			"Iran"
+		],
+		"temporals": [],
+		"roles": []
+	},
+	{
+		"name": "Rooz",
+		"verbs": {
+			
+		},
+		"adjs": {
+			
+		},
+		"positiveSentimentCount": 0,
+		"negativeSentimentCount": 0,
+		"veryPositiveSentimentCount": 0,
+		"veryNegativeSentimentCount": 1,
+		"quote": null,
+		"personality": null,
+		"frequency": 1,
+		"locations": [
+			"Iran"
+		],
+		"temporals": [],
+		"roles": []
+	},
+	{
+		"name": "Al Jazeera",
+		"verbs": {
+			
+		},
+		"adjs": {
+			
+		},
+		"positiveSentimentCount": 0,
+		"negativeSentimentCount": 1,
+		"veryPositiveSentimentCount": 0,
+		"veryNegativeSentimentCount": 0,
+		"quote": null,
+		"personality": null,
+		"frequency": 1,
+		"locations": [],
+		"temporals": [],
+		"roles": []
+	},
+	{
+		"name": "Al Arabiya",
+		"verbs": {
+			
+		},
+		"adjs": {
+			
+		},
+		"positiveSentimentCount": 0,
+		"negativeSentimentCount": 1,
+		"veryPositiveSentimentCount": 0,
+		"veryNegativeSentimentCount": 0,
+		"quote": null,
+		"personality": null,
+		"frequency": 1,
+		"locations": [
+			"Tehran"
+		],
+		"temporals": [],
+		"roles": []
+	},
+	{
+		"name": "BBC World Service",
+		"verbs": {
+			
+		},
+		"adjs": {
+			
+		},
+		"positiveSentimentCount": 0,
+		"negativeSentimentCount": 1,
+		"veryPositiveSentimentCount": 0,
+		"veryNegativeSentimentCount": 0,
+		"quote": null,
+		"personality": null,
+		"frequency": 3,
+		"locations": [],
+		"temporals": [],
+		"roles": []
+	},
+	{
+		"name": "Peter Horrocks",
+		"verbs": {
+			
+		},
+		"adjs": {
+			
+		},
+		"positiveSentimentCount": 0,
+		"negativeSentimentCount": 1,
+		"veryPositiveSentimentCount": 0,
+		"veryNegativeSentimentCount": 0,
+		"quote": "\"It seems to be part of a pattern of behaviour by the Iranian authorities to limit the reporting of the aftermath of the disputed election\"",
+		"personality": {
+			"openness": 8.96329382518332,
+			"agreeableness": 10.662724365883218,
+			"extroversion": 12.694296996085608,
+			"neuroticism": 6.486811067754495,
+			"conscientiousness": 12.538335445723693
+		},
+		"frequency": 1,
+		"locations": [
+			"Iran",
+			"Middle East",
+			"Europe"
+		],
+		"temporals": [],
+		"roles": []
+	},
+	{
+		"name": "BBC Persian Television",
+		"verbs": {
+			
+		},
+		"adjs": {
+			
+		},
+		"positiveSentimentCount": 0,
+		"negativeSentimentCount": 3,
+		"veryPositiveSentimentCount": 0,
+		"veryNegativeSentimentCount": 0,
+		"quote": null,
+		"personality": null,
+		"frequency": 3,
+		"locations": [
+			"Iran",
+			"Middle East",
+			"Europe"
+		],
+		"temporals": [],
+		"roles": []
+	},
+	{
+		"name": "Jef Lambrecht",
+		"verbs": {
+			"take": 1,
+			"go": 1
+		},
+		"adjs": {
+			"belgian": 1,
+			"national": 1,
+			"reporter television": 1
+		},
+		"positiveSentimentCount": 0,
+		"negativeSentimentCount": 4,
+		"veryPositiveSentimentCount": 0,
+		"veryNegativeSentimentCount": 0,
+		"quote": null,
+		"personality": null,
+		"frequency": 4,
+		"locations": [
+			"Tehran"
+		],
+		"temporals": [],
+		"roles": []
+	},
+	{
+		"name": "VRT",
+		"verbs": {
+			
+		},
+		"adjs": {
+			
+		},
+		"positiveSentimentCount": 0,
+		"negativeSentimentCount": 1,
+		"veryPositiveSentimentCount": 0,
+		"veryNegativeSentimentCount": 0,
+		"quote": null,
+		"personality": null,
+		"frequency": 1,
+		"locations": [
+			"Tehran"
+		],
+		"temporals": [],
+		"roles": []
+	},
+	{
+		"name": "Vandervorst",
+		"verbs": {
+			
+		},
+		"adjs": {
+			
+		},
+		"positiveSentimentCount": 0,
+		"negativeSentimentCount": 3,
+		"veryPositiveSentimentCount": 0,
+		"veryNegativeSentimentCount": 0,
+		"quote": null,
+		"personality": null,
+		"frequency": 3,
+		"locations": [
+			"Tehran"
+		],
+		"temporals": [],
+		"roles": []
+	},
+	{
+		"name": "Ministry of Information",
+		"verbs": {
+			
+		},
+		"adjs": {
+			
+		},
+		"positiveSentimentCount": 0,
+		"negativeSentimentCount": 1,
+		"veryPositiveSentimentCount": 0,
+		"veryNegativeSentimentCount": 0,
+		"quote": null,
+		"personality": null,
+		"frequency": 1,
+		"locations": [],
+		"temporals": [],
+		"roles": []
+	},
+	{
+		"name": "Nova",
+		"verbs": {
+			
+		},
+		"adjs": {
+			
+		},
+		"positiveSentimentCount": 0,
+		"negativeSentimentCount": 4,
+		"veryPositiveSentimentCount": 0,
+		"veryNegativeSentimentCount": 0,
+		"quote": null,
+		"personality": null,
+		"frequency": 4,
+		"locations": [
+			"Nova"
+		],
+		"temporals": [],
+		"roles": []
+	},
+	{
+		"name": "Ministry of Culture",
+		"verbs": {
+			
+		},
+		"adjs": {
+			
+		},
+		"positiveSentimentCount": 0,
+		"negativeSentimentCount": 2,
+		"veryPositiveSentimentCount": 0,
+		"veryNegativeSentimentCount": 0,
+		"quote": null,
+		"personality": null,
+		"frequency": 2,
+		"locations": [
+			"Tehran"
+		],
+		"temporals": [],
+		"roles": []
+	},
+	{
+		"name": "Association of Iranian Journalists",
+		"verbs": {
+			
+		},
+		"adjs": {
+			
+		},
+		"positiveSentimentCount": 0,
+		"negativeSentimentCount": 2,
+		"veryPositiveSentimentCount": 0,
+		"veryNegativeSentimentCount": 0,
+		"quote": null,
+		"personality": null,
+		"frequency": 2,
+		"locations": [
+			"Tehran"
+		],
+		"temporals": [],
+		"roles": []
+	},
+	{
+		"name": "International Federation of Journalists",
+		"verbs": {
+			
+		},
+		"adjs": {
+			"Iranian": 1
+		},
+		"positiveSentimentCount": 0,
+		"negativeSentimentCount": 1,
+		"veryPositiveSentimentCount": 0,
+		"veryNegativeSentimentCount": 0,
+		"quote": null,
+		"personality": null,
+		"frequency": 1,
+		"locations": [
+			"Tehran"
+		],
+		"temporals": [],
+		"roles": []
+	},
+	{
+		"name": "John Simpson",
+		"verbs": {
+			
+		},
+		"adjs": {
+			
+		},
+		"positiveSentimentCount": 0,
+		"negativeSentimentCount": 1,
+		"veryPositiveSentimentCount": 0,
+		"veryNegativeSentimentCount": 0,
+		"quote": null,
+		"personality": null,
+		"frequency": 1,
+		"locations": [
+			"Tehran"
+		],
+		"temporals": [],
+		"roles": []
+	},
+	{
+		"name": "RAI",
+		"verbs": {
+			
+		},
+		"adjs": {
+			"broadcaster television": 1,
+			"public": 1,
+			"italian": 1
+		},
+		"positiveSentimentCount": 0,
+		"negativeSentimentCount": 1,
+		"veryPositiveSentimentCount": 0,
+		"veryNegativeSentimentCount": 0,
+		"quote": null,
+		"personality": null,
+		"frequency": 1,
+		"locations": [
+			"Tehran"
+		],
+		"temporals": [],
+		"roles": []
+	},
+	{
+		"name": "ABC News",
+		"verbs": {
+			
+		},
+		"adjs": {
+			
+		},
+		"positiveSentimentCount": 0,
+		"negativeSentimentCount": 0,
+		"veryPositiveSentimentCount": 0,
+		"veryNegativeSentimentCount": 0,
+		"quote": null,
+		"personality": null,
+		"frequency": 1,
+		"locations": [],
+		"temporals": [],
+		"roles": []
+	},
+	{
+		"name": "Jim Sciutto",
+		"verbs": {
+			
+		},
+		"adjs": {
+			"reporter News ABC": 1
+		},
+		"positiveSentimentCount": 0,
+		"negativeSentimentCount": 0,
+		"veryPositiveSentimentCount": 0,
+		"veryNegativeSentimentCount": 0,
+		"quote": null,
+		"personality": null,
+		"frequency": 1,
+		"locations": [],
+		"temporals": [],
+		"roles": []
+	},
+	{
+		"name": "ZDF",
+		"verbs": {
+			
+		},
+		"adjs": {
+			"public": 1,
+			"German": 1
+		},
+		"positiveSentimentCount": 0,
+		"negativeSentimentCount": 1,
+		"veryPositiveSentimentCount": 0,
+		"veryNegativeSentimentCount": 0,
+		"quote": null,
+		"personality": null,
+		"frequency": 1,
+		"locations": [
+			"Tehran"
+		],
+		"temporals": [],
+		"roles": []
+	},
+	{
+		"name": "Voice of America",
+		"verbs": {
+			
+		},
+		"adjs": {
+			
+		},
+		"positiveSentimentCount": 0,
+		"negativeSentimentCount": 1,
+		"veryPositiveSentimentCount": 0,
+		"veryNegativeSentimentCount": 0,
+		"quote": null,
+		"personality": null,
+		"frequency": 1,
+		"locations": [],
+		"temporals": [],
+		"roles": []
+	}
+]

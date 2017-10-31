@@ -1,0 +1,293 @@
+[
+  {
+    "name": "Richard Cœur de Lion",
+    "verbs": {
+      "love": 1,
+      "sail": 1,
+      "go": 3,
+      "ask": 1,
+      "say": 1,
+      "gather": 2
+    },
+    "adjs": {
+      "ashamed": 1,
+      "jealous": 5,
+      "King": 3,
+      "king": 4,
+      "ready": 4,
+      "fierce": 1,
+      "gentle": 1,
+      "terrible": 2
+    },
+    "positiveSentimentCount": 9,
+    "negativeSentimentCount": 16,
+    "veryPositiveSentimentCount": 2,
+    "veryNegativeSentimentCount": 0,
+    "quote": null,
+    "personality": null,
+    "frequency": 34,
+    "locations": [
+      "England",
+      "England",
+      "England",
+      "England",
+      "England",
+      "England",
+      "England",
+      "England",
+      "England",
+      "England",
+      "England",
+      "Palestine",
+      "Palestine",
+      "Palestine",
+      "Palestine",
+      "Palestine"
+    ],
+    "temporals": [],
+    "roles": []
+  },
+  {
+    "name": "William",
+    "verbs": {
+      "bring": 2
+    },
+    "adjs": {},
+    "positiveSentimentCount": 3,
+    "negativeSentimentCount": 5,
+    "veryPositiveSentimentCount": 0,
+    "veryNegativeSentimentCount": 0,
+    "quote": null,
+    "personality": null,
+    "frequency": 10,
+    "locations": [
+      "England",
+      "Britain",
+      "England",
+      "France",
+      "France",
+      "Saxon",
+      "Saxon"
+    ],
+    "temporals": [],
+    "roles": []
+  },
+  {
+    "name": "Saxon",
+    "verbs": {
+      "noble": 1
+    },
+    "adjs": {
+      "nobles": 1
+    },
+    "positiveSentimentCount": 1,
+    "negativeSentimentCount": 1,
+    "veryPositiveSentimentCount": 0,
+    "veryNegativeSentimentCount": 0,
+    "quote": null,
+    "personality": null,
+    "frequency": 2,
+    "locations": [
+      "Huntingdon"
+    ],
+    "temporals": [],
+    "roles": []
+  },
+  {
+    "name": "Norman",
+    "verbs": {
+      "teach": 2
+    },
+    "adjs": {
+      "nobles": 2,
+      "gentle": 4
+    },
+    "positiveSentimentCount": 0,
+    "negativeSentimentCount": 2,
+    "veryPositiveSentimentCount": 0,
+    "veryNegativeSentimentCount": 0,
+    "quote": null,
+    "personality": null,
+    "frequency": 4,
+    "locations": [
+      "Green Wood"
+    ],
+    "temporals": [],
+    "roles": []
+  },
+  {
+    "name": "John",
+    "verbs": {
+      "think": 1,
+      "throw": 2,
+      "lay": 4,
+      "reach": 2,
+      "have": 2,
+      "go": 1,
+      "try": 3,
+      "do": 1
+    },
+    "adjs": {
+      "pain": 4,
+      "wet": 1,
+      "nice man": 1,
+      "best": 1,
+      "heart": 2,
+      "hungry": 1,
+      "Prince": 4,
+      "poor": 1,
+      "Little": 8,
+      "tall": 1,
+      "good fighter": 1,
+      "different": 1,
+      "next Robin": 1,
+      "full": 1,
+      "little": 1
+    },
+    "positiveSentimentCount": 22,
+    "negativeSentimentCount": 18,
+    "veryPositiveSentimentCount": 1,
+    "veryNegativeSentimentCount": 1,
+    "quote": null,
+    "personality": null,
+    "frequency": 51,
+    "locations": [],
+    "temporals": [],
+    "roles": []
+  },
+  {
+    "name": "Robert",
+    "verbs": {
+      "keep": 2,
+      "have": 4,
+      "brave": 1
+    },
+    "adjs": {
+      "gentle": 1,
+      "favourite": 1
+    },
+    "positiveSentimentCount": 1,
+    "negativeSentimentCount": 6,
+    "veryPositiveSentimentCount": 2,
+    "veryNegativeSentimentCount": 0,
+    "quote": null,
+    "personality": null,
+    "frequency": 15,
+    "locations": [
+      "Huntingdon"
+    ],
+    "temporals": [],
+    "roles": []
+  },
+  {
+    "name": "Robin",
+    "verbs": {
+      "love": 4,
+      "be": 2,
+      "roll": 2,
+      "feel": 4,
+      "do": 3,
+      "disappear": 1,
+      "bow": 1,
+      "put": 3,
+      "crack": 1,
+      "fall": 2,
+      "find": 2,
+      "stare": 1,
+      "tumble": 3,
+      "catch": 2,
+      "stand": 1,
+      "blow": 3,
+      "fight": 5,
+      "kneel": 3,
+      "laugh": 4,
+      "hear": 3,
+      "struggle": 3,
+      "add": 3,
+      "give": 2,
+      "think": 5,
+      "lay": 4,
+      "like": 3,
+      "go": 4,
+      "come": 10,
+      "say": 9,
+      "draw": 3,
+      "look": 3,
+      "call": 3,
+      "pull": 2,
+      "take": 3,
+      "kick": 3,
+      "throw": 2,
+      "wander": 1,
+      "mean": 3,
+      "know": 2,
+      "begin": 3,
+      "swear": 1,
+      "nothelp": 1
+    },
+    "adjs": {
+      "next": 1,
+      "last": 2,
+      "heels": 1,
+      "wet": 3,
+      "bright": 3,
+      "least": 1,
+      "delighted": 2,
+      "sunshiny": 3,
+      "angry": 1,
+      "bold": 2,
+      "fond": 1,
+      "Master": 1,
+      "afraid coward": 2,
+      "poor": 1,
+      "Next": 1,
+      "glad": 1,
+      "man": 3,
+      "tall": 2,
+      "lonely": 1,
+      "astonished": 4,
+      "Hood": 3,
+      "accustomed": 2,
+      "fitting": 3
+    },
+    "positiveSentimentCount": 46,
+    "negativeSentimentCount": 126,
+    "veryPositiveSentimentCount": 1,
+    "veryNegativeSentimentCount": 6,
+    "quote": null,
+    "personality": null,
+    "frequency": 191,
+    "locations": [
+      "Green Wood",
+      "Green Wood",
+      "Sherwood Forest Robin",
+      "Sherwood Forest Robin",
+      "Sherwood Forest Robin",
+      "Green Wood",
+      "Sherwood Forest",
+      "Sherwood Forest",
+      "England",
+      "England",
+      "England"
+    ],
+    "temporals": [],
+    "roles": []
+  },
+  {
+    "name": "Will Stutely",
+    "verbs": {},
+    "adjs": {
+      "laughing": 1
+    },
+    "positiveSentimentCount": 2,
+    "negativeSentimentCount": 1,
+    "veryPositiveSentimentCount": 0,
+    "veryNegativeSentimentCount": 0,
+    "quote": null,
+    "personality": null,
+    "frequency": 3,
+    "locations": [],
+    "temporals": [],
+    "roles": []
+  }
+]

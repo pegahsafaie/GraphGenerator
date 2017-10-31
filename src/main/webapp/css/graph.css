@@ -1,0 +1,18 @@
+/* GRAPH */
+#cy {
+	background-color: #FFFFFF;
+	width:100px;
+	height:450px;
+	/* margin-left: auto;
+	margin-right: auto */
+	/* z-index:998 */
+}
+
+#cy-event {
+	background-color: #FFFFFF;
+	width:100px;
+	height:450px;
+	/* margin-left: auto;
+	margin-right: auto */
+	/* z-index:998 */
+}

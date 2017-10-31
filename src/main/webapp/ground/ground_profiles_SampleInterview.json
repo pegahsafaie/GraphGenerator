@@ -1,0 +1,423 @@
+[
+  {
+    "name": "Trump",
+    "adj": [
+      "president",
+      "Mr"
+    ],
+    "verb": [
+      "speak",
+      "fulfill",
+      "shake"
+    ],
+    "location": [
+      "Oval Office",
+      "Crimea",
+      "Eiffel Tower",
+      "Paris",
+      "France",
+      "Poland",
+      "Britain"
+    ],
+    "personality": "",
+    "sentiment": ""
+  },
+  {
+    "name": "Peter Baker",
+    "adj": [
+      "reporter"
+    ],
+    "verb": [
+    ],
+    "location": [
+      "Oval Office"
+    ],
+    "personality": "",
+    "sentiment": ""
+  },
+  {
+    "name": "Michael S. Schmidt",
+    "adj": [
+      "reporter"
+    ],
+    "verb": [
+    ],
+    "location": [
+      "Oval Office"
+    ],
+    "personality": "",
+    "sentiment": ""
+  },
+  {
+    "name": "Maggie Haberman",
+    "adj": [
+      "reporter"
+    ],
+    "verb": [
+    ],
+    "location": [
+      "Oval Office"
+    ],
+    "personality": "",
+    "sentiment": ""
+  },
+  {
+    "name": "Hope Hicks",
+    "adj": [
+      "White House spokeswoman"
+    ],
+    "verb": [
+    ],
+    "location": [
+
+    ],
+    "personality": "",
+    "sentiment": ""
+  },
+  {
+    "name": "Ivanka Trump",
+    "adj": [
+      "advisor",
+      "amazing",
+      "great"
+    ],
+    "verb": [
+      "speak"
+    ],
+    "location": [
+      "Chinese"
+    ],
+    "personality": "",
+    "sentiment": ""
+  },
+  {
+    "name": "Arabella",
+    "adj": [
+      "unbelievable","granddaughter"
+    ],
+    "verb": [
+      "enter"
+    ],
+    "location": [
+      "Chinese"
+    ],
+    "personality": "",
+    "sentiment": ""
+  },
+  {
+    "name": "Hillary Clinton",
+    "adj": [
+      "first lady",
+      "secretary"
+    ],
+    "verb": [
+      "work",
+      "get",
+      "go",
+      "dye",
+      "oppose"
+    ],
+    "location": [
+      "White House",
+      "Russia"
+    ],
+    "personality": "",
+    "sentiment": ""
+  },
+  {
+    "name": "Obama",
+    "adj": [
+    ],
+    "verb": [
+      "work",
+      "get",
+      "give",
+      "allow",
+      "talk"
+    ],
+    "location": [
+      "Crimea",
+      "North Korea"
+    ],
+    "personality": "",
+    "sentiment": ""
+  },
+  {
+    "name": "McCain",
+    "adj": [
+      "Senator"
+    ],
+    "verb": [
+      "be"
+    ],
+    "location": [
+    ],
+    "personality": "",
+    "sentiment": ""
+  },
+  {
+    "name": "Mr. Macron",
+    "adj": [
+
+    ],
+    "verb": [
+      "invite",
+      "ask"
+    ],
+    "location": [
+    ],
+    "personality": "",
+    "sentiment": ""
+  },
+  {
+    "name": "Angela Merkel",
+    "adj": [
+      "Chancellor"
+    ],
+    "verb": [
+      "call",
+      "say"
+    ],
+    "location": [
+      "Germany"
+    ],
+    "personality": "",
+    "sentiment": ""
+  },
+  {
+    "name": "Napoleon",
+    "adj": [
+    ],
+    "verb": [
+      "finish",
+      "design"
+    ],
+    "location": [
+      "Paris",
+      "Russia"
+    ],
+    "personality": "",
+    "sentiment": ""
+  },
+  {
+    "name": "Hitler",
+    "adj": [
+    ],
+    "verb": [
+      "want"
+    ],
+    "location": [
+    ],
+    "personality": "",
+    "sentiment": ""
+  },
+  {
+    "name": "Harry Truman",
+    "adj": [
+      "first"
+    ],
+    "verb": [
+      "beat"
+    ],
+    "location": [
+    ],
+    "personality": "",
+    "sentiment": ""
+  },
+  {
+    "name": "Putin",
+    "adj": [
+      "president"
+    ],
+    "verb": [
+    ],
+    "location": [
+    ],
+    "personality": "",
+    "sentiment": ""
+  },
+  {
+    "name": "Glenn Thrush",
+    "adj": [
+    ],
+    "verb": [
+    ],
+    "location": [
+    ],
+    "personality": "",
+    "sentiment": ""
+  },
+  {
+    "name": "Abe",
+    "adj": [
+      "Prime Minister"
+    ],
+    "verb": [
+      "speak"
+    ],
+    "location": [
+      "Japan"
+    ],
+    "personality": "",
+    "sentiment": ""
+  },
+  {
+    "name": "Melania",
+    "adj": [
+    ],
+    "verb": [
+      "sit",
+      "speak"
+    ],
+    "location": [
+    ],
+    "personality": "",
+    "sentiment": ""
+  },
+  {
+    "name": "Don",
+    "adj": [
+    ],
+    "verb": [
+      "have"
+    ],
+    "location": [
+    ],
+    "personality": "",
+    "sentiment": ""
+  },
+  {
+    "name": "Mattis",
+    "adj": [
+      "Defense Secretary",
+      "General"
+    ],
+    "verb": [
+      "have"
+    ],
+    "location": [
+    ],
+    "personality": "",
+    "sentiment": ""
+  },
+  {
+    "name": "James B. Comey",
+    "adj": [
+    ],
+    "verb": [
+      "bring",
+      "share",
+      "show",
+      "write"
+    ],
+    "location": [
+    ],
+    "personality": "",
+    "sentiment": ""
+  },
+  {
+    "name": "F.B.I.",
+    "adj": [
+    ],
+    "verb": [
+      "start"
+    ],
+    "location": [
+    ],
+    "personality": "",
+    "sentiment": ""
+  },
+  {
+    "name": "Mueller",
+    "adj": [
+      "special counsel"
+    ],
+    "verb": [
+      "go"
+    ],
+    "location": [
+      "Russia"
+    ],
+    "personality": "",
+    "sentiment": ""
+  },
+  {
+    "name": "Jeff",
+    "adj": [
+      "Attorney General"
+    ],
+    "verb": [
+      "know"
+    ],
+    "location": [
+    ],
+    "personality": "",
+    "sentiment": ""
+  },
+  {
+    "name": "Rosenstein",
+    "adj": [
+    ],
+    "verb": [
+      "leave",
+      "become",
+      "give"
+    ],
+    "location": [
+    ],
+    "personality": "",
+    "sentiment": ""
+  },
+  {
+    "name": "Flynn",
+    "adj": [
+    ],
+    "verb": [
+      "leave",
+      "become",
+      "give"
+    ],
+    "location": [
+    ],
+    "personality": "",
+    "sentiment": ""
+  },
+  {
+    "name": "Richard Nixon",
+    "adj": [
+    ],
+    "verb": [
+      "come"
+    ],
+    "location": [
+    ],
+    "personality": "",
+    "sentiment": ""
+  },
+  {
+    "name": "Xi",
+    "adj": [
+      "president"
+    ],
+    "verb": [
+    ],
+    "location": [
+      "China"
+    ],
+    "personality": "",
+    "sentiment": ""
+  },
+  {
+    "name": "McCabe",
+    "adj": [
+      "president"
+    ],
+    "verb": [
+    ],
+    "location": [
+      "Russia"
+    ],
+    "personality": "",
+    "sentiment": ""
+  }
+]

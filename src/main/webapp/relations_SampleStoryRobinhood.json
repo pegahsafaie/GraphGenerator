@@ -1,0 +1,118 @@
+[
+  {
+    "profileNames": [
+      "DukeWilliamtohelp",
+      "DukeWilliamtohelp DukeWilliamtohelp"
+    ],
+    "frequency": 1,
+    "typeName": {
+      "friendship": "help"
+    }
+  },
+  {
+    "profileNames": [
+      "Richard Cœur de Lion",
+      "Richard Cœur de Lion"
+    ],
+    "frequency": 1,
+    "typeName": {
+      "romantic": "love"
+    }
+  },
+  {
+    "profileNames": [
+      "Richard Cœur de Lion",
+      "Richard Cœur de Lion",
+      "Richard Cœur de Lion",
+      "Richard Cœur de Lion"
+    ],
+    "frequency": 1,
+    "typeName": {
+      "friendship": "help"
+    }
+  },
+  {
+    "profileNames": [
+      "Richard",
+      "Richard Cœur de Lion"
+    ],
+    "frequency": 1,
+    "typeName": {
+      "enemy": "fight"
+    }
+  },
+  {
+    "profileNames": [
+      "John",
+      "Richard Cœur de Lion"
+    ],
+    "frequency": 2,
+    "typeName": {
+      "romantic": "Heart",
+      "family": "brother"
+    }
+  },
+  {
+    "profileNames": [
+      "Robert",
+      "Robin"
+    ],
+    "frequency": 1,
+    "typeName": {
+      "family": "son"
+    }
+  },
+  {
+    "profileNames": [
+      "John",
+      "Midge the miller",
+      "Robin"
+    ],
+    "frequency": 1,
+    "typeName": {
+      "family": "son"
+    }
+  },
+  {
+    "profileNames": [
+      "Little John",
+      "Robin"
+    ],
+    "frequency": 2,
+    "typeName": {
+      "friendship": "friend"
+    }
+  },
+  {
+    "profileNames": [
+      "John",
+      "Robin"
+    ],
+    "frequency": 2,
+    "typeName": {
+      "romantic": "love",
+      "enemy": "fight"
+    }
+  },
+  {
+    "profileNames": [
+      "Hood",
+      "Richard",
+      "Robin"
+    ],
+    "frequency": 1,
+    "typeName": {
+      "friendship": "like"
+    }
+  },
+  {
+    "profileNames": [
+      "Hood",
+      "Robin"
+    ],
+    "frequency": 1,
+    "typeName": {
+      "enemy": "fight"
+    }
+  }
+]

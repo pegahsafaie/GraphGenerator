@@ -1,0 +1,1187 @@
+[
+  {
+    "name": "Uther",
+    "verbs": {
+      "love": 2,
+      "take": 1,
+      "give": 1,
+      "use": 2,
+      "change": 1,
+      "know": 1,
+      "say": 2
+    },
+    "adjs": {
+      "king": 2,
+      "good man": 2
+    },
+    "positiveSentimentCount": 7,
+    "negativeSentimentCount": 9,
+    "veryPositiveSentimentCount": 0,
+    "veryNegativeSentimentCount": 0,
+    "quote": "Make  a  fire!Take  the  Queen  and  put her's in it! \n I know that I am going to die \n You can marry Igraine \n ,,,",
+    "personality": {
+      "openness": -2.088278646858013,
+      "agreeableness": -2.4533729641034974,
+      "extroversion": -10.899597769812738,
+      "neuroticism": 1.198941065974374,
+      "conscientiousness": 4.615527688430011
+    },
+    "frequency": 18,
+    "locations": [
+      "Britain",
+      "Igraine"
+    ],
+    "temporals": [],
+    "roles": []
+  },
+  {
+    "name": "Igraine",
+    "verbs": {
+      "not love": 1,
+      "have": 1
+    },
+    "adjs": {
+      "queen": 1,
+      "married": 1
+    },
+    "positiveSentimentCount": 0,
+    "negativeSentimentCount": 3,
+    "veryPositiveSentimentCount": 0,
+    "veryNegativeSentimentCount": 0,
+    "quote": null,
+    "personality": null,
+    "frequency": 4,
+    "locations": [],
+    "temporals": [],
+    "roles": []
+  },
+  {
+    "name": "Merlin",
+    "verbs": {
+      "be": 1,
+      "not get out": 1,
+      "tell": 6,
+      "go": 3,
+      "bring": 1,
+      "come": 4,
+      "say": 1,
+      "listen": 1,
+      "take": 1,
+      "help": 4,
+      "see": 1,
+      "meet": 1,
+      "come out": 2,
+      "get": 1,
+      "speak": 1,
+      "visit": 2,
+      "make": 1
+    },
+    "adjs": {
+      "old man": 2,
+      "clever man": 4,
+      "large stone": 1,
+      "great": 1
+    },
+    "positiveSentimentCount": 18,
+    "negativeSentimentCount": 25,
+    "veryPositiveSentimentCount": 0,
+    "veryNegativeSentimentCount": 0,
+    "quote": "Only  a  good  knight,  your  best  knight,  will  sit  there.The  place  is  for  your best knight, and Arthur will come to it. \n I do not know \n The  mouth  of  the  cave  is  open  now \n I cannot stop it \n I will not always be here.In the future, when you make mistakes, my magic will not help you. \n I am going to die \n I have to say goodbye now \n That  is  a  magic  scabbard \n Go and take it \n Now go to the lake \n That sword was not important \n Call the knights to London.Then we will find the new king \n Call your knights and great men \n ,,,,,,,,,,,,,",
+    "personality": {
+      "openness": 4.372102655907218,
+      "agreeableness": 5.054200610200846,
+      "extroversion": 6.295114777806428,
+      "neuroticism": 1.7557501448901247,
+      "conscientiousness": 1.4877564534779695
+    },
+    "frequency": 64,
+    "locations": [
+      "London",
+      "Camelot"
+    ],
+    "temporals": [],
+    "roles": []
+  },
+  {
+    "name": "Arthur",
+    "verbs": {
+      "not get out": 1,
+      "not stay": 2,
+      "tell": 5,
+      "feel": 5,
+      "run": 5,
+      "wake up": 2,
+      "put": 8,
+      "hit": 2,
+      "leave": 9,
+      "find": 1,
+      "stand up": 1,
+      "catch": 2,
+      "give": 12,
+      "want": 5,
+      "come": 9,
+      "throw down": 2,
+      "look": 11,
+      "not stop": 1,
+      "take": 22,
+      "not take": 3,
+      "not be": 2,
+      "know": 2,
+      "not read": 1,
+      "begin": 1,
+      "send": 1,
+      "love": 3,
+      "wait": 1,
+      "not get": 2,
+      "be": 8,
+      "not know": 4,
+      "wear": 2,
+      "not see": 1,
+      "sleep": 1,
+      "see": 6,
+      "walk down": 2,
+      "wound": 3,
+      "not go": 2,
+      "fall": 1,
+      "get": 3,
+      "have": 4,
+      "stand": 4,
+      "make": 6,
+      "win": 1,
+      "live": 4,
+      "fight": 2,
+      "hear": 1,
+      "sit": 3,
+      "think": 4,
+      "not understand": 1,
+      "jump up": 1,
+      "teach": 2,
+      "go": 26,
+      "say": 20,
+      "cry": 7,
+      "follow": 1,
+      "kill": 1,
+      "stay": 1,
+      "not have": 1,
+      "call": 3,
+      "pull": 2,
+      "help": 3,
+      "meet": 6,
+      "throw": 2,
+      "watch": 4,
+      "build": 1,
+      "climb down": 2,
+      "ask": 3,
+      "pull out": 4,
+      "not die": 1,
+      "go out": 1,
+      "visit": 2,
+      "open": 3
+    },
+    "adjs": {
+      "next": 1,
+      "strong": 2,
+      "king": 82,
+      "old": 4,
+      "dead": 2,
+      "angry": 4,
+      "not happy": 3,
+      "good": 2,
+      "beautiful thing": 1,
+      "hungry": 1,
+      "son": 1,
+      "thirsty": 2,
+      "young man": 5,
+      "ready": 1,
+      "afraid": 3,
+      "sad": 6,
+      "evil knight": 1,
+      "little room": 1
+    },
+    "positiveSentimentCount": 57,
+    "negativeSentimentCount": 205,
+    "veryPositiveSentimentCount": 0,
+    "veryNegativeSentimentCount": 3,
+    "quote": "I am leaving you now, and I want you to tell the story of King Arthur and the Knights of the  Round  Table.I  will  come  again  one  day  when  my  country  asks  for  me \n Please put me on the boat now \n take me to the lake quickly. \n Now \n Tell me, Sir Meligrance \n Meligrance  took me  to  Meligrance's  castle  and  my knights fought for me.But Meligrance had a lot of men and they were too strong for us.But Meligrance is sorry, so I am not angry with Meligrance's now. \n Your  knights  are  saying  that  Sir  Meligrance  took  you  away  to  Meligrance's  castle \n you know a lot of magic.Can you not stop this?Do you have to die? \n But Merlin \n Something is wrong \n You  are  not  a  brave  man \n I will fight - and fight. \n His sword is very strong \n I will have to have a horse and a sword \n I will fight for you.But when I win, I want those three knights.Then we will all leave your castle. \n That  is  a  difficult  question.Sir  Damas \n This is the castle of Sir Damas.Arthur is a very evil knight.Arthur caught us too, and put us here \n I will  stay  here  tonight \n I will go onto the ship \n She is a kind friend \n  Come with me and you will find the best sword in the world.It is a magic sword from Avalon, the place of magic. \n My sword broke in the fight \n I am not that bad knight!But I know you did not want to kill your king \n I  am  the  richest person in the world.Look — everything here is mine. \n I  would  like  to  show  you  my  castle  and  the  beautiful  things  in  it \n Thank  you \n I am Queen Annoure.Stay in my castle.It is getting dark.I will give you food and a bed for the night. \n You are my king \n Now pull it out \n There is a sword in a stone outside a church.I saw Arthur on the way here.I will get Arthur and fight with it.Then you can have my sword \n ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "personality": {
+      "openness": 6.564294381571922,
+      "agreeableness": 7.835368175852181,
+      "extroversion": 6.338519671067404,
+      "neuroticism": 2.0348045826950782,
+      "conscientiousness": 4.467136967143141
+    },
+    "frequency": 415,
+    "locations": [
+      "England",
+      "Camelot",
+      "Annoure",
+      "Lake",
+      "Merlin",
+      "Lady of the Lake",
+      "Morgan-le-Fay",
+      "Excalibur",
+      "Isolt",
+      "Cornwall",
+      "France",
+      "London",
+      "Dover"
+    ],
+    "temporals": [],
+    "roles": []
+  },
+  {
+    "name": "Ector",
+    "verbs": {
+      "take": 1,
+      "see": 1,
+      "go": 2,
+      "ask": 1,
+      "say": 1,
+      "put": 1
+    },
+    "adjs": {
+      "Sir": 6
+    },
+    "positiveSentimentCount": 0,
+    "negativeSentimentCount": 5,
+    "veryPositiveSentimentCount": 0,
+    "veryNegativeSentimentCount": 0,
+    "quote": "I  love  you  very  much,  but  I  am  not  really  your  father.Merlin,  the  famous  man  of  magic,  brought  you  to  me  when  you  were  a  small  child.I  took  you  into  my  family  because  Arthur  asked me.Now I know that you are the king. \n Arthur \n ,,",
+    "personality": {
+      "openness": 2.6473110989001487,
+      "agreeableness": 1.9647044191457466,
+      "extroversion": 1.920727910632131,
+      "neuroticism": 4.159992013688333,
+      "conscientiousness": 5.220968417911117
+    },
+    "frequency": 8,
+    "locations": [],
+    "temporals": [],
+    "roles": []
+  },
+  {
+    "name": "Kay",
+    "verbs": {
+      "not have": 1
+    },
+    "adjs": {
+      "son": 1,
+      "sir": 5
+    },
+    "positiveSentimentCount": 1,
+    "negativeSentimentCount": 5,
+    "veryPositiveSentimentCount": 0,
+    "veryNegativeSentimentCount": 0,
+    "quote": null,
+    "personality": null,
+    "frequency": 6,
+    "locations": [],
+    "temporals": [],
+    "roles": []
+  },
+  {
+    "name": "Church",
+    "verbs": {},
+    "adjs": {},
+    "positiveSentimentCount": 1,
+    "negativeSentimentCount": 0,
+    "veryPositiveSentimentCount": 0,
+    "veryNegativeSentimentCount": 0,
+    "quote": null,
+    "personality": null,
+    "frequency": 1,
+    "locations": [],
+    "temporals": [],
+    "roles": []
+  },
+  {
+    "name": "Leodegraunce",
+    "verbs": {},
+    "adjs": {
+      "happy": 1,
+      "King King": 1
+    },
+    "positiveSentimentCount": 1,
+    "negativeSentimentCount": 0,
+    "veryPositiveSentimentCount": 0,
+    "veryNegativeSentimentCount": 0,
+    "quote": null,
+    "personality": null,
+    "frequency": 1,
+    "locations": [],
+    "temporals": [],
+    "roles": []
+  },
+  {
+    "name": "Pellinore",
+    "verbs": {
+      "wait": 1,
+      "see": 2,
+      "shout": 1,
+      "look": 1,
+      "hurt": 1,
+      "sit": 1
+    },
+    "adjs": {
+      "Sir knight": 7
+    },
+    "positiveSentimentCount": 1,
+    "negativeSentimentCount": 7,
+    "veryPositiveSentimentCount": 0,
+    "veryNegativeSentimentCount": 0,
+    "quote": null,
+    "personality": null,
+    "frequency": 12,
+    "locations": [
+      "Camelot"
+    ],
+    "temporals": [],
+    "roles": []
+  },
+  {
+    "name": "Galahad",
+    "verbs": {
+      "build": 1,
+      "have": 1,
+      "come": 2,
+      "say": 5,
+      "hear": 1,
+      "put": 1,
+      "sit": 1
+    },
+    "adjs": {
+      "knight": 1,
+      "new king": 1,
+      "Sir": 11,
+      "not afraid": 1
+    },
+    "positiveSentimentCount": 5,
+    "negativeSentimentCount": 11,
+    "veryPositiveSentimentCount": 0,
+    "veryNegativeSentimentCount": 0,
+    "quote": "Your work is done.Now you are going to die \n I  found  the  Grail  and  I  am  happy  now \n We have to take the Grail into the city \n I know that we are going to find the Grail \n ,,,,",
+    "personality": {
+      "openness": 2.4755296824887787,
+      "agreeableness": 6.014685246063497,
+      "extroversion": 4.630434807813124,
+      "neuroticism": 4.295199617138942,
+      "conscientiousness": 2.4906723404019675
+    },
+    "frequency": 20,
+    "locations": [],
+    "temporals": [],
+    "roles": []
+  },
+  {
+    "name": "Queen Annoure",
+    "verbs": {
+      "want": 1,
+      "know": 1,
+      "say": 2,
+      "send": 2
+    },
+    "adjs": {},
+    "positiveSentimentCount": 1,
+    "negativeSentimentCount": 7,
+    "veryPositiveSentimentCount": 0,
+    "veryNegativeSentimentCount": 0,
+    "quote": null,
+    "personality": null,
+    "frequency": 11,
+    "locations": [],
+    "temporals": [],
+    "roles": []
+  },
+  {
+    "name": "I am the Lady of the Lake",
+    "verbs": {},
+    "adjs": {},
+    "positiveSentimentCount": 0,
+    "negativeSentimentCount": 2,
+    "veryPositiveSentimentCount": 0,
+    "veryNegativeSentimentCount": 0,
+    "quote": "Make  a  fire!Take  the  Queen  and  put her's in it! \n ,",
+    "personality": null,
+    "frequency": 2,
+    "locations": [],
+    "temporals": [],
+    "roles": []
+  },
+  {
+    "name": "Morgan-le-Fay",
+    "verbs": {
+      "think": 1,
+      "be": 2,
+      "not know": 1,
+      "want": 5,
+      "tell": 1,
+      "go": 3,
+      "say": 2,
+      "come": 1,
+      "do": 2,
+      "cry": 1,
+      "not see": 4,
+      "take out": 1,
+      "see": 1,
+      "throw": 1,
+      "leave": 1,
+      "get": 1,
+      "go out": 1,
+      "not find": 1,
+      "send": 1
+    },
+    "adjs": {
+      "queen": 10
+    },
+    "positiveSentimentCount": 6,
+    "negativeSentimentCount": 25,
+    "veryPositiveSentimentCount": 0,
+    "veryNegativeSentimentCount": 0,
+    "quote": "Here is King Arthur’s sword, Excalibur,and its scabbard.Take them for the fight.Then you will fight well and your king can leave the castle of that evil knight, Sir Damas. \n King  Arthur  is  in  the  castle  of Sir  Damas.You  have  to  go  and  fight  Sir  Damas.Then Damas will not kill your king. \n I will come and get it on my way home \n ,,,",
+    "personality": {
+      "openness": 8.17087851838647,
+      "agreeableness": 2.142791839420594,
+      "extroversion": 2.7730942705009016,
+      "neuroticism": 3.8645682340138667,
+      "conscientiousness": 3.1633440022729027
+    },
+    "frequency": 67,
+    "locations": [
+      "Morgan-le-Fay",
+      "Excalibur",
+      "Camelot"
+    ],
+    "temporals": [],
+    "roles": []
+  },
+  {
+    "name": "Queen Morgan",
+    "verbs": {
+      "give": 1
+    },
+    "adjs": {
+      "happy": 2,
+      "evil plan": 2,
+      "Fay": 5
+    },
+    "positiveSentimentCount": 2,
+    "negativeSentimentCount": 15,
+    "veryPositiveSentimentCount": 0,
+    "veryNegativeSentimentCount": 0,
+    "quote": null,
+    "personality": null,
+    "frequency": 25,
+    "locations": [
+      "Camelot"
+    ],
+    "temporals": [],
+    "roles": []
+  },
+  {
+    "name": "Damas",
+    "verbs": {
+      "give": 4,
+      "see": 2,
+      "be": 1,
+      "want": 1,
+      "not hurt": 2,
+      "not kill": 1,
+      "ask": 1,
+      "bring": 1,
+      "go": 1,
+      "have": 1,
+      "come": 1,
+      "not see": 2
+    },
+    "adjs": {
+      "castle": 1,
+      "Sir": 14
+    },
+    "positiveSentimentCount": 1,
+    "negativeSentimentCount": 18,
+    "veryPositiveSentimentCount": 0,
+    "veryNegativeSentimentCount": 0,
+    "quote": "Because Queen Morgan le Fay wanted it \n Yes,  this is  Excalibur \n Yes \n ,,,",
+    "personality": null,
+    "frequency": 30,
+    "locations": [],
+    "temporals": [],
+    "roles": []
+  },
+  {
+    "name": "Excalibur",
+    "verbs": {
+      "leave": 1
+    },
+    "adjs": {
+      "sword": 2
+    },
+    "positiveSentimentCount": 1,
+    "negativeSentimentCount": 4,
+    "veryPositiveSentimentCount": 0,
+    "veryNegativeSentimentCount": 0,
+    "quote": null,
+    "personality": null,
+    "frequency": 5,
+    "locations": [
+      "Excalibur"
+    ],
+    "temporals": [],
+    "roles": []
+  },
+  {
+    "name": "Accolon",
+    "verbs": {
+      "say": 1
+    },
+    "adjs": {
+      "Knight": 1,
+      "sir": 4
+    },
+    "positiveSentimentCount": 0,
+    "negativeSentimentCount": 5,
+    "veryPositiveSentimentCount": 0,
+    "veryNegativeSentimentCount": 0,
+    "quote": null,
+    "personality": null,
+    "frequency": 6,
+    "locations": [],
+    "temporals": [],
+    "roles": []
+  },
+  {
+    "name": "Queen Guinevere",
+    "verbs": {
+      "call": 1,
+      "meet": 3,
+      "answer": 1,
+      "leave": 3,
+      "want": 1,
+      "tell": 2,
+      "go": 1,
+      "say": 1,
+      "come": 2,
+      "run": 1
+    },
+    "adjs": {},
+    "positiveSentimentCount": 4,
+    "negativeSentimentCount": 15,
+    "veryPositiveSentimentCount": 0,
+    "veryNegativeSentimentCount": 0,
+    "quote": "Yes \n You have a good, fast horse \n ,,",
+    "personality": null,
+    "frequency": 25,
+    "locations": [
+      "Camelot",
+      "London"
+    ],
+    "temporals": [],
+    "roles": []
+  },
+  {
+    "name": "Morgan le Fay",
+    "verbs": {
+      "ask": 1,
+      "say": 2
+    },
+    "adjs": {},
+    "positiveSentimentCount": 0,
+    "negativeSentimentCount": 2,
+    "veryPositiveSentimentCount": 0,
+    "veryNegativeSentimentCount": 0,
+    "quote": "Here is King Arthur’s sword, Excalibur,and its scabbard.Take them for the fight.Then you will fight well and your king can leave the castle of that evil knight, Sir Damas. \n King  Arthur  is  in  the  castle  of Sir  Damas.You  have  to  go  and  fight  Sir  Damas.Then Damas will not kill your king. \n ,,",
+    "personality": {
+      "openness": 9.540309190646514,
+      "agreeableness": 2.156544566830589,
+      "extroversion": 2.2832369112609916,
+      "neuroticism": 4.226739157933822,
+      "conscientiousness": 3.5245667292772285
+    },
+    "frequency": 11,
+    "locations": [],
+    "temporals": [],
+    "roles": []
+  },
+  {
+    "name": "Morganle Fay",
+    "verbs": {
+      "go": 1,
+      "look down": 2
+    },
+    "adjs": {
+      "queen": 3,
+      "nun": 1
+    },
+    "positiveSentimentCount": 0,
+    "negativeSentimentCount": 9,
+    "veryPositiveSentimentCount": 0,
+    "veryNegativeSentimentCount": 0,
+    "quote": "Here is King Arthur’s sword, Excalibur,and its scabbard.Take them for the fight.Then you will fight well and your king can leave the castle of that evil knight, Sir Damas. \n King  Arthur  is  in  the  castle  of Sir  Damas.You  have  to  go  and  fight  Sir  Damas.Then Damas will not kill your king. \n ,,",
+    "personality": {
+      "openness": 9.540309190646514,
+      "agreeableness": 2.156544566830589,
+      "extroversion": 2.2832369112609916,
+      "neuroticism": 4.226739157933822,
+      "conscientiousness": 3.5245667292772285
+    },
+    "frequency": 10,
+    "locations": [],
+    "temporals": [],
+    "roles": []
+  },
+  {
+    "name": "Camelot",
+    "verbs": {
+      "have": 1
+    },
+    "adjs": {},
+    "positiveSentimentCount": 1,
+    "negativeSentimentCount": 1,
+    "veryPositiveSentimentCount": 0,
+    "veryNegativeSentimentCount": 0,
+    "quote": null,
+    "personality": null,
+    "frequency": 2,
+    "locations": [],
+    "temporals": [],
+    "roles": []
+  },
+  {
+    "name": "Lady Vivien",
+    "verbs": {
+      "go": 1,
+      "say": 1
+    },
+    "adjs": {},
+    "positiveSentimentCount": 0,
+    "negativeSentimentCount": 3,
+    "veryPositiveSentimentCount": 0,
+    "veryNegativeSentimentCount": 0,
+    "quote": "I want to look inside the cave \n ,",
+    "personality": null,
+    "frequency": 6,
+    "locations": [
+      "Camelot"
+    ],
+    "temporals": [],
+    "roles": []
+  },
+  {
+    "name": "Meligrance",
+    "verbs": {
+      "love": 3,
+      "think": 2,
+      "move": 1,
+      "go": 4,
+      "show": 1,
+      "say": 3,
+      "cry": 1,
+      "look": 2,
+      "take": 5,
+      "see": 6,
+      "hit": 2,
+      "fall": 2,
+      "answer": 1,
+      "have": 1,
+      "ask": 1,
+      "know": 1,
+      "brave": 1,
+      "win": 2,
+      "hear": 4,
+      "fight": 2
+    },
+    "adjs": {
+      "strong": 1,
+      "sorry": 2,
+      "ready": 1,
+      "angry": 2,
+      "Sir": 23
+    },
+    "positiveSentimentCount": 6,
+    "negativeSentimentCount": 49,
+    "veryPositiveSentimentCount": 0,
+    "veryNegativeSentimentCount": 0,
+    "quote": "I did not take the Queen away.King Arthur.Queen Guinevere came with me because Queen Guinevere loves me. \n Sir Lancelot did not want to stay here.Meligrance went back to Camelot \n I will take you to your room and you can sleep. \n Sir Meligrances men will wait next to the road.They will come out when I go past.So I will not take the road - I will go through the wood. \n I only know that I love you.My men will help me.All will fight your knights \n King Arthur made you a Knight of the Round Table!A knight has to be a good man.How can you take away your kings wife? \n I love you \n ,,,,,,,",
+    "personality": {
+      "openness": 5.428570236956417,
+      "agreeableness": 8.04913135850279,
+      "extroversion": 4.784886162340379,
+      "neuroticism": 3.3164138583779006,
+      "conscientiousness": 5.765519266106576
+    },
+    "frequency": 66,
+    "locations": [
+      "Meligrance",
+      "Camelot"
+    ],
+    "temporals": [],
+    "roles": []
+  },
+  {
+    "name": "Lancelot",
+    "verbs": {
+      "cut": 1,
+      "go": 1,
+      "marry": 2,
+      "come": 3,
+      "say": 3,
+      "cry": 1,
+      "kill": 1,
+      "look": 2,
+      "put": 2,
+      "smile": 1,
+      "take": 1,
+      "arrive": 1,
+      "leave": 1,
+      "brave": 1,
+      "speak": 1,
+      "not want": 1,
+      "write": 2,
+      "jump": 1
+    },
+    "adjs": {
+      "son": 1,
+      "strongest": 2,
+      "right": 1,
+      "angry": 2,
+      "Sir": 20,
+      "day": 1
+    },
+    "positiveSentimentCount": 3,
+    "negativeSentimentCount": 27,
+    "veryPositiveSentimentCount": 0,
+    "veryNegativeSentimentCount": 0,
+    "quote": "We will go with you \n You took away Queen Guinevere to your castle \n I  will  go  now  to  Sir  Meligrances  castle  and find  the  Queen \n ,,,",
+    "personality": {
+      "openness": 6.90844541673761,
+      "agreeableness": 6.870841081322037,
+      "extroversion": 3.098863347768484,
+      "neuroticism": 4.495228990643019,
+      "conscientiousness": 4.832107857087913
+    },
+    "frequency": 39,
+    "locations": [
+      "Camelot",
+      "Galahad",
+      "France"
+    ],
+    "temporals": [],
+    "roles": []
+  },
+  {
+    "name": "Tristram",
+    "verbs": {
+      "love": 3,
+      "move": 2,
+      "be": 2,
+      "learn": 1,
+      "use": 1,
+      "go": 2,
+      "come": 2,
+      "say": 3,
+      "drink": 1,
+      "put": 2,
+      "take": 3,
+      "hit": 2,
+      "fall down": 1,
+      "throw": 1,
+      "arrive": 2,
+      "ask": 6,
+      "brave": 1,
+      "stand": 6,
+      "look out": 1,
+      "begin": 1,
+      "fight": 1
+    },
+    "adjs": {
+      "strong": 2,
+      "thirsty": 1,
+      "young": 1,
+      "happy": 1,
+      "dead": 1,
+      "boy": 1,
+      "sir": 7,
+      "little": 1
+    },
+    "positiveSentimentCount": 14,
+    "negativeSentimentCount": 37,
+    "veryPositiveSentimentCount": 0,
+    "veryNegativeSentimentCount": 1,
+    "quote": "I have to leave you now, dear Isolt \n I cannot marry you because you are going to marry King Mark.But Isolt is a good man and  Isolt  will  love  you  well \n King Mark wants to marry.Will you give Isolt's your lovely daughter, Isolt?Isolt is a good man and Isolt will love her \n Leave here!Do not speak to Isolt again - or I will kill you! \n I am not a boy now - I am a man.Make me a knight and send me.I can fight Sir Marhaus and win. \n ,,,,,",
+    "personality": {
+      "openness": 5.344220066653354,
+      "agreeableness": 7.783595817399295,
+      "extroversion": 3.263502424528276,
+      "neuroticism": 1.5211216182885192,
+      "conscientiousness": 4.256542611219412
+    },
+    "frequency": 62,
+    "locations": [
+      "Ireland",
+      "Cornwall",
+      "Camelot",
+      "Palamides"
+    ],
+    "temporals": [],
+    "roles": []
+  },
+  {
+    "name": "King of Lyonesse",
+    "verbs": {
+      "tell": 2,
+      "say": 1
+    },
+    "adjs": {},
+    "positiveSentimentCount": 0,
+    "negativeSentimentCount": 3,
+    "veryPositiveSentimentCount": 0,
+    "veryNegativeSentimentCount": 0,
+    "quote": "Go again \n ,",
+    "personality": null,
+    "frequency": 6,
+    "locations": [
+      "Mordred"
+    ],
+    "temporals": [],
+    "roles": []
+  },
+  {
+    "name": "Mark",
+    "verbs": {
+      "think": 1,
+      "give": 1,
+      "die": 1,
+      "fall": 1,
+      "watch": 1,
+      "want": 1,
+      "come": 1,
+      "follow": 1,
+      "send": 3
+    },
+    "adjs": {
+      "isolt": 1,
+      "King": 13,
+      "sorry": 1,
+      "married": 1
+    },
+    "positiveSentimentCount": 3,
+    "negativeSentimentCount": 8,
+    "veryPositiveSentimentCount": 0,
+    "veryNegativeSentimentCount": 1,
+    "quote": "So Isolt is beautiful and kind?I can marry Isolt, and then the King of Ireland and I will be friends.A will be good for our two countries \n ,",
+    "personality": {
+      "openness": 6.770145553408268,
+      "agreeableness": 16.88556104160811,
+      "extroversion": 13.375849640009642,
+      "neuroticism": -4.1262738777049,
+      "conscientiousness": 3.884166786112985
+    },
+    "frequency": 21,
+    "locations": [
+      "Cornwall",
+      "Ireland",
+      "Isolt"
+    ],
+    "temporals": [],
+    "roles": []
+  },
+  {
+    "name": "Marhaus",
+    "verbs": {
+      "wound": 1,
+      "start": 1,
+      "come": 1,
+      "say": 1,
+      "not hit": 1,
+      "not tell": 2
+    },
+    "adjs": {
+      "strong": 2,
+      "not quick": 2,
+      "older": 2,
+      "Sir": 7
+    },
+    "positiveSentimentCount": 4,
+    "negativeSentimentCount": 10,
+    "veryPositiveSentimentCount": 0,
+    "veryNegativeSentimentCount": 1,
+    "quote": "I do not want to send you, but the other knights will not fight him \n ,",
+    "personality": null,
+    "frequency": 20,
+    "locations": [],
+    "temporals": [],
+    "roles": []
+  },
+  {
+    "name": "Isolt",
+    "verbs": {
+      "love": 3,
+      "play": 2,
+      "want": 3,
+      "not listen": 1,
+      "tell": 3,
+      "go": 1,
+      "run": 4,
+      "come": 1,
+      "cry": 1,
+      "turn": 1,
+      "look": 2,
+      "see": 1,
+      "ask": 1,
+      "stand": 1,
+      "hear": 1,
+      "sit": 2
+    },
+    "adjs": {
+      "queen": 2,
+      "afraid": 1,
+      "daughter": 3,
+      "good man": 2
+    },
+    "positiveSentimentCount": 13,
+    "negativeSentimentCount": 13,
+    "veryPositiveSentimentCount": 0,
+    "veryNegativeSentimentCount": 1,
+    "quote": "Isolt was here \n I will jump into the water and die!Then thatevil Sir Palamides cannot hurt me or take me away. \n Night  is  coming \n I am going away to Camelot.I want to be a Knight of the Round Table.I will fight for King Arthur.But please remember this - I am your friend and I will always love you.When you want my help, I will come. \n ,,,,",
+    "personality": {
+      "openness": 3.9584508526423527,
+      "agreeableness": 2.719089176946967,
+      "extroversion": 1.3797693516604184,
+      "neuroticism": 2.229952358939706,
+      "conscientiousness": 2.000568614520929
+    },
+    "frequency": 43,
+    "locations": [
+      "Ireland"
+    ],
+    "temporals": [],
+    "roles": []
+  },
+  {
+    "name": "Palamides",
+    "verbs": {
+      "take": 2,
+      "pull": 1,
+      "see": 1,
+      "be": 1,
+      "arrive": 1,
+      "want": 1,
+      "have": 1,
+      "stand up": 1,
+      "fight": 1
+    },
+    "adjs": {
+      "Sir": 7
+    },
+    "positiveSentimentCount": 1,
+    "negativeSentimentCount": 8,
+    "veryPositiveSentimentCount": 0,
+    "veryNegativeSentimentCount": 0,
+    "quote": "Sir Palamides took Isolt away \n ,",
+    "personality": null,
+    "frequency": 13,
+    "locations": [
+      "Palamides"
+    ],
+    "temporals": [],
+    "roles": []
+  },
+  {
+    "name": "Cornwall",
+    "verbs": {},
+    "adjs": {},
+    "positiveSentimentCount": 1,
+    "negativeSentimentCount": 0,
+    "veryPositiveSentimentCount": 0,
+    "veryNegativeSentimentCount": 0,
+    "quote": null,
+    "personality": null,
+    "frequency": 1,
+    "locations": [
+      "Ireland"
+    ],
+    "temporals": [],
+    "roles": []
+  },
+  {
+    "name": "Atherp",
+    "verbs": {
+      "say": 1
+    },
+    "adjs": {
+      "Sir": 4
+    },
+    "positiveSentimentCount": 0,
+    "negativeSentimentCount": 3,
+    "veryPositiveSentimentCount": 0,
+    "veryNegativeSentimentCount": 0,
+    "quote": "It is dangerous for you here \n Make  a  fire!Take  the  Queen  and  put her's in it! \n ,,",
+    "personality": null,
+    "frequency": 4,
+    "locations": [],
+    "temporals": [],
+    "roles": []
+  },
+  {
+    "name": "Cors",
+    "verbs": {},
+    "adjs": {
+      "Sir Sir": 1,
+      "sad": 1
+    },
+    "positiveSentimentCount": 0,
+    "negativeSentimentCount": 1,
+    "veryPositiveSentimentCount": 0,
+    "veryNegativeSentimentCount": 0,
+    "quote": null,
+    "personality": null,
+    "frequency": 1,
+    "locations": [],
+    "temporals": [],
+    "roles": []
+  },
+  {
+    "name": "Percivale",
+    "verbs": {
+      "come": 1
+    },
+    "adjs": {
+      "Sir Galahad Sir": 1
+    },
+    "positiveSentimentCount": 0,
+    "negativeSentimentCount": 1,
+    "veryPositiveSentimentCount": 0,
+    "veryNegativeSentimentCount": 0,
+    "quote": null,
+    "personality": null,
+    "frequency": 1,
+    "locations": [],
+    "temporals": [],
+    "roles": []
+  },
+  {
+    "name": "Bors",
+    "verbs": {
+      "go": 1,
+      "come": 1
+    },
+    "adjs": {
+      "Sir": 2
+    },
+    "positiveSentimentCount": 0,
+    "negativeSentimentCount": 2,
+    "veryPositiveSentimentCount": 0,
+    "veryNegativeSentimentCount": 0,
+    "quote": null,
+    "personality": null,
+    "frequency": 2,
+    "locations": [
+      "Camelot"
+    ],
+    "temporals": [],
+    "roles": []
+  },
+  {
+    "name": "Gawain",
+    "verbs": {
+      "die": 2,
+      "go": 1,
+      "speak": 1
+    },
+    "adjs": {
+      "Sir": 4
+    },
+    "positiveSentimentCount": 2,
+    "negativeSentimentCount": 4,
+    "veryPositiveSentimentCount": 0,
+    "veryNegativeSentimentCount": 0,
+    "quote": null,
+    "personality": null,
+    "frequency": 8,
+    "locations": [
+      "France"
+    ],
+    "temporals": [],
+    "roles": []
+  },
+  {
+    "name": "Sir Mordred",
+    "verbs": {
+      "come": 1,
+      "stand": 1,
+      "look": 1
+    },
+    "adjs": {
+      "evil": 2
+    },
+    "positiveSentimentCount": 2,
+    "negativeSentimentCount": 5,
+    "veryPositiveSentimentCount": 0,
+    "veryNegativeSentimentCount": 0,
+    "quote": null,
+    "personality": null,
+    "frequency": 13,
+    "locations": [
+      "Camelot",
+      "London",
+      "Mordred"
+    ],
+    "temporals": [],
+    "roles": []
+  },
+  {
+    "name": "Lucan",
+    "verbs": {
+      "take": 1,
+      "die": 2
+    },
+    "adjs": {
+      "Sir": 2
+    },
+    "positiveSentimentCount": 0,
+    "negativeSentimentCount": 5,
+    "veryPositiveSentimentCount": 0,
+    "veryNegativeSentimentCount": 0,
+    "quote": null,
+    "personality": null,
+    "frequency": 5,
+    "locations": [],
+    "temporals": [],
+    "roles": []
+  },
+  {
+    "name": "Bedivere",
+    "verbs": {
+      "take": 2,
+      "throw": 1,
+      "tell": 1,
+      "go": 2,
+      "say": 2,
+      "brave": 1,
+      "carry": 1,
+      "cry": 1,
+      "stand": 1,
+      "put": 3
+    },
+    "adjs": {
+      "time": 1,
+      "Sir": 8
+    },
+    "positiveSentimentCount": 1,
+    "negativeSentimentCount": 12,
+    "veryPositiveSentimentCount": 0,
+    "veryNegativeSentimentCount": 0,
+    "quote": "I  know  these  faces.I  knew  these  ladies  when  they lived.Now they are dead,but I remember them. \n I will do it now. \n Oh my King!I am very sorry \n I saw the water, the sky and the stones.Then the sword fell into the lake \n I cannot throw this sword into the water.I want to have it.Then I will always remember King Arthur. \n ,,,,,",
+    "personality": {
+      "openness": 3.4127721787575966,
+      "agreeableness": 1.3786669682570682,
+      "extroversion": 2.0065647075982076,
+      "neuroticism": 1.792996631012271,
+      "conscientiousness": 2.2938280692083133
+    },
+    "frequency": 15,
+    "locations": [],
+    "temporals": [],
+    "roles": []
+  }
+]

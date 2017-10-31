@@ -1,0 +1,315 @@
+[
+  {
+    "name": "Socrates",
+    "adj": [
+      "central figure",
+      "pupil",
+      "favorite",
+      "attracted",
+      "not able",
+      "young man",
+      "main character",
+      "witty",
+      "stock character",
+      "President of the Athenian Senate",
+      "influential"
+    ],
+    "verb": [
+      "left",
+      "become",
+      "give up",
+      "credit",
+      "claime",
+      "state",
+      "seem",
+      "live",
+      "reply",
+      "move",
+      "attend",
+      "go",
+      "charge",
+      "turn down",
+      "explain",
+      "decide",
+      "find",
+      "go",
+      "discover",
+      "spend",
+      "separate",
+      "believe",
+      "go",
+      "fight",
+      "serve",
+      "rescue",
+      "have",
+      "oppose",
+      "choose",
+      "avoid",
+      "refuse",
+      "argue",
+      "stay",
+      "call",
+      "criticize",
+      "continue",
+      "create",
+      "annoy",
+      "suffer",
+      "prevent",
+      "wrong",
+      "give",
+      "choose",
+      "suggest",
+      "rule out",
+      "offer"
+    ],
+    "location": [
+      "Athens",
+      "Athenian military",
+      "Agora",
+      "Potidaea",
+      "Amphipolis",
+      "Delium"
+    ],
+    "personality": "",
+    "sentiment": "positive"
+  },
+  {
+    "name": "Sophroniscus",
+    "adj": [
+      "sculptor",
+      "stone-mason"
+    ],
+    "verb": [
+    ],
+    "location": [
+      ""
+    ],
+    "personality": "",
+    "sentiment": ""
+  },
+  {
+    "name": "Phaenarete",
+    "adj": [
+      "midwife"
+    ],
+    "verb": [
+    ],
+    "location": [
+    ],
+    "personality": "",
+    "sentiment": ""
+  },
+  {
+    "name": "Crito",
+    "adj": [
+      "wealthy Athenian"
+    ],
+    "verb": [
+      "take",
+      "pay"
+    ],
+    "location": [
+    ],
+    "personality": "",
+    "sentiment": "positive"
+  },
+  {
+    "name": "Anaxagoras",
+    "adj": [
+    ],
+    "verb": [
+    ],
+    "location": [
+      "Athens"
+    ],
+    "personality": "",
+    "sentiment": "positive"
+  },
+  {
+    "name": "Archelaus",
+    "adj": [
+      "physicist"
+    ],
+    "verb": [
+    ],
+    "location": [
+    ],
+    "personality": "",
+    "sentiment": "positive"
+  },
+  {
+    "name": "Aspasia",
+    "adj": [
+      "author"
+    ],
+    "verb": [
+      "teach"
+    ],
+    "location": [
+    ],
+    "personality": "",
+    "sentiment": "positive"
+  },
+  {
+    "name": "Diotima of Mantineia",
+    "adj": [
+    ],
+    "verb": [
+      "instruct"
+    ],
+    "location": [
+    ],
+    "personality": "",
+    "sentiment": "positive"
+  },
+  {
+    "name": "Xanthippe",
+    "adj": [
+      "wife",
+      "best know",
+      "younger",
+      "overwhelmed"
+    ],
+    "verb": [
+      "share",
+      "sit",
+      "become"
+    ],
+    "location": [
+    ],
+    "personality": "",
+    "sentiment": "positive"
+  },
+  {
+    "name": "Chaerephon",
+    "adj": [
+      "leader of the democratic party"
+    ],
+    "verb": [
+      "go"
+    ],
+    "location": [
+      "Athens",
+      "Delphic oracle"
+    ],
+    "personality": "",
+    "sentiment": "positive"
+  },
+  {
+    "name": "Aristophanes",
+    "adj": [
+    ],
+    "verb": [
+      "know"
+    ],
+    "location": [
+    ],
+    "personality": "",
+    "sentiment": "positive"
+  },
+  {
+    "name": "Xenophon",
+    "adj": [
+      "successful military man"
+    ],
+    "verb": [
+      "see",
+      "write"
+    ],
+    "location": [
+    ],
+    "personality": "",
+    "sentiment": "positive"
+  },
+  {
+    "name": "Plato",
+    "adj": [
+      "brilliant writer",
+      "original writer",
+      "great philosopher"
+    ],
+    "verb": [
+      "take",
+      "turn"
+    ],
+    "location": [
+    ],
+    "personality": "",
+    "sentiment": "positive"
+  },
+  {
+    "name": "Aristotle",
+    "adj": [
+      "most famous student"
+    ],
+    "verb": [
+      "meet",
+      "say"
+    ],
+    "location": [
+    ],
+    "personality": "",
+    "sentiment": "positive"
+  },
+  {
+    "name": "Alcibiades",
+    "adj": [
+      "wounded pupil",
+      "egotistical",
+      "unstable",
+      "favorite student",
+      "Brilliant",
+      "handsome",
+      "rich"
+    ],
+    "verb": [
+      "convince",
+      "reach",
+      "fled",
+      "reveal",
+      "further",
+      "hope",
+      "seduce",
+      "loose"
+    ],
+    "location": [
+      "Italy",
+      "Athens",
+      "Persia",
+      "Turkey"
+    ],
+    "personality": "",
+    "sentiment": "negative"
+  },
+  {
+    "name": "Critias",
+    "adj": [
+    ],
+    "verb": [
+      "convince",
+      "order",
+      "live",
+      "murder",
+      "think",
+      "call"
+    ],
+    "location": [
+    ],
+    "personality": "",
+    "sentiment": "very negative"
+  },
+  {
+    "name": "Charmides",
+    "adj": [
+    ],
+    "verb": [
+      "live",
+      "murder",
+      "call"
+    ],
+    "location": [
+    ],
+    "personality": "",
+    "sentiment": "negative"
+  }
+]

@@ -1,0 +1,116 @@
+{
+  "profileNames": [
+    "Trump",
+    "Peter Baker",
+    "Arabella",
+    "BAKER",
+    "Hillary Clinton",
+    "Obama",
+    "Hillarycare",
+    "HABERMAN",
+    "SCHMIDT",
+    "McCain",
+    "Emmanuel Macron",
+    "Merkel",
+    "Hitler",
+    "Lagarde",
+    "Abe -LSB- Shinzo Abe",
+    "Melania",
+    "Mattis",
+    "Keith -LSB- Schiller",
+    "James B. Comey",
+    "F.B.I.",
+    "Mueller",
+    "Jeff",
+    "Rod J. -RSB- Rosenstein",
+    "Rod Rosenstein",
+    "Flynn",
+    "Richard Nixon"
+  ],
+  "chapters": [
+    {
+      "chapterIndex": 1,
+      "profiles": {
+        "Melania": {},
+        "Arabella": {
+          "granddaughter": 1
+        },
+        "F.B.I.": {},
+        "Richard Nixon": {},
+        "James B. Comey": {},
+        "Hillarycare": {},
+        "Abe -LSB- Shinzo Abe": {
+          "Minister Prime": 1
+        },
+        "Rod J. -RSB- Rosenstein": {
+          "General Attorney Deputy": 1
+        },
+        "Keith -LSB- Schiller": {},
+        "BAKER": {
+          "_________ O.K.": 1,
+          "curious": 1,
+          "_________": 1,
+          "impressive": 1,
+          "Good": 1,
+          "great": 1
+        },
+        "Hitler": {},
+        "Lagarde": {
+          "Christine": 1
+        },
+        "Peter Baker": {},
+        "Flynn": {
+          "good": 1
+        },
+        "McCain": {
+          "Senator": 1
+        },
+        "Mueller": {
+          "S. Robert": 1,
+          "III": 1
+        },
+        "Hillary Clinton": {
+          "Cash": 2,
+          "worse": 1
+        },
+        "Obama": {
+          "administration": 1
+        },
+        "Rod Rosenstein": {},
+        "Emmanuel Macron": {
+          "President": 1,
+          "Mr.": 1
+        },
+        "Mattis": {
+          "Jim Secretary Defense": 1,
+          "Secretary Defense": 1
+        },
+        "Trump": {
+          "President": 1,
+          "Mr.": 3,
+          "adviser": 1
+        },
+        "SCHMIDT": {
+          "red line": 1,
+          "_________": 2
+        },
+        "Merkel": {
+          "Chancellor": 2,
+          "Angela Chancellor": 1
+        },
+        "HABERMAN": {
+          "beautiful": 1,
+          "Ave. Pennsylvania": 1,
+          "deferential": 1,
+          "_________": 1,
+          "broad": 1,
+          "crowded": 1,
+          "garbled": 1
+        },
+        "Jeff": {
+          "General Attorney": 1
+        }
+      }
+    }
+  ]
+}

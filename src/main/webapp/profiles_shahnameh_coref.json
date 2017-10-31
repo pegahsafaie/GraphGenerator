@@ -1,0 +1,581 @@
+[
+  {
+    "name": "Rustam",
+    "verbs": {
+      "prepare": 1,
+      "inform": 1,
+      "reach": 1,
+      "maintain": 1,
+      "tell": 1,
+      "let off": 1,
+      "bring": 1,
+      "set off": 2,
+      "feel": 1,
+      "decide": 1,
+      "scream": 1,
+      "narrate": 1,
+      "leave": 1,
+      "speed off": 1,
+      "silence": 1,
+      "reply": 1,
+      "get back": 1,
+      "give": 3,
+      "instruct": 1,
+      "lay": 1,
+      "come": 1,
+      "agree": 1,
+      "accept": 1,
+      "take": 1,
+      "topple": 1,
+      "spot": 1,
+      "blame": 1,
+      "send": 2,
+      "renown": 1,
+      "request": 2,
+      "deal": 1,
+      "ascend": 1,
+      "not return": 1,
+      "seem": 1,
+      "remind": 1,
+      "see": 1,
+      "get": 1,
+      "go off": 1,
+      "have": 1,
+      "sit": 1,
+      "jerk away": 1,
+      "go": 1,
+      "start": 1,
+      "stay": 1,
+      "hide": 2,
+      "not face": 1,
+      "realise": 2,
+      "meet": 1,
+      "laud": 1,
+      "ask": 4,
+      "reinvigorate": 1,
+      "describe": 1,
+      "return": 1
+    },
+    "adjs": {
+      "other": 1,
+      "a servant of the king": 1,
+      "jubilant": 1,
+      "the only person who could contain the might of sohrab and save the iranians": 1,
+      "the king of Zabulistan": 1,
+      "great": 3,
+      "not able": 1,
+      "firm": 1,
+      "anguished": 1,
+      "not willing": 1,
+      "the grandson of zal": 1,
+      "not ready": 1,
+      "his son": 2,
+      "furious": 1
+    },
+    "positiveSentimentCount": 13,
+    "negativeSentimentCount": 98,
+    "veryPositiveSentimentCount": 0,
+    "veryNegativeSentimentCount": 0,
+    "quote": null,
+    "personality": null,
+    "frequency": 105,
+    "locations": [
+      "Zabulistan",
+      "Iran",
+      "Samangan",
+      "Gazdam",
+      "Turkistan",
+      "Sapid",
+      "China"
+    ],
+    "temporals": [
+      "night",
+      "now",
+      "the following day",
+      "The following day",
+      "once",
+      "the day",
+      "the next day",
+      "evening"
+    ],
+    "roles": []
+  },
+  {
+    "name": "Rakhsh",
+    "verbs": {},
+    "adjs": {},
+    "positiveSentimentCount": 0,
+    "negativeSentimentCount": 4,
+    "veryPositiveSentimentCount": 0,
+    "veryNegativeSentimentCount": 0,
+    "quote": null,
+    "personality": null,
+    "frequency": 2,
+    "locations": [],
+    "temporals": [],
+    "roles": []
+  },
+  {
+    "name": "Tehmina",
+    "verbs": {
+      "lapse": 1,
+      "don": 1,
+      "pass": 1,
+      "destroy": 1
+    },
+    "adjs": {
+      "beautiful": 1,
+      "unable": 1,
+      "wise": 2,
+      "the mother of Sohrab": 1,
+      "lifeless lump": 1,
+      "the young mother of sohrab": 1
+    },
+    "positiveSentimentCount": 2,
+    "negativeSentimentCount": 15,
+    "veryPositiveSentimentCount": 0,
+    "veryNegativeSentimentCount": 0,
+    "quote": null,
+    "personality": null,
+    "frequency": 10,
+    "locations": [
+      "Samangan"
+    ],
+    "temporals": [
+      "now"
+    ],
+    "roles": []
+  },
+  {
+    "name": "Sohrab",
+    "verbs": {
+      "request": 1,
+      "not reveal": 1,
+      "survive": 1,
+      "tell": 1,
+      "sob": 1,
+      "go": 1,
+      "capture": 1,
+      "feel": 2,
+      "decide": 1,
+      "gather": 1,
+      "appeal": 1,
+      "grieve": 1,
+      "call": 1,
+      "narrate": 1,
+      "take": 2,
+      "see": 1,
+      "realise": 1,
+      "bubble": 1,
+      "ask": 2,
+      "create": 1,
+      "challenge": 1,
+      "thrust": 1,
+      "enter": 1,
+      "return": 1
+    },
+    "adjs": {
+      "next": 1,
+      "the son of the world": 1,
+      "a very small warrior in comparison": 1,
+      "unstoppable": 1
+    },
+    "positiveSentimentCount": 8,
+    "negativeSentimentCount": 49,
+    "veryPositiveSentimentCount": 0,
+    "veryNegativeSentimentCount": 0,
+    "quote": null,
+    "personality": null,
+    "frequency": 36,
+    "locations": [
+      "Iran",
+      "Turkistan",
+      "Zabulistan",
+      "Gazdam",
+      "Sapid",
+      "Rodabeh",
+      "Samangan"
+    ],
+    "temporals": [
+      "The next morning",
+      "now",
+      "the following day",
+      "The following day",
+      "once",
+      "the next day"
+    ],
+    "roles": []
+  },
+  {
+    "name": "Zal",
+    "verbs": {
+      "break down": 1
+    },
+    "adjs": {},
+    "positiveSentimentCount": 1,
+    "negativeSentimentCount": 1,
+    "veryPositiveSentimentCount": 0,
+    "veryNegativeSentimentCount": 0,
+    "quote": null,
+    "personality": null,
+    "frequency": 2,
+    "locations": [
+      "Zabulistan",
+      "Rodabeh"
+    ],
+    "temporals": [],
+    "roles": []
+  },
+  {
+    "name": "Sam",
+    "verbs": {},
+    "adjs": {},
+    "positiveSentimentCount": 3,
+    "negativeSentimentCount": 6,
+    "veryPositiveSentimentCount": 0,
+    "veryNegativeSentimentCount": 0,
+    "quote": null,
+    "personality": null,
+    "frequency": 1,
+    "locations": [
+      "Samangan"
+    ],
+    "temporals": [],
+    "roles": []
+  },
+  {
+    "name": "Kae Kaus",
+    "verbs": {},
+    "adjs": {},
+    "positiveSentimentCount": 0,
+    "negativeSentimentCount": 13,
+    "veryPositiveSentimentCount": 0,
+    "veryNegativeSentimentCount": 0,
+    "quote": null,
+    "personality": null,
+    "frequency": 14,
+    "locations": [
+      "Iran",
+      "Gazdam",
+      "Sapid",
+      "Keshvad",
+      "Gurgin"
+    ],
+    "temporals": [
+      "once"
+    ],
+    "roles": []
+  },
+  {
+    "name": "Afrasiyab",
+    "verbs": {
+      "receive": 1
+    },
+    "adjs": {
+      "treacherous": 1
+    },
+    "positiveSentimentCount": 0,
+    "negativeSentimentCount": 3,
+    "veryPositiveSentimentCount": 0,
+    "veryNegativeSentimentCount": 0,
+    "quote": null,
+    "personality": null,
+    "frequency": 1,
+    "locations": [
+      "Iran",
+      "Gazdam",
+      "Sapid"
+    ],
+    "temporals": [],
+    "roles": []
+  },
+  {
+    "name": "Nariman",
+    "verbs": {},
+    "adjs": {},
+    "positiveSentimentCount": 0,
+    "negativeSentimentCount": 1,
+    "veryPositiveSentimentCount": 0,
+    "veryNegativeSentimentCount": 0,
+    "quote": null,
+    "personality": null,
+    "frequency": 1,
+    "locations": [],
+    "temporals": [],
+    "roles": []
+  },
+  {
+    "name": "Hazir",
+    "verbs": {
+      "identify": 1
+    },
+    "adjs": {
+      "the culprit behind this tragedy": 1,
+      "the commander of the fort of sapid whom he had imprisoned": 1,
+      "son of Gudarz , who was the custodian of the fort": 1
+    },
+    "positiveSentimentCount": 1,
+    "negativeSentimentCount": 8,
+    "veryPositiveSentimentCount": 0,
+    "veryNegativeSentimentCount": 0,
+    "quote": null,
+    "personality": null,
+    "frequency": 9,
+    "locations": [
+      "China"
+    ],
+    "temporals": [],
+    "roles": []
+  },
+  {
+    "name": "Gudarz",
+    "verbs": {
+      "tell": 1,
+      "ask": 1,
+      "try": 1,
+      "agree": 1,
+      "send": 1,
+      "return": 1
+    },
+    "adjs": {
+      "senior": 1,
+      "cool": 1
+    },
+    "positiveSentimentCount": 1,
+    "negativeSentimentCount": 13,
+    "veryPositiveSentimentCount": 0,
+    "veryNegativeSentimentCount": 0,
+    "quote": null,
+    "personality": null,
+    "frequency": 11,
+    "locations": [
+      "Gazdam",
+      "Keshvad",
+      "Gurgin",
+      "Iran"
+    ],
+    "temporals": [
+      "once",
+      "now"
+    ],
+    "roles": []
+  },
+  {
+    "name": "Gazdam",
+    "verbs": {
+      "indicate": 1
+    },
+    "adjs": {},
+    "positiveSentimentCount": 0,
+    "negativeSentimentCount": 4,
+    "veryPositiveSentimentCount": 0,
+    "veryNegativeSentimentCount": 0,
+    "quote": null,
+    "personality": null,
+    "frequency": 3,
+    "locations": [
+      "Gazdam",
+      "Sapid",
+      "Iran",
+      "Keshvad",
+      "Gurgin",
+      "Zabulistan"
+    ],
+    "temporals": [
+      "night",
+      "now"
+    ],
+    "roles": []
+  },
+  {
+    "name": "Giv",
+    "verbs": {
+      "give": 1,
+      "not wait": 1,
+      "reach": 1,
+      "ask": 1,
+      "set off": 1,
+      "remind": 1
+    },
+    "adjs": {
+      "a servant of the king to go at his beck and call": 1
+    },
+    "positiveSentimentCount": 1,
+    "negativeSentimentCount": 12,
+    "veryPositiveSentimentCount": 0,
+    "veryNegativeSentimentCount": 0,
+    "quote": null,
+    "personality": null,
+    "frequency": 7,
+    "locations": [
+      "Gazdam",
+      "Keshvad",
+      "Gurgin",
+      "Zabulistan"
+    ],
+    "temporals": [],
+    "roles": []
+  },
+  {
+    "name": "Behram",
+    "verbs": {},
+    "adjs": {},
+    "positiveSentimentCount": 0,
+    "negativeSentimentCount": 1,
+    "veryPositiveSentimentCount": 0,
+    "veryNegativeSentimentCount": 0,
+    "quote": null,
+    "personality": null,
+    "frequency": 1,
+    "locations": [
+      "Gazdam",
+      "Keshvad",
+      "Gurgin"
+    ],
+    "temporals": [],
+    "roles": []
+  },
+  {
+    "name": "Farhad",
+    "verbs": {},
+    "adjs": {},
+    "positiveSentimentCount": 0,
+    "negativeSentimentCount": 1,
+    "veryPositiveSentimentCount": 0,
+    "veryNegativeSentimentCount": 0,
+    "quote": null,
+    "personality": null,
+    "frequency": 1,
+    "locations": [
+      "Gazdam",
+      "Keshvad",
+      "Gurgin"
+    ],
+    "temporals": [],
+    "roles": []
+  },
+  {
+    "name": "Toos",
+    "verbs": {
+      "approach": 1
+    },
+    "adjs": {
+      "great": 1
+    },
+    "positiveSentimentCount": 0,
+    "negativeSentimentCount": 4,
+    "veryPositiveSentimentCount": 0,
+    "veryNegativeSentimentCount": 0,
+    "quote": null,
+    "personality": null,
+    "frequency": 3,
+    "locations": [
+      "Gazdam",
+      "Keshvad",
+      "Gurgin"
+    ],
+    "temporals": [],
+    "roles": []
+  },
+  {
+    "name": "Homan",
+    "verbs": {
+      "see": 1,
+      "deliver": 1,
+      "put": 1
+    },
+    "adjs": {
+      "the Turanian commander": 1
+    },
+    "positiveSentimentCount": 1,
+    "negativeSentimentCount": 7,
+    "veryPositiveSentimentCount": 0,
+    "veryNegativeSentimentCount": 0,
+    "quote": null,
+    "personality": null,
+    "frequency": 7,
+    "locations": [
+      "Samangan"
+    ],
+    "temporals": [],
+    "roles": []
+  },
+  {
+    "name": "Zindeh-razam",
+    "verbs": {
+      "fail": 1,
+      "see": 2,
+      "be": 1,
+      "not return": 1,
+      "try": 1
+    },
+    "adjs": {
+      "maternal": 1
+    },
+    "positiveSentimentCount": 0,
+    "negativeSentimentCount": 5,
+    "veryPositiveSentimentCount": 0,
+    "veryNegativeSentimentCount": 0,
+    "quote": null,
+    "personality": null,
+    "frequency": 1,
+    "locations": [
+      "Samangan"
+    ],
+    "temporals": [],
+    "roles": []
+  },
+  {
+    "name": "Zavareh",
+    "verbs": {
+      "inform": 1,
+      "return": 1
+    },
+    "adjs": {},
+    "positiveSentimentCount": 0,
+    "negativeSentimentCount": 2,
+    "veryPositiveSentimentCount": 0,
+    "veryNegativeSentimentCount": 0,
+    "quote": null,
+    "personality": null,
+    "frequency": 2,
+    "locations": [],
+    "temporals": [],
+    "roles": []
+  },
+  {
+    "name": "Gastaham",
+    "verbs": {},
+    "adjs": {},
+    "positiveSentimentCount": 0,
+    "negativeSentimentCount": 1,
+    "veryPositiveSentimentCount": 0,
+    "veryNegativeSentimentCount": 0,
+    "quote": null,
+    "personality": null,
+    "frequency": 1,
+    "locations": [],
+    "temporals": [],
+    "roles": []
+  },
+  {
+    "name": "Rodabeh",
+    "verbs": {
+      "break down": 1
+    },
+    "adjs": {},
+    "positiveSentimentCount": 0,
+    "negativeSentimentCount": 1,
+    "veryPositiveSentimentCount": 0,
+    "veryNegativeSentimentCount": 0,
+    "quote": null,
+    "personality": null,
+    "frequency": 1,
+    "locations": [
+      "Zabulistan",
+      "Rodabeh"
+    ],
+    "temporals": [],
+    "roles": []
+  }
+]

@@ -1,0 +1,179 @@
+body {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	/* This removes the border around the viewport in old versions of IE */
+	width: 100%;
+	background: #fff;
+	min-width: 600px;
+	/* Minimum width of layout - remove line if not required */
+	/* The min-width property does not work in old versions of Internet Explorer */
+	font-size: 90%;
+}
+
+
+.loader {
+	z-index:999;
+    border: 16px solid #f3f3f3; /* Light grey */
+    border-top: 16px solid #3498db; /* Blue */
+    border-radius: 50%;
+    width: 120px;
+    height: 120px;
+    animation: spin 2s linear infinite;
+}
+
+@keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+}
+
+a {
+	color: #369;
+}
+
+a:hover {
+	color: #fff;
+	background: #f4f4f4;
+	text-decoration: none;
+}
+
+h1, h2, h3 {
+	margin: .8em 0 .2em 0;
+	padding: 0;
+}
+
+p {
+	margin: .4em 0 .8em 0;
+	padding: 0;
+}
+
+img {
+	margin: 10px 0 5px;
+}
+
+#ads img {
+	display: block;
+	padding-top: 10px;
+}
+
+/* Header styles */
+#header {
+	clear: both;
+	float: left;
+	width: 100%;
+}
+
+#header p, #header h1, #header h2 {
+	padding: .4em 15px 0 15px;
+	margin: 0;
+}
+
+/* 'widths' sub menu */
+#layoutdims {
+	clear: both;
+	background: #eee;
+	border-top: 4px solid #000;
+	margin: 0;
+	padding: 6px 15px !important;
+	text-align: right;
+}
+/* column container */
+.colmask {
+	position: relative; /* This fixes the IE7 overflow hidden bug */
+	clear: both;
+	float: left;
+	width: 100%; /* width of whole page */
+	overflow: hidden; /* This chops off any overhanging divs */
+}
+/* common column settings */
+.colright, .colmid, .colleft {
+	float: left;
+	width: 100%;
+	position: relative;
+}
+
+.col1, .col2 {
+	float: left;
+	position: relative;
+	padding: 0 0 1em 0;
+	height : 550px;
+}
+/* 2 Column (left menu) settings */
+.leftmenu {
+	background: #fff; /* right column background colour */
+	
+}
+
+.leftmenu .colleft {
+	right: 75%; /* right column width */
+	background: #f4f4f4; /* left column background colour */
+}
+
+.leftmenu .col1 {
+	width: 71%; /* right column content width */
+	left: 102%; /* 100% plus left column left padding */
+	overflow: auto;
+}
+
+.leftmenu .col2 {
+	width: 21%;
+	/* left column content width (column width minus left and right padding) */
+	left: 6%;
+	/* (right column left and right padding) plus (left column left padding) */
+}
+/* Footer styles */
+#footer {
+	clear: both;
+	float: left;
+	width: 100%;
+	border-top: 1px solid #000;
+}
+
+#footer p {
+	padding: 10px;
+	margin: 0;
+}
+
+.tabs-menu {
+	line-height: 24px;
+	font-size: 11px;
+	border-top: 2px solid #e8e07f;
+	height: 25px;
+	text-transform: uppercase;
+	position: fixed;
+	bottom: 0;
+	right: 0;
+	width: 71%;
+	text-align: center;
+}
+
+.tabs-menu a {
+	display: inline-block;
+	font: normal 12px sans-serif;
+	width: 100px;
+	height: 24px;
+	color: #fff;
+	border-radius: 2px;
+	line-height: 24px;
+	text-align: center;
+	background: #6caee0;
+	box-shadow: 1px 2px 4px 0 rgba(0, 0, 0, 0.08);
+	text-transform: uppercase;
+	text-decoration: none;
+}
+
+.tabs-menu a.current {
+	z-index: 5;
+}
+
+
+#tab-matrix {
+	display: block;
+}
+
+.center {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+

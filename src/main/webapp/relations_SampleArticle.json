@@ -1,0 +1,174 @@
+[
+  {
+    "profileNames": [
+      "Ayatollah Khomeini",
+      "Fadaiyan"
+    ],
+    "frequency": 1,
+    "typeName": {
+      "friendship": "friend"
+    }
+  },
+  {
+    "profileNames": [
+      "Ali Jafari",
+      "Bagher Ghalibaf",
+      "Khamenei",
+      "Khatami",
+      "Khomeini",
+      "Mohammad",
+      "Mohammad Khatami",
+      "Qasem Soleimani",
+      "Rafsanjani"
+    ],
+    "frequency": 1,
+    "typeName": {
+      "friendship": "enemy"
+    }
+  },
+  {
+    "profileNames": [
+      "Behzad Nabavi",
+      "Mashallah Shamsolvaezin",
+      "Mir-Hossein Mousavi",
+      "Mohammad Khatami",
+      "Mohammad-Reza Khatami",
+      "Mohsen Aminzadeh",
+      "Mohsen Mirdamadi",
+      "Mostafa Tajzadeh"
+    ],
+    "frequency": 1,
+    "typeName": {
+      "family": "brother"
+    }
+  },
+  {
+    "profileNames": [
+      "Ayatollah",
+      "Khamenei",
+      "Saeed Mortazavi",
+      "Saeed Mortazavi"
+    ],
+    "frequency": 1,
+    "typeName": {
+      "family": "son"
+    }
+  },
+  {
+    "profileNames": [
+      "Saeed Mortazavi",
+      "Saeed Mortazavi",
+      "Saeed Mortazavi"
+    ],
+    "frequency": 1,
+    "typeName": {
+      "family": "father"
+    }
+  },
+  {
+    "profileNames": [
+      "Abdolfattah Soltani",
+      "Shirin Ebadi"
+    ],
+    "frequency": 1,
+    "typeName": {
+      "enemy": "lie"
+    }
+  },
+  {
+    "profileNames": [
+      "Amir Sadeghi",
+      "Amir Sadeghi"
+    ],
+    "frequency": 1,
+    "typeName": {
+      "enemy": "lie"
+    }
+  },
+  {
+    "profileNames": [
+      "Maziar Bahari",
+      "Maziar Bahari"
+    ],
+    "frequency": 1,
+    "typeName": {
+      "family": "son"
+    }
+  },
+  {
+    "profileNames": [
+      "Ali Fazli",
+      "Khamenei",
+      "Maziar Bahari"
+    ],
+    "frequency": 1,
+    "typeName": {
+      "enemy": "force"
+    }
+  },
+  {
+    "profileNames": [
+      "Masoud Hashemzadeh",
+      "Mohammad Kamrani",
+      "Naser Amirnejad",
+      "Sohrab Aarabi"
+    ],
+    "frequency": 1,
+    "typeName": {
+      "enemy": "force"
+    }
+  },
+  {
+    "profileNames": [
+      "Karroubi",
+      "Mousavi",
+      "Sohrab Aarabi",
+      "Sohrab Aarabi"
+    ],
+    "frequency": 1,
+    "typeName": {
+      "enemy": "lie"
+    }
+  },
+  {
+    "profileNames": [
+      "Ali Larijani",
+      "Mehdi Karroubi"
+    ],
+    "frequency": 1,
+    "typeName": {
+      "family": "son"
+    }
+  },
+  {
+    "profileNames": [
+      "Azar Al-Kanan",
+      "Reza Allamehzadeh"
+    ],
+    "frequency": 1,
+    "typeName": {
+      "family": "son"
+    }
+  },
+  {
+    "profileNames": [
+      "Fereshteh Ghazi",
+      "Fereshteh Ghazi"
+    ],
+    "frequency": 1,
+    "typeName": {
+      "family": "son"
+    }
+  },
+  {
+    "profileNames": [
+      "John Simpson",
+      "John Simpson",
+      "RAI"
+    ],
+    "frequency": 1,
+    "typeName": {
+      "family": "son"
+    }
+  }
+]

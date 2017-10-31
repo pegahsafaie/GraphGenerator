@@ -1,0 +1,27 @@
+ {
+   "$id": "http://example.com/example.json", 
+   "$schema": "http://json-schema.org/draft-06/schema#", 
+   "definitions": {}, 
+   "items": {
+     "$id": "/items", 
+     "properties": {
+       "name": {
+         "$id": "/items/properties/name", 
+         "title": "The Name Schema.", 
+         "type": "string"
+       }, 
+       "quotes": {
+         "$id": "/items/properties/quotes", 
+         "items": {
+           "$id": "/items/properties/quotes/items", 
+           "title": "The 0 Schema.", 
+           "type": "string"
+         }, 
+         "type": "array"
+       }
+     }, 
+     "type": "object"
+   }, 
+   "type": "array"
+ }
+

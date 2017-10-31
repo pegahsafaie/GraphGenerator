@@ -1,0 +1,437 @@
+[
+  {
+    "name": "Mahmoud Ahmadinejad",
+    "adj": [
+      "Iranian President",
+      "incumbent President",
+      "Tehran Mayor"
+    ],
+    "verb": [
+      "win",
+      "claim",
+      "call",
+      "focus",
+      "begin",
+      "respond"
+    ],
+    "location": [
+      "Iran",
+      "Tehran"
+    ],
+    "personality": "",
+    "sentiment": "negative"
+  },
+  {
+    "name": "Mir-Hossein Mousavi",
+    "adj": [
+      "opposition candidates"
+    ],
+    "verb": [
+      "claime",
+      "lodge",
+      "announced",
+      "visit",
+      "lodge"
+    ],
+    "location": [
+      "Iran"
+    ],
+    "personality": "",
+    "sentiment": "positive"
+  },
+  {
+    "name": "Mehdi Karroubi",
+    "adj": [
+      "opposition candidates",
+      "Former chairman of Iranian parliament"
+    ],
+    "verb": [
+      "claim",
+      "state",
+      "ask",
+      "call",
+      "visit"
+    ],
+    "location": [
+      "Iran"
+    ],
+    "personality": "",
+    "sentiment": "positive"
+  },
+  {
+    "name": "Rezaee",
+    "adj": [
+	"opossittion candidates"
+    ],
+    "verb": [
+      "lodging",
+      "lodge"
+    ],
+    "location": [
+    ],
+    "personality": "",
+    "sentiment": "negative"
+  },
+  {
+    "name": "Ayatollah Ali Khamenei",
+    "adj": [
+      "Supreme Leader",
+      "Ayatollah"
+    ],
+    "verb": [
+      "order",
+      "claimed",
+      "escaped",
+      "will",
+      "speak"
+    ],
+    "location": [
+      "Iran",
+      "Tehran"
+    ],
+    "personality": "",
+    "sentiment": "negative"
+  },
+  {
+    "name": "Basij",
+    "adj": [
+      "paramilitary",
+      "auxiliary wing"
+    ],
+    "verb": [
+      "suppressed",
+      "attacked",
+      "destroy"
+    ],
+    "location": [
+    ],
+    "personality": "",
+    "sentiment": "negative"
+  },
+  {
+    "name": "Neda Agha-Soltan",
+    "adj": [
+      "victim",
+      "young Iranian woman"
+    ],
+    "verb": [
+      "die"
+    ],
+    "location": [
+      "Tehran"
+    ],
+    "personality": "",
+    "sentiment": "negative"
+  },
+  {
+    "name": "Ayatollah Khomeini",
+    "adj": [
+      "successor"
+    ],
+    "verb": [
+      "claimed",
+      "declared",
+      "ordered"
+    ],
+    "location": [
+      "Iran",
+      "Iraq"
+    ],
+    "personality": "",
+    "sentiment": "negative"
+  },
+  {
+    "name": "Mojahedin Khalq",
+    "adj": [
+      "Marxist-Islamist"
+    ],
+    "verb": [
+      "oppose"
+    ],
+    "location": [
+    ],
+    "personality": "",
+    "sentiment": "negative"
+  },
+  {
+    "name": "Mohammad Khatami",
+    "adj": [
+      "little-known reformist cleric",
+      "president"
+    ],
+    "verb": [
+      ""
+    ],
+    "location": [
+      "Iran"
+    ],
+    "personality": "",
+    "sentiment": "positive"
+  },
+  {
+    "name": "Rafsanjani",
+    "adj": [
+      "reformist"
+    ],
+    "verb": [
+      "fail"
+    ],
+    "location": [
+      "Iran",
+      "Tehran"
+    ],
+    "personality": "",
+    "sentiment": "positive"
+  },
+  {
+    "name": "Saeed Hajjarian",
+    "adj": [
+      "main theorist behind the movement",
+      "former presidential advisor"
+    ],
+    "verb": [
+      "arrest"
+    ],
+    "location": [
+    ],
+    "personality": "",
+    "sentiment": "negative"
+  },
+  {
+    "name": "Behzad Nabavi",
+    "adj": [
+      "MIRO founder"
+    ],
+    "verb": [
+    ],
+    "location": [
+    ],
+    "personality": "",
+    "sentiment": "negative"
+  },
+  {
+    "name": "Mohsen Mirdamadi",
+    "adj": [
+      "IIPF leader"
+    ],
+    "verb": [
+    ],
+    "location": [
+    ],
+    "personality": "",
+    "sentiment": "negative"
+  },
+  {
+    "name": "Ahmad-Reza Radan",
+    "adj": [
+      "Police Chief"
+    ],
+    "verb": [
+      "stated"
+    ],
+    "location": [
+    ],
+    "personality": "",
+    "sentiment": "negative"
+  },
+  {
+    "name": "Gholam Hossein Mohseni-Ejehei",
+    "adj": [
+      "Intelligence minister"
+    ],
+    "verb": [
+      "linked"
+    ],
+    "location": [
+    ],
+    "personality": "",
+    "sentiment": "negative"
+  },
+  {
+    "name": "Abdolfattah Soltani",
+    "adj": [
+      "Human rights lawyer"
+    ],
+    "verb": [
+      "arrest",
+      "say"
+    ],
+    "location": [
+    ],
+    "personality": "",
+    "sentiment": "positive"
+  },
+  {
+    "name": "Mohammadreza Habibi",
+    "adj": [
+      "prosecutor-general"
+    ],
+    "verb": [
+      "warn"
+    ],
+    "location": [
+      "Esfahan Province"
+    ],
+    "personality": "",
+    "sentiment": "negative"
+  },
+  {
+    "name": "Amir Sadeghi",
+    "adj": [
+      "LIFE Magazine photographer"
+    ],
+    "verb": [
+      "warn"
+    ],
+    "location": [
+    ],
+    "personality": "",
+    "sentiment": "negative"
+  },
+  {
+    "name": "Maziar Bahari",
+    "adj": [
+      "Canadian citizen",
+      "Iranian-born",
+      "Newsweek journalist"
+    ],
+    "verb": [
+      "warn"
+    ],
+    "location": [
+      "Evin Prison"
+    ],
+    "personality": "",
+    "sentiment": "negative"
+  },
+  {
+    "name": "General Ali Fazli",
+    "adj": [
+      "newly appointed commander"
+    ],
+    "verb": [
+      "been arrest"
+    ],
+    "location": [
+    ],
+    "personality": "",
+    "sentiment": "negative"
+  },
+  {
+    "name": "Los Angeles Times",
+    "adj": [
+    ],
+    "verb": [
+      "report"
+    ],
+    "location": [
+    ],
+    "personality": "",
+    "sentiment": "negative"
+  },
+  {
+    "name": "Ali Larijani",
+    "adj": [
+      "Iran's parliament speaker"
+    ],
+    "verb": [
+      "deny"
+    ],
+    "location": [
+    ],
+    "personality": "",
+    "sentiment": "negative"
+  },
+  {
+    "name": "Ismail Ahmadi Moghaddam",
+    "adj": [
+      "Iran's police chief"
+    ],
+    "verb": [
+      "acknowledge"
+    ],
+    "location": [
+    ],
+    "personality": "",
+    "sentiment": "negative"
+  },
+  {
+    "name": "Reza Allamehzadeh",
+    "adj": [
+      "Iranian film maker"
+    ],
+    "verb": [
+      "made"
+    ],
+    "location": [
+    ],
+    "personality": "",
+    "sentiment": "negative"
+  },
+  {
+    "name": "Azar Al-Kanan",
+    "adj": [
+      "prominent Iranian human rights activist",
+      "former political prisoner"
+    ],
+    "verb": [
+      "become"
+    ],
+    "location": [
+    ],
+    "personality": "",
+    "sentiment": "negative"
+  },
+  {
+    "name": "Fereshteh Ghazi",
+    "adj": [
+    ],
+    "verb": [
+      "write",
+      "describe"
+    ],
+    "location": [
+    ],
+    "personality": "",
+    "sentiment": "negative"
+  },
+  {
+    "name": "Al Jazeera English",
+    "adj": [
+    ],
+    "verb": [
+      "reveal"
+    ],
+    "location": [
+    ],
+    "personality": "",
+    "sentiment": "negative"
+  },
+  {
+    "name": "Jef Lambrecht",
+    "adj": [
+      "Belgian national television reporter"
+    ],
+    "verb": [
+      "been arrest",
+      "go"
+    ],
+    "location": [
+      "Tehran"
+    ],
+    "personality": "",
+    "sentiment": "negative"
+  },
+  {
+    "name": "IRGC",
+    "adj": [
+    ],
+    "verb": [
+      "have"
+    ],
+    "location": [
+    ],
+    "personality": "",
+    "sentiment": "negative"
+  }
+]
